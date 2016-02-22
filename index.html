@@ -10,21 +10,39 @@
 </head>
 
 <body>
-<script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+
+<link rel="stylesheet" type="text/css" href="jquery/ui/smoothness/jquery-ui-1.10.4.custom.min.css" />
+
+<script type="text/javascript" src="jquery/jquery-2.1.1.min.js"></script>
 
 <script src='https://code.getmdl.io/1.1.1/material.min.js'></script>
-<form action="#">
+
+<script type="text/javascript" src="jquery/ui/jquery-ui-1.10.4.custom.min.js"></script>
+<script type="text/javascript" src="jquery.wizard.js"></script>
+
 <div class="experiment-layout mdl-layout mdl-layout--fixed-header mdl-js-layout mdl-color--grey-100">
 <div class="experiment-ribbon"></div>
 <main class="experiment-main mdl-layout__content">
 <div class="experiment-container mdl-grid">
 <div class="mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone"></div>
 <div class="experiment-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--8-col">
-<h3>Welcome to this survey. Press <strong>enter</strong> to begin.</h3><br><br><br>
-<h3>Each item of this questionnaire is a statement that a person may either agree with or disagree with.  For each item, indicate how much you agree or disagree with what the item says.  Please respond to all the items; do not leave any blank.  Choose only one response to each statement.  Please be as accurate and honest as you can be.  Respond to each item as if it were the only item.  That is, do not worry about being "consistent" in your responses.</h3><br><br><br>
+
+			<div id="questions">
+
+				<form name="questions">
+					<div class="step">
+<h3>Welcome to this survey. Press <strong>next</strong> to begin.</h3>
+
+					</div>
+
+					<div class="step">
+<h4>Each item of this questionnaire is a statement that a person may either agree with or disagree with.  For each item, indicate how much you agree or disagree with what the item says.  Please respond to all the items; do not leave any blank.  Choose only one response to each statement.  Please be as accurate and honest as you can be.  Respond to each item as if it were the only item.  That is, do not worry about being "consistent" in your responses.</h4>
+					</div>
+
+					<div class="step">
 <p>A person's family is the most important thing in life.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_2_0">
-<input type="radio" id="option-bis_bas_2_0" class="mdl-radio__button" name="bis_bas_2_options" value="4" checked>
+<input type="radio" id="option-bis_bas_2_0" class="mdl-radio__button" name="bis_bas_2_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_2_1">
@@ -41,7 +59,7 @@
 </label><br><br><br>
 <p>Even if something bad is about to happen to me, I rarely experience fear or nervousness.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_3_0">
-<input type="radio" id="option-bis_bas_3_0" class="mdl-radio__button" name="bis_bas_3_options" value="1" checked>
+<input type="radio" id="option-bis_bas_3_0" class="mdl-radio__button" name="bis_bas_3_options" value="1" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_3_1">
@@ -58,7 +76,7 @@
 </label><br><br><br>
 <p>I go out of my way to get things I want.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_4_0">
-<input type="radio" id="option-bis_bas_4_0" class="mdl-radio__button" name="bis_bas_4_options" value="4" checked>
+<input type="radio" id="option-bis_bas_4_0" class="mdl-radio__button" name="bis_bas_4_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_4_1">
@@ -75,7 +93,7 @@
 </label><br><br><br>
 <p>When I am doing well at something I love to keep at it.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_5_0">
-<input type="radio" id="option-bis_bas_5_0" class="mdl-radio__button" name="bis_bas_5_options" value="4" checked>
+<input type="radio" id="option-bis_bas_5_0" class="mdl-radio__button" name="bis_bas_5_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_5_1">
@@ -92,7 +110,7 @@
 </label><br><br><br>
 <p>I am always willing to try something new if I think it will be fun.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_6_0">
-<input type="radio" id="option-bis_bas_6_0" class="mdl-radio__button" name="bis_bas_6_options" value="4" checked>
+<input type="radio" id="option-bis_bas_6_0" class="mdl-radio__button" name="bis_bas_6_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_6_1">
@@ -107,9 +125,13 @@
 <input type="radio" id="option-bis_bas_6_3" class="mdl-radio__button" name="bis_bas_6_options" value="1" >
 <span class="mdl-radio__label">Very false for me</span>
 </label><br><br><br>
+
+					</div>
+
+<div class="step">
 <p>How I dress is important to me.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_7_0">
-<input type="radio" id="option-bis_bas_7_0" class="mdl-radio__button" name="bis_bas_7_options" value="4" checked>
+<input type="radio" id="option-bis_bas_7_0" class="mdl-radio__button" name="bis_bas_7_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_7_1">
@@ -126,7 +148,7 @@
 </label><br><br><br>
 <p>When I get something I want, I feel excited and energized.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_8_0">
-<input type="radio" id="option-bis_bas_8_0" class="mdl-radio__button" name="bis_bas_8_options" value="4" checked>
+<input type="radio" id="option-bis_bas_8_0" class="mdl-radio__button" name="bis_bas_8_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_8_1">
@@ -143,7 +165,7 @@
 </label><br><br><br>
 <p>Criticism or scolding hurts me quite a bit.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_9_0">
-<input type="radio" id="option-bis_bas_9_0" class="mdl-radio__button" name="bis_bas_9_options" value="4" checked>
+<input type="radio" id="option-bis_bas_9_0" class="mdl-radio__button" name="bis_bas_9_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_9_1">
@@ -160,7 +182,7 @@
 </label><br><br><br>
 <p>When I want something I usually go all-out to get it.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_10_0">
-<input type="radio" id="option-bis_bas_10_0" class="mdl-radio__button" name="bis_bas_10_options" value="4" checked>
+<input type="radio" id="option-bis_bas_10_0" class="mdl-radio__button" name="bis_bas_10_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_10_1">
@@ -177,7 +199,7 @@
 </label><br><br><br>
 <p>I will often do things for no other reason than that they might be fun.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_11_0">
-<input type="radio" id="option-bis_bas_11_0" class="mdl-radio__button" name="bis_bas_11_options" value="4" checked>
+<input type="radio" id="option-bis_bas_11_0" class="mdl-radio__button" name="bis_bas_11_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_11_1">
@@ -194,7 +216,7 @@
 </label><br><br><br>
 <p>It is hard for me to find the time to do things such as get a haircut.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_12_0">
-<input type="radio" id="option-bis_bas_12_0" class="mdl-radio__button" name="bis_bas_12_options" value="4" checked>
+<input type="radio" id="option-bis_bas_12_0" class="mdl-radio__button" name="bis_bas_12_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_12_1">
@@ -211,7 +233,7 @@
 </label><br><br><br>
 <p>If I see a chance to get something I want I move on it right away.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_13_0">
-<input type="radio" id="option-bis_bas_13_0" class="mdl-radio__button" name="bis_bas_13_options" value="4" checked>
+<input type="radio" id="option-bis_bas_13_0" class="mdl-radio__button" name="bis_bas_13_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_13_1">
@@ -226,9 +248,12 @@
 <input type="radio" id="option-bis_bas_13_3" class="mdl-radio__button" name="bis_bas_13_options" value="1" >
 <span class="mdl-radio__label">Very false for me</span>
 </label><br><br><br>
+</div>
+
+<div class="step">
 <p>I feel pretty worried or upset when I think or know somebody is angry at me.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_14_0">
-<input type="radio" id="option-bis_bas_14_0" class="mdl-radio__button" name="bis_bas_14_options" value="4" checked>
+<input type="radio" id="option-bis_bas_14_0" class="mdl-radio__button" name="bis_bas_14_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_14_1">
@@ -245,7 +270,7 @@
 </label><br><br><br>
 <p>When I see an opportunity for something I like I get excited right away.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_15_0">
-<input type="radio" id="option-bis_bas_15_0" class="mdl-radio__button" name="bis_bas_15_options" value="4" checked>
+<input type="radio" id="option-bis_bas_15_0" class="mdl-radio__button" name="bis_bas_15_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_15_1">
@@ -262,7 +287,7 @@
 </label><br><br><br>
 <p>I often act on the spur of the moment.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_16_0">
-<input type="radio" id="option-bis_bas_16_0" class="mdl-radio__button" name="bis_bas_16_options" value="4" checked>
+<input type="radio" id="option-bis_bas_16_0" class="mdl-radio__button" name="bis_bas_16_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_16_1">
@@ -279,7 +304,7 @@
 </label><br><br><br>
 <p>If I think something unpleasant is going to happen I usually get pretty 'worked up.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_17_0">
-<input type="radio" id="option-bis_bas_17_0" class="mdl-radio__button" name="bis_bas_17_options" value="4" checked>
+<input type="radio" id="option-bis_bas_17_0" class="mdl-radio__button" name="bis_bas_17_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_17_1">
@@ -296,7 +321,7 @@
 </label><br><br><br>
 <p>I often wonder why people act the way they do.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_18_0">
-<input type="radio" id="option-bis_bas_18_0" class="mdl-radio__button" name="bis_bas_18_options" value="4" checked>
+<input type="radio" id="option-bis_bas_18_0" class="mdl-radio__button" name="bis_bas_18_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_18_1">
@@ -313,7 +338,7 @@
 </label><br><br><br>
 <p>When good things happen to me, it affects me strongly.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_19_0">
-<input type="radio" id="option-bis_bas_19_0" class="mdl-radio__button" name="bis_bas_19_options" value="4" checked>
+<input type="radio" id="option-bis_bas_19_0" class="mdl-radio__button" name="bis_bas_19_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_19_1">
@@ -330,7 +355,7 @@
 </label><br><br><br>
 <p>I feel worried when I think I have done poorly at something important.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_20_0">
-<input type="radio" id="option-bis_bas_20_0" class="mdl-radio__button" name="bis_bas_20_options" value="4" checked>
+<input type="radio" id="option-bis_bas_20_0" class="mdl-radio__button" name="bis_bas_20_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_20_1">
@@ -347,7 +372,7 @@
 </label><br><br><br>
 <p>I crave excitement and new sensations.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_21_0">
-<input type="radio" id="option-bis_bas_21_0" class="mdl-radio__button" name="bis_bas_21_options" value="4" checked>
+<input type="radio" id="option-bis_bas_21_0" class="mdl-radio__button" name="bis_bas_21_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_21_1">
@@ -364,7 +389,7 @@
 </label><br><br><br>
 <p>When I go after something I use a 'no holds barred' approach.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_22_0">
-<input type="radio" id="option-bis_bas_22_0" class="mdl-radio__button" name="bis_bas_22_options" value="4" checked>
+<input type="radio" id="option-bis_bas_22_0" class="mdl-radio__button" name="bis_bas_22_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_22_1">
@@ -381,7 +406,7 @@
 </label><br><br><br>
 <p>I have very few fears compared to my friends.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_23_0">
-<input type="radio" id="option-bis_bas_23_0" class="mdl-radio__button" name="bis_bas_23_options" value="1" checked>
+<input type="radio" id="option-bis_bas_23_0" class="mdl-radio__button" name="bis_bas_23_options" value="1" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_23_1">
@@ -398,7 +423,7 @@
 </label><br><br><br>
 <p> It would excite me to win a contest.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_24_0">
-<input type="radio" id="option-bis_bas_24_0" class="mdl-radio__button" name="bis_bas_24_options" value="4" checked>
+<input type="radio" id="option-bis_bas_24_0" class="mdl-radio__button" name="bis_bas_24_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_24_1">
@@ -415,7 +440,7 @@
 </label><br><br><br>
 <p>I worry about making mistakes.</p>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_25_0">
-<input type="radio" id="option-bis_bas_25_0" class="mdl-radio__button" name="bis_bas_25_options" value="4" checked>
+<input type="radio" id="option-bis_bas_25_0" class="mdl-radio__button" name="bis_bas_25_options" value="4" >
 <span class="mdl-radio__label">Very true for me</span>
 </label>
 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-bis_bas_25_1">
@@ -430,13 +455,38 @@
 <input type="radio" id="option-bis_bas_25_3" class="mdl-radio__button" name="bis_bas_25_options" value="1" >
 <span class="mdl-radio__label">Very false for me</span>
 </label><br><br><br>
-<h3>Congratulations for completing this task!</h3><br><br><br></form>
+</div>
+
+<div class="step">
+<h3>Congratulations for completing this task!</h3><br><br><br>
+</div>
+
+
+<div class="navigation">
+    <ul class="clearfix">
+        <li><button type="button" name="backward" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent backward">Previous</button></li>
+	<li><button type="button" name="forward" class="forward mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">Next</button></li>
+    </ul>
+</div>
+
+<div class="pad">
+    <div id="progressbar"></div>
+</div>
+</form>
+</div>
+
 <script>
 $( document ).ready(function() {
 
     expfactory_finished = false;
 
-    
+    // Example 2: Basic wizard with progress bar
+    $( "#progressbar" ).progressbar();
+    $( "#questions" ).wizard({
+	                       afterSelect: function( event, state ) {
+				    $( "#progressbar" ).progressbar( "value", state.percentComplete );
+				}
+			});
 
 });
 </script>
