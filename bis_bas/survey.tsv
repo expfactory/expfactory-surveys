@@ -11,18 +11,18 @@ radio	When I get something I want, I feel excited and energized.	1	3	Very true f
 radio	Criticism or scolding hurts me quite a bit.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
 radio	When I want something I usually go all-out to get it.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
 radio	I will often do things for no other reason than that they might be fun.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1   
-radio	It is hard for me to find the time to do things such as get a haircut.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
-radio	If I see a chance to get something I want I move on it right away.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
-radio	I feel pretty worried or upset when I think or know somebody is angry at me.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
-radio	When I see an opportunity for something I like I get excited right away.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
-radio	I often act on the spur of the moment.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
-radio	If I think something unpleasant is going to happen I usually get pretty 'worked up.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
-radio	I often wonder why people act the way they do.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
-radio	When good things happen to me, it affects me strongly.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
-radio	I feel worried when I think I have done poorly at something important.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
-radio	I crave excitement and new sensations.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
-radio	When I go after something I use a 'no holds barred' approach.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
-radio	I have very few fears compared to my friends.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	1,2,3,4
-radio	It would excite me to win a contest.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
-radio	I worry about making mistakes.	1	3	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
-instruction	Congratulations for completing this task!	0	4		
+radio	It is hard for me to find the time to do things such as get a haircut.	1	4	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
+radio	If I see a chance to get something I want I move on it right away.	1	4	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
+radio	I feel pretty worried or upset when I think or know somebody is angry at me.	1	4	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
+radio	When I see an opportunity for something I like I get excited right away.	1	4	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
+radio	I often act on the spur of the moment.	1	4	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
+radio	If I think something unpleasant is going to happen I usually get pretty 'worked up.	1	4	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
+radio	I often wonder why people act the way they do.	1	4	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
+radio	When good things happen to me, it affects me strongly.	1	4	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
+radio	I feel worried when I think I have done poorly at something important.	1	4	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
+radio	I crave excitement and new sensations.	1	4	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
+radio	When I go after something I use a 'no holds barred' approach.	1	5	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
+radio	I have very few fears compared to my friends.	1	5	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	1,2,3,4
+radio	It would excite me to win a contest.	1	5	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
+radio	I worry about making mistakes.	1	5	Very true for me,Somewhat true for me,Somewhat false for me,Very false for me	4,3,2,1
+instruction	Congratulations for completing this task!	0	6		
