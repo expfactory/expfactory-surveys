@@ -7,9 +7,14 @@
                  "https://fonts.googleapis.com/icon?family=Material+Icons",
                  "https://code.getmdl.io/1.1.1/material.blue-red.min.css",
                  "styles.css",
-                 "https://code.getmdl.io/1.1.1/material.min.js"
+                 "static/js/jquery/ui/smoothness/jquery-ui-1.10.4.custom.min.css",
+                 "static/js/jquery/jquery-2.1.1.min.js",
+                 "https://code.getmdl.io/1.1.1/material.min.js",
+                 "static/js/jquery/ui/jquery-ui-1.10.4.custom.min.js",
+                 "jquery.wizard.js",
+                 "static/js/jquery/form/jquery.form-3.50.js",
+                 "static/js/jquery/validate/jquery.validate-1.12.0.min.js"
                ],
-
         "exp_id": "bis_bas",
         "cognitive_atlas_task_id": "trm_56a9137d9dce1",
         "contributors": [

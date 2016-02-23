@@ -14,11 +14,14 @@
 <link rel="stylesheet" type="text/css" href="jquery/ui/smoothness/jquery-ui-1.10.4.custom.min.css" />
 
 <script type="text/javascript" src="jquery/jquery-2.1.1.min.js"></script>
-
 <script src='https://code.getmdl.io/1.1.1/material.min.js'></script>
 
 <script type="text/javascript" src="jquery/ui/jquery-ui-1.10.4.custom.min.js"></script>
 <script type="text/javascript" src="jquery.wizard.js"></script>
+
+
+<script type="text/javascript" src="jquery/form/jquery.form-3.50.js"></script>
+<script type="text/javascript" src="jquery/validate/jquery.validate-1.12.0.min.js"></script>
 
 <div class="experiment-layout mdl-layout mdl-layout--fixed-header mdl-js-layout mdl-color--grey-100">
 <div class="experiment-ribbon"></div>
@@ -466,6 +469,7 @@
     <ul class="clearfix">
         <li><button type="button" name="backward" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent backward">Previous</button></li>
 	<li><button type="button" name="forward" class="forward mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">Next</button></li>
+        <li><button type="submit" name="process" class="submit mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">Finish</button></li>
     </ul>
 </div>
 
@@ -483,11 +487,30 @@ $( document ).ready(function() {
     // Example 2: Basic wizard with progress bar
     $( "#progressbar" ).progressbar();
     $( "#questions" ).wizard({
-	                       afterSelect: function( event, state ) {
-				    $( "#progressbar" ).progressbar( "value", state.percentComplete );
-				}
-			});
+        stepsWrapper: "#wrapped",
+	submit: ".submit",
+	beforeForward: function( event, state ) {
+	    return !!$( this ).wizard( "form" ).valid();
+        },
+	afterSelect: function( event, state ) {
+	    $( "#progressbar" ).progressbar( "value", state.percentComplete );
+        }
 
+    // Form submission
+    }).wizard( "form" ).submit(function( event ) {
+	event.preventDefault();
+	alert( "Form submitted!" );
+
+     // Validation
+     }).validate({
+	errorPlacement: function( error, element ) {
+	    if ( element.is( ":radio" ) || element.is( ":checkbox" ) ) {
+		error.insertBefore( element.next() );
+        } else {
+	        error.insertAfter( element );
+	}
+      }
+  });
 });
 </script>
 </body>
