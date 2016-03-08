@@ -1,0 +1,34 @@
+question_type	question_text	required	page_number	option_text	option_values
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1		
+instruction	People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and click on the appropriate circle below the question.	0	2		
+radio	I plan tasks carefully.	1	3	Rarely/Never,Occasionally",Often,Almost Always/Always	4,3,2,1
+radio	I do things without thinking.	1	3	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I plan tasks carefully.	1	3	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I make-up my mind quickly.	1	3	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I am happy-go-lucky.	1	3	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I don't pay attention.	1	3	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I have 'racing' thoughts.	1	3	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I plan trips well ahead of time.	1	3	Rarely/Never,Occasionally",Often,Almost Always/Always	4,3,2,1
+radio	I am self controlled.	1	3	Rarely/Never,Occasionally",Often,Almost Always/Always	4,3,2,1
+radio	I concentrate easily.	1	3	Rarely/Never,Occasionally",Often,Almost Always/Always	4,3,2,1
+radio	I save regularly.	1	3	Rarely/Never,Occasionally",Often,Almost Always/Always	4,3,2,1
+radio	I 'squirm' at plays or lectures.	1	4	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I am a careful thinker.	1	4	Rarely/Never,Occasionally",Often,Almost Always/Always	4,3,2,1
+radio	I plan for job security.	1	4	Rarely/Never,Occasionally",Often,Almost Always/Always	4,3,2,1
+radio	I say things without thinking.	1	4	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I like to think about complex problems.	1	4	Rarely/Never,Occasionally",Often,Almost Always/Always	4,3,2,1
+radio	I change jobs.	1	4	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I act on impulse.	1	4	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I get easily bored when solving thought problems.	1	4	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I act on the spur of the moment.	1	4	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I am a steady thinker.	1	4	Rarely/Never,Occasionally",Often,Almost Always/Always	4,3,2,1
+radio	I change residences.	1	5	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I buy things on impulse.	1	5	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I can only think about one thing at a time.	1	5	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I change hobbies.	1	5	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I spend or charge more than I earn.	1	5	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I often have extraneous thoughts when thinking.	1	5	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I am more interested in the present than the future.	1	5	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I am restless at the theater or lectures.	1	5	Rarely/Never,Occasionally",Often,Almost Always/Always	1,2,3,4
+radio	I am future oriented.	1	5	Rarely/Never,Occasionally",Often,Almost Always/Always	4,3,2,1
+instruction	Congratulations for completing this task!</p><p class = center-block-text>Press <strong>finish</strong> to continue.	0	6		
