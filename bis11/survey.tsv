@@ -31,4 +31,4 @@ radio	I often have extraneous thoughts when thinking.	1	5	Rarely/Never,Occasiona
 radio	I am more interested in the present than the future.	1	5	Rarely/Never,Occasionally,Often,Almost Always/Always	1,2,3,4
 radio	I am restless at the theater or lectures.	1	5	Rarely/Never,Occasionally,Often,Almost Always/Always	1,2,3,4
 radio	I am future oriented.	1	5	Rarely/Never,Occasionally,Often,Almost Always/Always	4,3,2,1
-instruction	Congratulations for completing this task!</p><p class = center-block-text>Press <strong>finish</strong> to continue.	0	6		
+instruction	Congratulations for completing this task! Press <strong>finish</strong> to continue.	0	6		
