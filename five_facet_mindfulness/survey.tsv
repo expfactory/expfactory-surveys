@@ -8,38 +8,36 @@ radio	Usually when I have distressing thoughts or images, I am able just to noti
 radio	Usually when I have distressing thoughts or images, I feel calm soon after.	1	3	agree totally,agree mostly,agree somewhat,neutral,disagree somewhat,disagree mostly,disagree totally	7,6,5,4,3,2,1
 radio	Usually when I have distressing thoughts or images, I 'step back' and am aware of the thought or image without getting taken over by it.	1	3	agree totally,agree mostly,agree somewhat,neutral,disagree somewhat,disagree mostly,disagree totally	7,6,5,4,3,2,1
 radio	Usually when I have distressing thoughts or images, I just notice them and let them go.	1	3	agree totally,agree mostly,agree somewhat,neutral,disagree somewhat,disagree mostly,disagree totally	7,6,5,4,3,2,1
-radio	When I’m walking, I deliberately notice the sensations of my body moving.	1	4	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	When I take a shower or a bath, I stay alert to the sensations of water on my body.	1	4	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I notice how foods and drinks affect my thoughts, bodily sensations, and emotions.	1	4	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I pay attention to sensations, such as the wind in my hair or sun on my face.	1	4	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I pay attention to sounds, such as clocks ticking, birds chirping, or cars passing.	1	4	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I notice the smells and aromas of things.	1	4	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I notice visual elements in art or nature, such as colors, shapes, textures, or patterns of light and shadow.	1	4	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I pay attention to how my emotions affect my thoughts and behavior.	1	4	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-
-[maas_opts, maas_opts, maas_opts, maas_opts, maas_opts, kims_opts, kims_opts, cams_opts]
+radio	When I’m walking, I deliberately notice the sensations of my body moving.	1	4	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	When I take a shower or a bath, I stay alert to the sensations of water on my body.	1	4	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I notice how foods and drinks affect my thoughts, bodily sensations, and emotions.	1	4	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I pay attention to sensations, such as the wind in my hair or sun on my face.	1	4	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I pay attention to sounds, such as clocks ticking, birds chirping, or cars passing.	1	4	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I notice the smells and aromas of things.	1	4	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I notice visual elements in art or nature, such as colors, shapes, textures, or patterns of light and shadow.	1	4	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I pay attention to how my emotions affect my thoughts and behavior.	1	4	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
 radio	I find it difficult to stay focused on what’s happening in the present.	1	4	almost always,very frequently,somewhat frequently,somewhat infrequently,very infrequently,almost never	1,2,3,4,5,6
 radio	It seems I am 'running on automatic' without much awareness of what I’m doing.	1	4	almost always,very frequently,somewhat frequently,somewhat infrequently,very infrequently,almost never	1,2,3,4,5,6
 radio	I rush through activities without being really attentive to them.	1	4	almost always,very frequently,somewhat frequently,somewhat infrequently,very infrequently,almost never	1,2,3,4,5,6
 radio	I do jobs or tasks automatically, without being aware of what I’m doing.	1	4	almost always,very frequently,somewhat frequently,somewhat infrequently,very infrequently,almost never	1,2,3,4,5,6
 radio	I find myself doing things without paying attention.	1	4	almost always,very frequently,somewhat frequently,somewhat infrequently,very infrequently,almost never	1,2,3,4,5,6
-radio	When I do things, my mind wanders off and I’m easily distracted.	1	4	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I don’t pay attention to what I’m doing because I’m daydreaming, worrying, or otherwise distracted.	1	4	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
+radio	When I do things, my mind wanders off and I’m easily distracted.	1	4	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I don’t pay attention to what I’m doing because I’m daydreaming, worrying, or otherwise distracted.	1	4	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
 radio	I am easily distracted.	1	4	rarely/not at all,sometimes,often,almost always	1,2,3,4
-radio	I’m good at finding the words to describe my feelings.	1	5	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I can easily put my beliefs, opinions, and expectations into words.	1	5	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	It’s hard for me to find the words to describe what I’m thinking.	1	5	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I have trouble thinking of the right words to express how I feel about things.	1	5	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	When I have a sensation in my body, it’s hard for me to describe it because I can’t find the right words.	1	5	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	Even when I’m feeling terribly upset, I can find a way to put it into words.	1	5	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	My natural tendency is to put my experiences into words.	1	5	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
+radio	I’m good at finding the words to describe my feelings.	1	5	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I can easily put my beliefs, opinions, and expectations into words.	1	5	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	It’s hard for me to find the words to describe what I’m thinking.	1	5	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I have trouble thinking of the right words to express how I feel about things.	1	5	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	When I have a sensation in my body, it’s hard for me to describe it because I can’t find the right words.	1	5	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	Even when I’m feeling terribly upset, I can find a way to put it into words.	1	5	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	My natural tendency is to put my experiences into words.	1	5	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
 radio	I can usually describe how I feel at the moment in considerable detail.	1	5	rarely/not at all,sometimes,often,almost always	1,2,3,4
-radio	I criticize myself for having irrational or inappropriate emotions.	1	6	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I tell myself that I shouldn’t be feeling the way I'm feeling.	1	6	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I believe some of my thoughts are abnormal or bad and I shouldn’t think that way.	1	6	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I make judgments about whether my thoughts are good or bad.	1	6	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I tell myself I shouldn’t be thinking the way I'm thinking.	1	6	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I think some of my emotions are bad or inappropriate and I shouldn’t feel them.	1	6	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
-radio	I disapprove of myself when I have irrational ideas.	1	6	never or very rarely true,seldom true,sometimes true,often true","always or almost always true	1,2,3,4,5
+radio	I criticize myself for having irrational or inappropriate emotions.	1	6	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I tell myself that I shouldn’t be feeling the way I'm feeling.	1	6	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I believe some of my thoughts are abnormal or bad and I shouldn’t think that way.	1	6	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I make judgments about whether my thoughts are good or bad.	1	6	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I tell myself I shouldn’t be thinking the way I'm thinking.	1	6	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I think some of my emotions are bad or inappropriate and I shouldn’t feel them.	1	6	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
+radio	I disapprove of myself when I have irrational ideas.	1	6	never or very rarely true,seldom true,sometimes true,often true,always or almost always true	1,2,3,4,5
 radio	Usually when I have distressing thoughts or images, I judge myself as good or bad, depending what the thought/image is about.	1	6	agree totally,agree mostly,agree somewhat,neutral,disagree somewhat,disagree mostly,disagree totally	7,6,5,4,3,2,1
 instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	7		
