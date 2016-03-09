@@ -1,0 +1,12 @@
+question_type	question_text	required	page_number	option_text	option_values
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1		
+instruction	For each of the following statements, please indicate how descriptive they are of you.	0	2		
+radio	I often set a goal but later choose to pursue a different one.	1	3	Not at all like me - 1,2,3,4,Very much like me - 5	1,2,3,4,5
+radio	New ideas and projects sometimes distract me from previous ones.	1	3	Not at all like me - 1,2,3,4,Very much like me - 5	1,2,3,4,5
+radio	I have been obsessed with a certain idea or project for a short time but later lost interest.	1	3	Not at all like me - 1,2,3,4,Very much like me - 5	1,2,3,4,5
+radio	I have difficulty maintaining my focus on projects that take more than a few months to complete.	1	3	Not at all like me - 1,2,3,4,Very much like me - 5	5,4,3,2,1
+radio	I finish whatever I begin.	1	3	Not at all like me - 1,2,3,4,Very much like me - 5	1,2,3,4,5
+radio	Setbacks don't discourage me.	1	3	Not at all like me - 1,2,3,4,Very much like me - 5	1,2,3,4,5
+radio	I am a hard worker.	1	3	Not at all like me - 1,2,3,4,Very much like me - 5	1,2,3,4,5
+radio	I am diligent.	1	3	Not at all like me - 1,2,3,4,Very much like me - 5	1,2,3,4,5
+instruction	Congratulations for completing this task!</p><p class = center-block-text>Press <strong>finish</strong> to continue.	0	4		
