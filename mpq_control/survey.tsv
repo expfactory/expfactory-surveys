@@ -1,0 +1,28 @@
+question_type	question_text	required	page_number	option_text	option_values
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1		
+instruction	Please answer each question by clicking 'True' or 'False' following the questions to indicate whether they are descriptive of you and your actions. There are no right or wrong answers, and no trick questions.	0	2		
+radio	I stop one activity before completing it.	1	3	True,False	2,1
+radio	I take time to consider all aspects.	1	3	True,False	1,2
+radio	I think before doing.	1	3	True,False	1,2
+radio	I stop and think.	1	3	True,False	1,2
+radio	I am fast and careless.	1	3	True,False	2,1
+radio	I am never reckless.	1	3	True,False	1,2
+radio	I buy something without thinking.	1	3	True,False	2,1
+radio	I value rational approach.	1	3	True,False	1,2
+radio	I do things on the spur of the moment.	1	4	True,False	2,1
+radio	I am careful in reasoning.	1	4	True,False	1,2
+radio	I am not as cautious.	1	4	True,False	2,1
+radio	I am cautious person.	1	4	True,False	1,2
+radio	I am a spontaneous person.	1	4	True,False	2,1
+radio	I do the first thing that comes to mind.	1	4	True,False	2,1
+radio	I keep close track of money.	1	4	True,False	1,2
+radio	I play things by ear.	1	4	True,False	2,1
+radio	I know how to proceed.	1	5	True,False	1,2
+radio	I am very level-headed.	1	5	True,False	1,2
+radio	I organize my work.	1	5	True,False	1,2
+radio	I often start projects.	1	5	True,False	2,1
+radio	I am methodical.	1	5	True,False	1,2
+radio	I do not have detailed plans.	1	5	True,False	2,1
+radio	I have a good idea of what I'm going to do.	1	5	True,False	1,2
+radio	I like to find out what to expect.	1	5	True,False	1,2
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6		
