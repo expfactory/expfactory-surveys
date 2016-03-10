@@ -1,0 +1,20 @@
+question_type	question_text	required	page_number	option_text	option_values
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1		
+instruction	The following question relates to the reasons why you would seek treatment. Different people have different reasons for doing that, and we want to know how true each of the following reasons is for you. All 15 response are to the same question.	0	2		
+instruction	Please indicate the extent to which each reason is true for you.	0	3		
+radio	Because I feel that I want to take responsibility for my own health	1	3	Not at all true,Somewhat true,Very True	1,2,3
+radio	Because I would feel guilty or ashamed of myself if I engaged in this behavior	1	3	Not at all true,Somewhat true,Very True	1,2,3
+radio	Because I personally believe it is the best thing for my health	1	3	Not at all true,Somewhat true,Very True	1,2,3
+radio	Because others would be upset with me if I engaged in this behavior	1	3	Not at all true,Somewhat true,Very True	1,2,3
+radio	I really don't think about it	1	3	Not at all true,Somewhat true,Very True	1,2,3
+radio	Because I have carefully thought about it and believe it is very important for many aspects of my life	1	3	Not at all true,Somewhat true,Very True	1,2,3
+radio	Because I would feel bad about myself if I engaged in this behavior	1	3	Not at all true,Somewhat true,Very True	1,2,3
+radio	Because it is an important choice I really want to make	1	3	Not at all true,Somewhat true,Very True	1,2,3
+radio	Because I feel pressure from others to not engage in this behavior	1	3	Not at all true,Somewhat true,Very True	1,2,3
+radio	Because it is easier to do what I am told than to think about it	1	3	Not at all true,Somewhat true,Very True	1,2,3
+radio	Because it is consistent with my life goals	1	3	Not at all true,Somewhat true,Very True	1,2,3
+radio	Because I want others to approve of me	1	3	Not at all true,Somewhat true,Very True	1,2,3
+radio	Because it is very important for being as healthy as possible	1	3	Not at all true,Somewhat true,Very True	1,2,3
+radio	Because I want others to see that I can do it	1	3	Not at all true,Somewhat true,Very True	1,2,3
+radio	I don't really know why	1	3	Not at all true,Somewhat true,Very True	1,2,3
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4		
