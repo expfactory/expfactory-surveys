@@ -9,7 +9,9 @@ radio	I don't seem to learn from my mistakes.	1	3	Strongly disagree,Somewhat dis
 radio	I usually only have to make a mistake one time in order to learn from it.	1	3	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
 radio	I can usually find several different possibilities when I want to change something.	1	3	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
 radio	Often I don't notice what I'm doing until someone calls it to my attention.	1	3	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
-radio	I usually think before I act.", "I learn from my mistakes.", "I give up quickly.	1	3	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
+radio	I usually think before I act.	1	3	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
+I learn from my mistakes.	1	3	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
+I give up quickly.	1	3	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
 radio	I usually keep track of my progress toward my goals.	1	4	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
 radio	I am able to accomplish goals for myself.	1	4	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
 radio	I have personal standards, and try to live up to them.	1	4	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
@@ -20,12 +22,14 @@ radio	I have trouble making plans to help me reach my goals.	1	4	Strongly disagr
 radio	I set goals for myself and keep track of my progress.	1	4	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
 radio	If I make a resolution to change something, I pay a lot of attention to how I'm doing.	1	4	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
 radio	I know how I want to be.	1	4	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
-radio	I have trouble making up my mind about things.", "I get easily distracted from my plans.	1	5	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
+radio	I have trouble making up my mind about things.	1	5	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
+radio	I get easily distracted from my plans.	1	5	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
 radio	When it comes to deciding about a change, I feel overwhelmed by the choices.	1	5	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
 radio	Most of the time I don't pay attention to what I'm doing.	1	5	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
 radio	I tend to keep doing the same thing, even when it doesn't work.	1	5	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
 radio	Once I have a goal, I can usually plan how to reach it.	1	5	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
 radio	If I wanted to change, I am confident that I could do it.	1	5	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
-radio	I can stick to a plan that's working well.", "I have a lot of willpower.	1	5	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
+radio	I can stick to a plan that's working well.	1	5	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
+radio	I have a lot of willpower.	1	5	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
 radio	I am able to resist temptation.	1	5	Strongly disagree,Somewhat disagree,Neutral,Somewhat agree,Strongly agree	1,2,3,4,5
 instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6		
