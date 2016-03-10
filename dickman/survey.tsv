@@ -1,6 +1,6 @@
 question_type	question_text	required	page_number	option_text	option_values
 instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1		
-instruction	For each of the following statements, please indicate whether you agree with them.	0	2
+instruction	For each of the following statements, please indicate whether you agree with them.	0	2		
 radio	I don't like to make decisions quickly, even simple decisions, such as choosing what to wear, or what to have for dinner.	1	3	True,False	1,2
 radio	I am good at taking advantage of unexpected opportunities,where you have to do something immediately or lose your chance.	1	3	True,False	2,1
 radio	Most of the time, I can put my thoughts into words very rapidly.	1	3	True,False	2,1
