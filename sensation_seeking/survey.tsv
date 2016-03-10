@@ -1,0 +1,38 @@
+question_type	question_text	required	page_number	option_text	option_values
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1		
+instruction	Please indicate which of the following scenarios you would prefer.	0	2		
+radio	Please indicate which of the following scenarios you would prefer.	1	3	I would like a job which would require a lot of traveling.,I would prefer a job in one location.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	3	I am invigorated by a brisk cold day.,I cannot wait to get into the indoors on a cold day.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	3	I find a certain pleasure in routine kinds of work.,Although it is sometimes necessary I usually dislike routine kinds of work.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	3	I often wish I could be a mountain climber,I cannot understand people who risk their necks climbing mountains.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	3	I dislike all body odors.,I like some of the earthy body smells.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	3	I get bored seeing the same old faces.,I like the comfortable familiarity of everyday friends.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	3	I like to explore a strange city or section of town by myself - even if it means getting lost.,I prefer a guide when I am in a place I do not know well.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	3	I find the quickest and easiest route to a place and stick to it.,I sometimes take diﬁerent routes to a place I often go, just for the sake of variety.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	3	I would not like to try any drug which might produce strange and dangerous effects on me.,I would like to try some of the new drugs that produce hallucinations.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	3	I would prefer living in an ideal society where everyone is safe / secure / and happy.,I would have preferred living in the unsettled days of our history.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	4	I sometimes like to do things that are a little frightening.,A sensible person avoids activities that are dangerous.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	4	I order the dishes with which I am familiar so as to avoid disappointment and unpleasantness.,I like to try new foods that I have never tasted before.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	4	I cannot stand riding with a person who likes to speed.,I sometimes like to drive very fast because I ﬁnd it exciting.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	4	If I were a salesman I would prefer a straight salary rather than the risk of making little or nothing on a commission basis.,If I were a salesman I would prefer working on a commission if I had a chance to make more money than I could on a salary.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	4	I would like to take up the sport of water skiing.,I would not like to take up water skiing.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	4	I do not like to argue with people whose beliefs are sharply divergent from mine, since such arguments are never resolved.,I find people that disagree with my beliefs more stimulating than people who agree with me.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	4	When I go on a trip I like to plan my route and timetable fairly carefully.,I would like to take off on a trip with no preplanned or definite routes, or timetables.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	4	I enjoy the thrills of watching car races.,I find our races unpleasant.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	4	Most people spend entirely too much money on life insurance.,Life insurance is something that no man can afford to be without.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	4	I would like to learn to ﬂy an airplane.,I would not like to learn to ﬂy an airplane.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	5	I would not like to be hypnotized.,I would like to have the experience of being hypnotized.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	5	The most important goal of life is to live it to the fullest and experience as much of it as you can.,The most important goal of life is to ﬁnd peace and happiness.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	5	I would like to try parachute jumping.,I would never want to try jumping out of a plane - with or without a parachute.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	5	I enter cold water gradually giving myself time to get used to it.,I like to dive or jump right into the ocean or a cold pool.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	5	I do not like the irregularity and discord of most modern music.,I like to listen to new and unusual kinds of music.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	5	I prefer friends who are exciting unpredictable.,I prefer friends who are reliable and predictable.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	5	When I go on a vacation I prefer the comfort of a good room and bed.,When I go on a vacation I prefer the change of camping out.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	5	The essence of good art is in its clarity / symmetry of form and harmony of colors.,I often ﬁnd beauty in the clashing colors and irregular forms of modern paintings.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	5	The worst social sin is to be rude.,The worst social sin is to be a bore.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	5	I look forward to a good night of rest after a long day.,I wish I did not have to waste so much of a day sleeping.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	6	I prefer people who are emotionally expressive even if they are a bit unstable.,I prefer people who are calm and even tempered.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	6	A good painting should shock or jolt the senses.,A good painting should give one a feeling of peace and security.	2,1
+radio	Please indicate which of the following scenarios you would prefer.	1	6	When I feel discouraged I recover by relaxing and having some soothing diversion.,When I feel discouraged I recover by going out and doing something new and exciting.	1,2
+radio	Please indicate which of the following scenarios you would prefer.	1	6	People who ride motorcycles must have some kind of an unconscious need to hurt themselves.,I would like to drive or ride on a motorcycle.	1,2
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	7		
