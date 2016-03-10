@@ -38,4 +38,4 @@ radio	If you have any debt how much (in dollars)?	0	6	<$500,$500-$2500,$2500-$10
 radio	Do you own or the house you live in?	1	6	Yes,No	1,2
 checkbox	What are you motivations for participating in this experiment?	1	6	money,tasks are fun,want to contribute to research,other	1,2,3,4
 text	Please list other motivations.	1	6		
-instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	7
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	7		
