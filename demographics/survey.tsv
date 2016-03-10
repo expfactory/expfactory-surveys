@@ -26,7 +26,7 @@ radio	How often during the last year have you had a feeling of guilt or remorse 
 radio	How often during the last year have you been unable to remember what happened the night before because you had been drinking?	1	5	Never,Less than monthly,Monthly,Weekly,Daily or almost daily	1,2,3,4,5
 radio	Have you or someone else been injured as a result of your drinking?	1	5	No,Yes but not in the last year,Yes during the last year,I don't drink	1,2,3,0
 radio	Has a relative or friend or a doctor or another health worker been concerned about your drinking or suggested you cut down?	1	5	No,Yes but not in the last year,Yes during the last year,I don't drink	1,2,3,0
-radio	What is your daily caffeine intake (in mg)? (1 cup of regular coffee ~ 120 mg, 1 cup black tea ~ 50 mg, 1 cup green tea ~ 40 mg)	1	6	0 mg,<50 mg",50-100 mg,100-150 mg,150-200 mg,200-250 mg,>250 mg	1,2,3,4,5,6,7
+radio	What is your daily caffeine intake (in mg)? (1 cup of regular coffee ~ 120 mg, 1 cup black tea ~ 50 mg, 1 cup green tea ~ 40 mg)	1	6	0 mg,<50 mg,50-100 mg,100-150 mg,150-200 mg,200-250 mg,>250 mg	1,2,3,4,5,6,7
 radio	Do you have any chronic medical problems which continue to interfere with your life?	1	6	Yes,No	1,2
 radio	Are you taking any prescribed medication on a regular basis for a physical problem?	1	6	Yes,No	1,2
 radio	In addition to visits related to a chronic problem how often do you visit your doctor/have annual check ups in a year?	1	6	0,1,2,3,4,5-10,>10	1,2,3,4,5,6,7
