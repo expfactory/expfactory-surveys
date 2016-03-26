@@ -1,6 +1,6 @@
 [
     {
-        "name": "R18: Three factor eating questionnaire",
+        "name": "R18: Three factor eating questionnaire Survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",

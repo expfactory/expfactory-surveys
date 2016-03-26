@@ -1,6 +1,6 @@
 [
     {
-        "name": "Holt Laury Task",
+        "name": "Holt Laury Task Survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",

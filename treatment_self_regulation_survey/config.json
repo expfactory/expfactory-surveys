@@ -1,6 +1,6 @@
 [
     {
-        "name": "Treatment Self-Regulation Questionnaire",
+        "name": "Treatment Self-Regulation Questionnaire Survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",

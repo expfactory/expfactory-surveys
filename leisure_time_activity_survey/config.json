@@ -1,6 +1,6 @@
 [
     {
-        "name": "L-Cat: The Stanford Leisure-Time Activity Categorical Item",
+        "name": "L-Cat: The Stanford Leisure-Time Activity Categorical Item Survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",

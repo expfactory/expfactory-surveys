@@ -1,6 +1,6 @@
 [
     {
-        "name": "MAAS: Mindful Attention Awareness Scale",
+        "name": "MAAS: Mindful Attention Awareness Scale Survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",

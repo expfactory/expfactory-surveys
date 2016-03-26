@@ -1,6 +1,6 @@
 [
     {
-        "name": "Demographics",
+        "name": "Demographics Survey",
         "template":"jspsych",
         "template":"survey",
         "run": [

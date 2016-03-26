@@ -1,6 +1,6 @@
 [
     {
-        "name": "MPQ: Multidimensional Personality Questionnaire - Control (vs impulsiveness) Scale",
+        "name": "MPQ: Multidimensional Personality Questionnaire - Control (vs impulsiveness) Scale Survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",

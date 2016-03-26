@@ -1,6 +1,6 @@
 [
     {
-        "name": "Emotion Regulation Questionnaire (ERQ)",
+        "name": "Emotion Regulation Questionnaire (ERQ) Survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Brief Self Control Scale",
+        "name": "Brief Self Control Scale Survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",

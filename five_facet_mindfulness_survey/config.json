@@ -1,6 +1,6 @@
 [
     {
-        "name": "Five Facet Mindfulness Questionnaire",
+        "name": "Five Facet Mindfulness Questionnaire Survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",

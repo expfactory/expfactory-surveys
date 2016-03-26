@@ -1,6 +1,6 @@
 [
     {
-        "name": "GRIT-S: Duckworth's Short Grit Scale",
+        "name": "GRIT-S: Duckworth's Short Grit Scale Survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",

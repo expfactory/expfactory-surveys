@@ -1,6 +1,6 @@
 [
     {
-        "name": "Zuckerman Sensation Seeking Scale",
+        "name": "Zuckerman Sensation Seeking Scale Survey",
         "exp_id": "sensation_seeking_survey",
         "template":"survey",
         "run": [

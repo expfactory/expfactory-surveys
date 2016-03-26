@@ -1,6 +1,6 @@
 [
     {
-        "name": "BIS/BAS (Behavioral Approach/Inhibition Systems)",
+        "name": "BIS/BAS (Behavioral Approach/Inhibition Systems) Survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",

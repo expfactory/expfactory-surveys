@@ -1,6 +1,6 @@
 [
     {
-        "name": "Short Self-Regulation Questionnaire  (SSRQ)",
+        "name": "Short Self-Regulation Questionnaire (SSRQ) Survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",

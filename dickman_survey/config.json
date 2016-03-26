@@ -1,6 +1,6 @@
 [
     {
-        "name": "Dickman: Dickman's Functional and Dysfunctional Impulsivity",
+        "name": "Dickman: Dickman's Functional and Dysfunctional Impulsivity Survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
