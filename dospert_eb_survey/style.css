@@ -1,0 +1,21 @@
+.mdl-radio__label {
+  display: inline-block;
+    width: 10em;
+    padding-top: 1.5em;
+    transform: translate(-53%,0%);
+    text-align: center;
+}
+
+.mdl-radio {
+	float: left;
+	width: 8em;
+}
+
+.experiment-content {
+	padding: 80px 100px;
+	margin-bottom: 0px;
+}
+
+.mdl-cell--8-col, .mdl-cell--8-col-desktop.mdl-cell--8-col-desktop {
+	width: 1100px;
+}
