@@ -1,34 +1,37 @@
-.mdl-radio__label {
-  display: inline-block;
-    width: 10em;
-    padding-top: 1.5em;
-    transform: translate(-53%,0%);
-    text-align: center;
-}
-
-.mdl-radio {
-	float: left;
-	width: 100px;
-	margin-left: 48px;
-}
-
-.experiment-content {
-	padding: 80px 100px;
-	margin-bottom: 0px;
-}
-
-.mdl-cell--8-col, .mdl-cell--8-col-desktop.mdl-cell--8-col-desktop {
-	width: 800px;
-}
+/* White Page Styling */
 
 body {
-	line-height: 25px;
+  line-height: 25px;
 }
 
 p {
-	font-weight: bold;
+  font-weight: bold;
 }
-/*
+
+.experiment-content {
+  border-radius: 2px;
+  padding: 100px 180px 100px;
+  margin-bottom: 80px;
+}
+
+/* Move text below buttons */
+
+.mdl-radio__label {
+  display: inline-block;
+  width: 10em;
+  padding-top: 1.5em;
+  transform: translate(-53%,0%);
+  text-align: center;
+}
+
+.mdl-radio {
+  float: left;
+  width: 100px;
+  margin-left: 48px;
+}
+
+/* Add gray line for Likert */
+
 form p:before {
   content: '';
   position:relative;
@@ -39,28 +42,12 @@ form p:before {
   height:4px;
   width:435px;
 }
-*/
 
-form .current .mdl-radio:nth-child(3n):before {
-    content: '';
-    position: relative;
-    top: 10px;
-    left: -10px;
-    display: block;
-    background-color: #efefef;
-    height: 4px;
-    width: 135px;
+.mdl-radio.is-checked .mdl-radio__outer-circle {
+  background-color:transparent;
 }
 
-
-form .current .mdl-radio:nth-child(3n+1):before {
-    content: '';
-    position: relative;
-    top: 10px;
-    left: -10px;
-    display: block;
-    background-color: #efefef;
-    height: 4px;
-    width: 135px;
+.mdl-radio__outer-circle{
+  background-color:white;
 }
 
