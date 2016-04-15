@@ -8,7 +8,7 @@
 
 .mdl-radio {
 	float: left;
-	width: 80px;
+	width: 95px;
 	margin-left: 48px;
 }
 
@@ -39,7 +39,7 @@ form p:before {
   display:block;
   background-color:#efefef;
   height:4px;
-  width:768px;
+  width:715px;
 }
 
 .mdl-radio.is-checked .mdl-radio__outer-circle {

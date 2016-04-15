@@ -18,7 +18,7 @@ p {
 
 .mdl-radio__label {
   display: inline-block;
-  width: 10em;
+  width: 12em;
   padding-top: 1.5em;
   transform: translate(-53%,0%);
   text-align: center;
@@ -26,14 +26,13 @@ p {
 
 .mdl-radio {
   float: left;
-  width: 100px;
+  width: 140px;
   margin-left: 48px;
 }
 
 .mdl-cell--8-col, .mdl-cell--8-col-desktop.mdl-cell--8-col-desktop {
-	width: 1000px;
+  width: 1115px;
 }
-
 
 /* Add gray line for Likert */
 
@@ -45,7 +44,7 @@ form p:before {
   display:block;
   background-color:#efefef;
   height:4px;
-  width:435px;
+  width:555px;
 }
 
 .mdl-radio.is-checked .mdl-radio__outer-circle {

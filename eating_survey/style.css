@@ -36,6 +36,14 @@ p {
 
 
 /* Add gray line for Likert */
+.mdl-radio.is-checked .mdl-radio__outer-circle {
+  background-color:transparent;
+}
+
+.mdl-radio__outer-circle{
+  background-color:white;
+}
+
 
 form p:before {
   content: '';
@@ -48,11 +56,26 @@ form p:before {
   width:435px;
 }
 
-.mdl-radio.is-checked .mdl-radio__outer-circle {
-  background-color:transparent;
+form #eating_survey_2_options:before {
+  content: '';
+  position:relative;
+  top:78px;
+  left:61px;
+  display:block;
+  background-color:#efefef;
+  height:4px;
+  width:435px;
 }
 
-.mdl-radio__outer-circle{
-  background-color:white;
+form #eating_survey_19_options:before {
+  content: '';
+  position:relative;
+  top:53px;
+  left:61px;
+  display:block;
+  background-color:transparent;
+  height:4px;
+  width:435px;
 }
+
 

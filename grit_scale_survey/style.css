@@ -8,7 +8,7 @@
 
 .mdl-radio {
 	float: left;
-	width: 80px;
+	width: 70px;
 	margin-left: 48px;
 }
 
@@ -18,7 +18,7 @@
 }
 
 .mdl-cell--8-col, .mdl-cell--8-col-desktop.mdl-cell--8-col-desktop {
-	width: 1100px;
+	width: 850px;
 }
 
 body {
@@ -39,7 +39,7 @@ form p:before {
   display:block;
   background-color:#efefef;
   height:4px;
-  width:768px;
+  width:472px;
 }
 
 .mdl-radio.is-checked .mdl-radio__outer-circle {

@@ -37,6 +37,16 @@ p {
 
 /* Add gray line for Likert */
 
+.mdl-radio.is-checked .mdl-radio__outer-circle {
+  background-color:transparent;
+}
+
+.mdl-radio__outer-circle{
+  background-color:white;
+}
+
+
+
 form p:before {
   content: '';
   position:relative;
@@ -48,11 +58,14 @@ form p:before {
   width:435px;
 }
 
-.mdl-radio.is-checked .mdl-radio__outer-circle {
-  background-color:transparent;
-}
-
-.mdl-radio__outer-circle{
-  background-color:white;
+form #upps_impulsivity_survey_6_options:before, #upps_impulsivity_survey_23_options:before, #upps_impulsivity_survey_32_options:before, #upps_impulsivity_survey_55_options:before {
+  content: '';
+  position:relative;
+  top:78px;
+  left:61px;
+  display:block;
+  background-color:#efefef;
+  height:4px;
+  width:435px;  
 }
 

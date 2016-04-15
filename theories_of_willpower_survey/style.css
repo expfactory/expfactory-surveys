@@ -31,7 +31,7 @@ p {
 }
 
 .mdl-cell--8-col, .mdl-cell--8-col-desktop.mdl-cell--8-col-desktop {
-	width: 1000px;
+	width: 1250px;
 }
 
 
@@ -45,7 +45,18 @@ form p:before {
   display:block;
   background-color:#efefef;
   height:4px;
-  width:435px;
+  width:740px;
+}
+
+form #theories_of_willpower_survey_2_options:before, #theories_of_willpower_survey_4_options:before, #theories_of_willpower_survey_6_options:before, #theories_of_willpower_survey_13_options:before {
+  content: '';
+  position:relative;
+  top:78px;
+  left:61px;
+  display:block;
+  background-color:#efefef;
+  height:4px;
+  width:740px;
 }
 
 .mdl-radio.is-checked .mdl-radio__outer-circle {

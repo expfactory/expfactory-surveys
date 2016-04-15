@@ -28,3 +28,25 @@ body {
 p {
 	font-weight: bold;
 }
+
+/* Add gray line for Likert */
+
+form p:before {
+  content: '';
+  position:relative;
+  top:53px;
+  left:61px;
+  display:block;
+  background-color:#efefef;
+  height:4px;
+  width:768px;
+}
+
+.mdl-radio.is-checked .mdl-radio__outer-circle {
+  background-color:transparent;
+}
+
+.mdl-radio__outer-circle{
+  background-color:white;
+}
+
