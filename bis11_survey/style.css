@@ -28,3 +28,39 @@ body {
 p {
 	font-weight: bold;
 }
+/*
+form p:before {
+  content: '';
+  position:relative;
+  top:53px;
+  left:61px;
+  display:block;
+  background-color:#efefef;
+  height:4px;
+  width:435px;
+}
+*/
+
+form .current .mdl-radio:nth-child(3n):before {
+    content: '';
+    position: relative;
+    top: 10px;
+    left: -10px;
+    display: block;
+    background-color: #efefef;
+    height: 4px;
+    width: 135px;
+}
+
+
+form .current .mdl-radio:nth-child(3n+1):before {
+    content: '';
+    position: relative;
+    top: 10px;
+    left: -10px;
+    display: block;
+    background-color: #efefef;
+    height: 4px;
+    width: 135px;
+}
+
