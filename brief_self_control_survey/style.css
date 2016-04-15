@@ -1,25 +1,4 @@
-.mdl-radio__label {
-  display: inline-block;
-    width: 10em;
-    padding-top: 1.5em;
-    transform: translate(-53%,0%);
-    text-align: center;
-}
-
-.mdl-radio {
-  float: left;
-  width: 80px;
-  margin-left: 48px;
-}
-
-.experiment-content {
-  padding: 80px 100px;
-  margin-bottom: 0px;
-}
-
-.mdl-cell--8-col, .mdl-cell--8-col-desktop.mdl-cell--8-col-desktop {
-  width: 850px;
-}
+/* White Page Styling */
 
 body {
   line-height: 25px;
@@ -27,6 +6,36 @@ body {
 
 p {
   font-weight: bold;
+}
+
+.experiment-content {
+  border-radius: 2px;
+  padding: 100px 180px 100px;
+  margin-bottom: 80px;
+}
+
+/* Move text below buttons */
+
+.mdl-radio__label {
+  display: inline-block;
+  width: 10em;
+  padding-top: 1.5em;
+  transform: translate(-53%,0%);
+  text-align: center;
+}
+
+.mdl-radio {
+  float: left;
+  width: 100px;
+  margin-left: 48px;
+}
+
+.mdl-cell--8-col, .mdl-cell--8-col-desktop.mdl-cell--8-col-desktop {
+  width: 1100px;
+}
+
+.mdl-cell--2-col, .mdl-cell--2-col-desktop.mdl-cell--2-col-desktop {
+  width: calc(13.5% - 16px)
 }
 
 /* Add gray line for Likert */
@@ -39,7 +48,7 @@ form p:before {
   display:block;
   background-color:#efefef;
   height:4px;
-  width:512px;
+  width:592px;
 }
 
 .mdl-radio.is-checked .mdl-radio__outer-circle {

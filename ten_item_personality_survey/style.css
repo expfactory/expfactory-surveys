@@ -13,12 +13,17 @@
 }
 
 .experiment-content {
-	padding: 80px 100px;
-	margin-bottom: 0px;
+	border-radius: 2px;
+  padding: 100px 180px 100px;
+  margin-bottom: 80px;
 }
 
 .mdl-cell--8-col, .mdl-cell--8-col-desktop.mdl-cell--8-col-desktop {
-	width: 1250px;
+	width: 1400px;
+}
+
+.mdl-cell--2-col, .mdl-cell--2-col-desktop.mdl-cell--2-col-desktop {
+  width: calc(6% - 16px)
 }
 
 body {

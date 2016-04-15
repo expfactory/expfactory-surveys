@@ -21,6 +21,10 @@
 	width: 1100px;
 }
 
+.mdl-cell--2-col, .mdl-cell--2-col-desktop.mdl-cell--2-col-desktop {
+  width: calc(13.5% - 16px)
+}
+
 body {
 	line-height: 25px;
 }

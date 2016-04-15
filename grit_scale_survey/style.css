@@ -8,17 +8,18 @@
 
 .mdl-radio {
 	float: left;
-	width: 70px;
+	width: 100px;
 	margin-left: 48px;
 }
 
 .experiment-content {
-	padding: 80px 100px;
-	margin-bottom: 0px;
+	border-radius: 2px;
+  padding: 100px 180px 100px;
+  margin-bottom: 80px;
 }
 
 .mdl-cell--8-col, .mdl-cell--8-col-desktop.mdl-cell--8-col-desktop {
-	width: 850px;
+	width: 1100px;
 }
 
 body {
@@ -39,7 +40,7 @@ form p:before {
   display:block;
   background-color:#efefef;
   height:4px;
-  width:472px;
+  width:592px;
 }
 
 .mdl-radio.is-checked .mdl-radio__outer-circle {
