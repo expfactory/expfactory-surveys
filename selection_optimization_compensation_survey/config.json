@@ -15,7 +15,7 @@
                  "static/js/jquery/form/jquery.form-3.50.js",
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js"
                ],
-        "exp_id": "selection_optimization_compensation",
+        "exp_id": "selection_optimization_compensation_survey",
         "cognitive_atlas_task_id": "trm_56ac06bac9334",
         "contributors": [
                          "Zeynep Enkavi",
