@@ -13,7 +13,8 @@
                  "static/js/jquery/ui/jquery-ui-1.10.4.custom.min.js",
                  "static/js/jquery/jquery.wizard.js",
                  "static/js/jquery/form/jquery.form-3.50.js",
-                 "static/js/jquery/validate/jquery.validate-1.12.0.min.js"
+                 "static/js/jquery/validate/jquery.validate-1.12.0.min.js",
+                 "style.css"
                ],
         "exp_id": "bis11_survey",
         "cognitive_atlas_task_id": "trm_55a6a8e81b7f4",

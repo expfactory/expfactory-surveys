@@ -31,4 +31,4 @@ radio	Moving to a city far away from your extended family.	1	7	No benefits at al
 radio	Starting a new career in your mid-thirties.	1	7	No benefits at all: 1,2,3,Moderate benefits: 4,5,6,Great benefits: 7	1,2,3,4,5,6,7
 radio	Leaving your young children alone at home while running an errand.	1	7	No benefits at all: 1,2,3,Moderate benefits: 4,5,6,Great benefits: 7	1,2,3,4,5,6,7
 radio	Not returning a wallet you found that contains $200.	1	7	No benefits at all: 1,2,3,Moderate benefits: 4,5,6,Great benefits: 7	1,2,3,4,5,6,7
-instruction	Congratulations for completing this task!</p><p class = center-block-text>Press <strong>finish</strong> to continue.	0	8		
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	8		
