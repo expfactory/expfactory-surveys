@@ -2,6 +2,7 @@ general:
   artifacts:
     - .
 
+
 test:
   override:
     - source $HOME/.bashrc    
