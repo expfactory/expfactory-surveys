@@ -17,7 +17,38 @@ radio	How often during the last year have you had a feeling of guilt or remorse 
 radio	How often during the last year have you been unable to remember what happened the night before because you had been drinking?	1	4	Never,Less than monthly,Monthly,Weekly,Daily or almost daily	1,2,3,4,5
 radio	Have you or someone else been injured as a result of your drinking?	1	4	No,Yes but not in the last year,Yes during the last year,I don't drink	1,2,3,0
 radio	Has a relative or friend or a doctor or another health worker been concerned about your drinking or suggested you cut down?	1	4	No,Yes but not in the last year,Yes during the last year,I don't drink	1,2,3,0
-instruction	Below is a list of questions concerning information about your potential involvement with drugs, excluding alcohol, marijuana and tobacco, during the past 12 months.<br>When the words “drug abuse” are used, they mean the use of prescribed or over‐the‐counter medications/drugs in excess of the directions and any non‐medical use of drugs. The various classes of drugs may include: cannabis (e.g., marijuana, hash), solvents, tranquilizers (e.g., Valium), barbiturates, cocaine, stimulants (e.g., speed), hallucinogens (e.g., LSD) or narcotics (e.g., heroin). <u>Remember that the questions do not include alcohol, marijuana or tobacco.</u>	1	6		
+radio	 Have you used any cannabis over the past 6 months?	1	5	Yes, No	1,0
+instruction	<h5>If yes...</h5>	0	5		
+radio	How often do you use cannabis?	0	5	Never, Monthly of less, 2-4 times a month, 2-3 times a week, 4 times a week or more	0,1,2,3,4
+radio	"How many hours were you ‘stoned’ on
+a typical day when you had been using
+Cannabis?"	0	5	Never, Monthly of less, 2-4 times a month, 2-3 times a week, 4 times a week or more	0,1,2,3,4
+radio	"How often were you ‘stoned’ for six or
+more occasions?"	0	5	Never, Monthly of less, 2-4 times a month, 2-3 times a week, 4 times a week or more	0,1,2,3,4
+radio	"How often during the past six months did
+you find that you were not able to stop
+using cannabis once you had started?"	0	5	Never, Monthly of less, 2-4 times a month, 2-3 times a week, 4 times a week or more	0,1,2,3,4
+radio	" How often during the past six months did
+you fail to do what was normally expected
+from you because of using cannabis?"	0	5	Never, Monthly of less, 2-4 times a month, 2-3 times a week, 4 times a week or more	0,1,2,3,4
+radio	"How often during the past six months
+have you needed to use cannabis in the
+morning to get yourself going after a
+heavy session of using cannabis?"	0	5	Never, Monthly of less, 2-4 times a month, 2-3 times a week, 4 times a week or more	0,1,2,3,4
+radio	"How often during the past six months did
+you have a feeling of guilt or remorse
+after using cannabis?"	0	5	Never, Monthly of less, 2-4 times a month, 2-3 times a week, 4 times a week or more	0,1,2,3,4
+radio	"How often in the past six months have
+you had a problem with your memory or
+concentration after using cannabis?"	0	5	Never, Monthly of less, 2-4 times a month, 2-3 times a week, 4 times a week or more	0,1,2,3,4
+radio	"Have you or someone else been injured as
+a result of your use of cannabis over the
+past six months?"	0	5	No, Yes	0,4
+radio	"Has a relative, friend or doctor, or other
+health worker been concerned about your
+use of cannabis or suggested that you
+should cut down over the past six months?"	0	5	No, Yes	0,4
+instruction	<h5>Below is a list of questions concerning information about your potential involvement with drugs, excluding alcohol, marijuana and tobacco, during the past 12 months.<br><br>When the words “drug abuse” are used, they mean the use of prescribed or over‐the‐counter medications/drugs in excess of the directions and any non‐medical use of drugs. The various classes of drugs may include: cannabis (e.g., marijuana, hash), solvents, tranquilizers (e.g., Valium), barbiturates, cocaine, stimulants (e.g., speed), hallucinogens (e.g., LSD) or narcotics (e.g., heroin).<br><br> <u>Remember that the questions do not include alcohol, marijuana or tobacco.</u></h5>	1	6		
 radio	Have you used drugs other than those required for medical reasons?	1	6	No, Yes	0, 1
 radio	Do you abuse more than one drug at a time?	1	6	No, Yes	0, 1
 radio	"Are you always able to stop using drugs when you want to? (If never use
@@ -33,4 +64,4 @@ radio	"Have you ever experienced withdrawal symptoms (felt sick) when you
 stopped taking drugs?"	1	6	No, Yes	0, 1
 radio	"Have you had medical problems as a result of your drug use (e.g.,
 memory loss, hepatitis, convulsions, bleeding, etc.)?"	1	6	No, Yes	0, 1
-instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6		
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	7		
