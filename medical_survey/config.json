@@ -1,6 +1,7 @@
 [
     {
         "name": "Demographics Survey",
+        "template":"jspsych",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
