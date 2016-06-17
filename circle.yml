@@ -24,7 +24,7 @@ test:
     - $HOME/miniconda2/bin/python -c "from expfactory.tests import circle_ci_survey; circle_ci_survey('grit_scale_survey','.');"
     - $HOME/miniconda2/bin/python -c "from expfactory.tests import circle_ci_survey; circle_ci_survey('holt_laury_survey','.');"
     - $HOME/miniconda2/bin/python -c "from expfactory.tests import circle_ci_survey; circle_ci_survey('impulsive_venture_survey','.');"
-    - $HOME/miniconda2/bin/python -c "from expfactory.tests import circle_ci_survey; circle_ci_survey('K6_survey','.');"
+    - $HOME/miniconda2/bin/python -c "from expfactory.tests import circle_ci_survey; circle_ci_survey('k6_survey','.');"
     - $HOME/miniconda2/bin/python -c "from expfactory.tests import circle_ci_survey; circle_ci_survey('leisure_time_activity_survey','.');"
     - $HOME/miniconda2/bin/python -c "from expfactory.tests import circle_ci_survey; circle_ci_survey('mindful_attention_awareness_survey','.');"
     - $HOME/miniconda2/bin/python -c "from expfactory.tests import circle_ci_survey; circle_ci_survey('mpq_control_survey','.');"
