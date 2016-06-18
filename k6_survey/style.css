@@ -26,7 +26,7 @@ p {
 
 .mdl-radio {
   float: left;
-  width: 80px;
+  width: 90px;
   margin-left: 48px;
 }
 
@@ -52,7 +52,7 @@ p {
 }
 
 /* line for 5 option likert */
-form #K6_survey_3_options:before, #K6_survey_4_options:before, #K6_survey_5_options:before, #K6_survey_6_options:before, #K6_survey_7_options:before, #K6_survey_8_options:before  {
+form #k6_survey_3_options:before, #k6_survey_4_options:before, #k6_survey_5_options:before, #k6_survey_6_options:before, #k6_survey_7_options:before, #k6_survey_8_options:before, #k6_survey_14_options:before {
   content: '';
   position:relative;
   top:53px;
@@ -60,11 +60,11 @@ form #K6_survey_3_options:before, #K6_survey_4_options:before, #K6_survey_5_opti
   display:block;
   background-color:#efefef;
   height:4px;
-  width:512px;
+  width:552px;
 }
 
 /* line for 7 option likert */
-form #K6_survey_9_options:before {
+form #k6_survey_9_options:before {
   content: '';
   position:relative;
   top:102px;
@@ -72,6 +72,6 @@ form #K6_survey_9_options:before {
   display:block;
   background-color:#efefef;
   height:4px;
-  width:768px;
+  width:828px;
 }
 

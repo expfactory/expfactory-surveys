@@ -16,7 +16,7 @@
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js",
                  "style.css"
                ],
-        "exp_id": "K6_survey",
+        "exp_id": "k6_survey",
         "cognitive_atlas_task_id": "",
         "contributors": [
                          "Ian Eisenberg",
