@@ -11,7 +11,7 @@ radio	… so depressed that nothing could cheer you up?	1	3	All of the time, Mos
 radio	… that everything was an effort?	1	3	All of the time, Most of the time, Some of the time, A little of the time, None of the time	1,2,3,4,5
 radio	… worthless?	1	3	All of the time, Most of the time, Some of the time, A little of the time, None of the time	1,2,3,4,5
 radio	"Q2: The last six questions asked about feelings that might have occurred during the past 30
-days. Taking them altogether, did these feelings occur More often in the past 30 days
+days. Taking them altogether, did these feelings occur more often in the past 30 days
 than is usual for you, about the same as usual, or less often than usual? (If you never
 have any of these feelings, select “about the same as usual”) "	1	3	A lot, Some<br><strong>More often than usual<br>←</strong>, A little, About the same as usual, A little , Some<br><strong>Less often than usual<br>→</strong>, A lot	1,2,3,4,5,6,7
 instruction	"<h4>The next few questions are about how these feelings may have affected you in the past 30 days.
@@ -31,6 +31,6 @@ checkbox	Do you have or have you ever been diagnosed with any of the following p
 textfield	If you responded “other” to the above question, please describe:	0	5		
 radio	Have you been diagnosed with any neurological disorder (e.g. Alzheimer's, Parkinson's)?	1	5	Yes, No	1, 0
 textfield	If you responded “yes” to the above question, please describe:	0	5		
-checkbox	Do you have or have you ever been diagnosed with any of the following medical conditions (check all that apply)?	1	5	Type II diabetes, Metabolic Syndrome, High Blood Pressure, Heart Disease, Stroke, Caner, Sleep Apnea, Other, None	
+checkbox	Do you have or have you ever been diagnosed with any of the following medical conditions (check all that apply)?	1	5	Type II diabetes, Metabolic Syndrome, High Blood Pressure, Heart Disease, Stroke, Cancer, Sleep Apnea, Other, None	
 textfield	If you responded “other” to the above question, please describe:	0	5		
 instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6		

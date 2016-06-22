@@ -48,7 +48,7 @@ radio	"Has a relative, friend or doctor, or other
 health worker been concerned about your
 use of cannabis or suggested that you
 should cut down over the past six months?"	0	5	No, Yes	0,4
-instruction	<h5>Below is a list of questions concerning information about your potential involvement with drugs, excluding alcohol, marijuana and tobacco, during the past 12 months.<br><br>When the words “drug abuse” are used, they mean the use of prescribed or over‐the‐counter medications/drugs in excess of the directions and any non‐medical use of drugs. The various classes of drugs may include: cannabis (e.g., marijuana, hash), solvents, tranquilizers (e.g., Valium), barbiturates, cocaine, stimulants (e.g., speed), hallucinogens (e.g., LSD) or narcotics (e.g., heroin).<br><br> <u>Remember that the questions do not include alcohol, marijuana or tobacco.</u></h5>	1	6		
+instruction	<h5>Below is a list of questions concerning information about your potential involvement with drugs, excluding alcohol, marijuana and tobacco, during the past 12 months.<br><br>When the words “drug abuse” are used, they mean the use of prescribed or over‐the‐counter medications/drugs in excess of the directions and any non‐medical use of drugs. The various classes of drugs may include: solvents, tranquilizers (e.g., Valium), barbiturates, cocaine, stimulants (e.g., speed), hallucinogens (e.g., LSD) or narcotics (e.g., heroin).<br><br> <u>Remember that the questions do not include alcohol, marijuana or tobacco.</u></h5>	1	6		
 radio	Have you used drugs other than those required for medical reasons?	1	6	No, Yes	0, 1
 radio	Do you abuse more than one drug at a time?	1	6	No, Yes	0, 1
 radio	"Are you always able to stop using drugs when you want to? (If never use
