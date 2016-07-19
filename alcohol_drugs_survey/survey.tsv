@@ -33,7 +33,7 @@ instruction	<h5>Below is a list of questions concerning information about your p
 radio	Have you used drugs other than those required for medical reasons?	1	6	No, Yes	0, 1
 radio	Do you abuse more than one drug at a time?	1	6	No, Yes	0, 1
 radio	"Are you always able to stop using drugs when you want to? (If never use
-drugs, answer “Yes.” "	1	6	No, Yes	0, 1
+drugs, answer “Yes.” )"	1	6	No, Yes	0, 1
 radio	"Have you had ""blackouts"" or ""flashbacks"" as a result of drug use?"	1	6	No, Yes	0, 1
 radio	"Do you ever feel bad or guilty about your drug use? If never use drugs,
 choose “No.”"	1	6	No, Yes	0, 1
