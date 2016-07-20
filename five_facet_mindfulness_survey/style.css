@@ -21,7 +21,7 @@
 }
 
 .mdl-cell--8-col, .mdl-cell--8-col-desktop.mdl-cell--8-col-desktop {
-  width: 1330px;
+  width: 1050px;
 	margin-left: auto;
   margin-right: auto;
 }
@@ -53,20 +53,8 @@ p {
   background-color:white;
 }
 
-/* line for 4 option likert */
-form #five_facet_mindfulness_survey_2_options:before, form #five_facet_mindfulness_survey_3_options:before, form #five_facet_mindfulness_survey_4_options:before, #five_facet_mindfulness_survey_24_options:before, #five_facet_mindfulness_survey_32_options:before {
-  content: '';
-  position:relative;
-  top:53px;
-  left:61px;
-  display:block;
-  background-color:#efefef;
-  height:4px;
-  width:414px;
-}
 
-/* line for 5 option likert */
-form #five_facet_mindfulness_survey_9_options:before, #five_facet_mindfulness_survey_10_options:before, #five_facet_mindfulness_survey_11_options:before, #five_facet_mindfulness_survey_12_options:before, #five_facet_mindfulness_survey_13_options:before, #five_facet_mindfulness_survey_14_options:before, #five_facet_mindfulness_survey_15_options:before, #five_facet_mindfulness_survey_16_options:before, #five_facet_mindfulness_survey_22_options:before, #five_facet_mindfulness_survey_23_options:before, #five_facet_mindfulness_survey_25_options:before, #five_facet_mindfulness_survey_26_options:before, #five_facet_mindfulness_survey_27_options:before, #five_facet_mindfulness_survey_28_options:before, #five_facet_mindfulness_survey_29_options:before, #five_facet_mindfulness_survey_30_options:before, #five_facet_mindfulness_survey_31_options:before, #five_facet_mindfulness_survey_33_options:before, #five_facet_mindfulness_survey_34_options:before, #five_facet_mindfulness_survey_35_options:before, #five_facet_mindfulness_survey_36_options:before, #five_facet_mindfulness_survey_37_options:before, #five_facet_mindfulness_survey_38_options:before, #five_facet_mindfulness_survey_39_options:before  {
+form p:before {
   content: '';
   position:relative;
   top:53px;
@@ -77,29 +65,12 @@ form #five_facet_mindfulness_survey_9_options:before, #five_facet_mindfulness_su
   width:552px;
 }
 
-/* line for 6 option likert */
-form #five_facet_mindfulness_survey_17_options:before, #five_facet_mindfulness_survey_18_options:before, #five_facet_mindfulness_survey_19_options:before, #five_facet_mindfulness_survey_20_options:before, #five_facet_mindfulness_survey_21_options:before {
-  content: '';
-  position:relative;
-  top:53px;
-  left:61px;
-  display:block;
-  background-color:#efefef;
-  height:4px;
-  width:690px;
+form #five_facet_mindfulness_survey_20_options:before,
+	#five_facet_mindfulness_survey_23_options:before,
+	#five_facet_mindfulness_survey_32_options:before,
+	#five_facet_mindfulness_survey_36_options:before {
+	top: 78px;
 }
 
-
-/* line for 7 option likert */
-form #five_facet_mindfulness_survey_5_options:before, #five_facet_mindfulness_survey_6_options:before, #five_facet_mindfulness_survey_7_options:before, #five_facet_mindfulness_survey_8_options:before, #five_facet_mindfulness_survey_40_options:before {
-  content: '';
-  position:relative;
-  top:53px;
-  left:61px;
-  display:block;
-  background-color:#efefef;
-  height:4px;
-  width:828px;
-}
 
 
