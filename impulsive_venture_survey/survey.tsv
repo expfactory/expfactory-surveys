@@ -1,38 +1,38 @@
 question_type	question_text	required	page_number	option_text	option_values
 instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1		
 instruction	Please answer each question by clicking 'Yes' or 'No' following the questions. There are no right or wrong answers, and no trick questions.	0	2		
+radio	Would you enjoy water skiing?	1	3	Yes,No	2,1
+radio	Usually do you prefer to stick to brands you know are reliable to trying new ones on the chance of finding something better?	1	3	Yes,No	1,2
+radio	Do you quite enjoy taking risks?	1	3	Yes,No	2,1
+radio	Would you enjoy parachute jumping?	1	3	Yes,No	2,1
 radio	Do you often buy things on impulse?	1	3	Yes,No	2,1
 radio	Do you generally do and say things without stopping to think?	1	3	Yes,No	2,1
 radio	Do you often get into a jam because you do things without thinking?	1	3	Yes,No	2,1
+radio	Do you think hitch-hiking is too dangerous a way to travel?	1	3	Yes,No	1,2
+radio	Do you like diving off the highboard?	1	3	Yes,No	2,1
 radio	Are you an impulsive person?	1	3	Yes,No	2,1
+radio	Do you welcome new and exciting experiences and sensations even if they are a little frightening and unconventional?	1	3	Yes,No	2,1
 radio	Do you usually think carefully before doing anything?	1	3	Yes,No	1,2
+radio	Would you like to learn to fly an aeroplane?	1	3	Yes,No	2,1
 radio	Do you often do things on the spur of the moment?	1	3	Yes,No	2,1
 radio	Do you mostly speak before thinking things out?	1	3	Yes,No	2,1
 radio	Do you often get involved in things you later wish you could get out of?	1	3	Yes,No	2,1
 radio	Do you get so 'carried away' by new and exciting ideas. that you never think of possible snags?	1	3	Yes,No	2,1
+radio	Do you find it hard to understand people who risk their necks climbing mountains?	1	3	Yes,No	1,2
+radio	Do you sometimes like doing things that are a bit frightening?	1	3	Yes,No	2,1
 radio	Do you need to use a lot of self-control to keep out of trouble?	1	3	Yes,No	2,1
 radio	Would you agree that almost everything enjoyable is illegal or immoral?	1	3	Yes,No	2,1
+radio	Generally do you prefer to enter cold sea water gradually, to diving or jumping straight in?	1	3	Yes,No	1,2
 radio	Are you often surprised at people's reactions to what you do or say?	1	3	Yes,No	2,1
+radio	Would you enjoy the sensation of skiing very fast down a high mountain slope?	1	3	Yes,No	2,1
 radio	Do you think an evening out is more successful if it is unplanned or arranged at the last moment?	1	3	Yes,No	2,1
+radio	Would you like to go scuba diving?	1	3	Yes,No	2,1
+radio	Would you enjoy fast driving?	1	3	Yes,No	2,1
 radio	Do you usually work quickly, without bothering to check?	1	3	Yes,No	2,1
 radio	Do you often change your interests?	1	3	Yes,No	2,1
 radio	Before making up your mind, do you consider all the advantages and disadvantages?	1	3	Yes,No	1,2
+radio	Would you be put off a job involving quite a bit of danger?	1	3	Yes,No	1,2
 radio	Do you prefer to 'sleep on it' before making decisions?	1	3	Yes,No	1,2
 radio	When people shout at you, do you shout back?	1	3	Yes,No	2,1
 radio	Do you usually make up your mind quickly?	1	3	Yes,No	2,1
-radio	Would you enjoy water skiing?	1	4	Yes,No	2,1
-radio	Usually do you prefer to stick to brands you know are reliable to trying new ones on the chance of finding something better?	1	4	Yes,No	1,2
-radio	Do you quite enjoy taking risks?	1	4	Yes,No	2,1
-radio	Would you enjoy parachute jumping?	1	4	Yes,No	2,1
-radio	Do you think hitch-hiking is too dangerous a way to travel?	1	4	Yes,No	1,2
-radio	Do you like diving off the highboard?	1	4	Yes,No	2,1
-radio	Do you welcome new and exciting experiences and sensations even if they are a little frightening and unconventional?	1	4	Yes,No	2,1
-radio	Would you like to learn to fly an aeroplane?	1	4	Yes,No	2,1
-radio	Do you find it hard to understand people who risk their necks climbing mountains?	1	4	Yes,No	1,2
-radio	Do you sometimes like doing things that are a bit frightening?	1	4	Yes,No	2,1
-radio	Generally do you prefer to enter cold sea water gradually, to diving or jumping straight in?	1	4	Yes,No	1,2
-radio	Would you enjoy the sensation of skiing very fast down a high mountain slope?	1	4	Yes,No	2,1
-radio	Would you like to go scuba diving?	1	4	Yes,No	2,1
-radio	Would you enjoy fast driving?	1	4	Yes,No	2,1
-radio	Would you be put off a job involving quite a bit of danger?	1	4	Yes,No	1,2
-instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	5		
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4		
