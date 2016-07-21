@@ -28,7 +28,7 @@
         "time":999,
         "experiment_variables": "",
         "reference": "http://psycnet.apa.org/journals/psp/77/6/1271.pdf",
-        "notes": "",
+        "notes": "Scoring: http://www.alexpaterson.co.za/downloads/ztpi-nl-info.doc",
         "publish":"True",
         "deployment_variables":{"material_design":
                                {"fullscreen": true}
