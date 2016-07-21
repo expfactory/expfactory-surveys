@@ -28,8 +28,7 @@ radio	Please select which of the two statements is more true for you.	1	4	When I
 radio	Please select which of the two statements is more true for you.	1	4	When something becomes increasingly difﬁcult for me I accept it, When something becomes increasingly difﬁcult for me I consider which goals I could achieve under the circumstances	0,1
 radio	Please select which of the two statements is more true for you.	1	4	When things do not go so well I leave it at that, When things do not work so well I pursue my most important goal ﬁrst	0,1
 radio	Please select which of the two statements is more true for you.	1	4	When something requires more and more effort I do not worry about it, When something requires more and more effort I think about what exactly I really want	0,1
-radio	Please select which of the two statements is more true for you.	1	4	"When things do not go as well as before I wait for better times, When things do not go as well as before I drop some goals to concentrate on the more important ones,
-"	0,1
+radio	Please select which of the two statements is more true for you.	1	4	When things do not go as well as before I wait for better times, When things do not go as well as before I drop some goals to concentrate on the more important ones	0,1
 radio	Please select which of the two statements is more true for you.	1	4	"When I am not able to achieve something anymore I direct my efforts at what is still possible,
 When I am not able to achieve something anymore I trust that the situation will improve by itself"	1,0
 radio	Please select which of the two statements is more true for you.	1	4	"When things do not go as well as before I think about what exactly Is really important to me,

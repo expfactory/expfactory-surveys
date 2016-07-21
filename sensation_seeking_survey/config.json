@@ -27,12 +27,10 @@
         "time":999,
         "experiment_variables": "",
         "reference": "http://psycnet.apa.org/journals/ccp/46/1/139.pdf",
-        "notes": "http://wsm.wsu.edu/s/we.php?id=200",
+        "notes": "scoring: http://wsm.wsu.edu/s/we.php?id=200",
         "publish":"True",
         "deployment_variables":{"material_design":
                                {"fullscreen": true}
                        }
-
-    
    }
 ]
