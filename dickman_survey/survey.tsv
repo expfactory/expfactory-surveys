@@ -1,27 +1,27 @@
 question_type	question_text	required	page_number	option_text	option_values
 instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1		
 instruction	For each of the following statements, please indicate whether you agree with them.	0	2		
-radio	Often, I don't spend enough time thinking over a situation before I act.	1	4	True,False	2,1
+radio	Often, I don't spend enough time thinking over a situation before I act.	1	3	True,False	2,1
 radio	I try to avoid activities where you have to act without much time to think first.	1	3	True,False	1,2
 radio	I don't like to make decisions quickly, even simple decisions, such as choosing what to wear, or what to have for dinner.	1	3	True,False	1,2
-radio	I enjoy working out problems slowly and carefully.	1	4	True,False	1,2
+radio	I enjoy working out problems slowly and carefully.	1	3	True,False	1,2
 radio	I am good at taking advantage of unexpected opportunities,where you have to do something immediately or lose your chance.	1	3	True,False	2,1
 radio	I would enjoy working at a job that required me to make a lot of split-second decisions.	1	3	True,False	2,1
-radio	I often make up my mind without taking the time to consider the situation from all angles.	1	4	True,False	2,1
+radio	I often make up my mind without taking the time to consider the situation from all angles.	1	3	True,False	2,1
 radio	I have often missed out on opportunities because I couldn't make up my mind fast enough.	1	3	True,False	1,2
-radio	I often say and do things without considering the consequences.	1	4	True,False	2,1
-radio	I frequently make appointments without thinking about whether I will be able to keep them.	1	4	True,False	2,1
+radio	I often say and do things without considering the consequences.	1	3	True,False	2,1
+radio	I frequently make appointments without thinking about whether I will be able to keep them.	1	3	True,False	2,1
 radio	I am uncomfortable when l have to make up my mind rapidly.	1	3	True,False	1,2
 radio	I don't like to do things quickly, even when I am doing something that is not very difficult.	1	3	True,False	1,2
-radio	I frequently buy things without thinking about whether or not I can really afford them.	1	4	True,False	2,1
-radio	I am good at careful reasoning.	1	4	True,False	1,2
+radio	I frequently buy things without thinking about whether or not I can really afford them.	1	3	True,False	2,1
+radio	I am good at careful reasoning.	1	3	True,False	1,2
 radio	I like to take part in really fast-paced conversations, where you don't have much time to think before you speak.	1	3	True,False	2,1
 radio	I like sports and games in which you have to choose your next move very quickly.	1	3	True,False	2,1
-radio	Many times the plans I make don't work out because I haven‘t gone over them carefully enough in advance.	1	4	True,False	2,1
-radio	I often get into trouble because I don't think before I act.	1	4	True,False	2,1
+radio	Many times the plans I make don't work out because I haven‘t gone over them carefully enough in advance.	1	3	True,False	2,1
+radio	I often get into trouble because I don't think before I act.	1	3	True,False	2,1
 radio	Most of the time, I can put my thoughts into words very rapidly.	1	3	True,False	2,1
 radio	People have admired me because I can think quickly.	1	3	True,False	2,1
-radio	I will often say whatever comes into my head without thinking first.	1	4	True,False	2,1
-radio	Before making any important decision, I carefully weigh the pros and cons.	1	4	True,False	1,2
-radio	I rarely get involved in projects without first considering the potential problems.	1	4	True,False	1,2
-instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	5		
+radio	I will often say whatever comes into my head without thinking first.	1	3	True,False	2,1
+radio	Before making any important decision, I carefully weigh the pros and cons.	1	3	True,False	1,2
+radio	I rarely get involved in projects without first considering the potential problems.	1	3	True,False	1,2
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4		
