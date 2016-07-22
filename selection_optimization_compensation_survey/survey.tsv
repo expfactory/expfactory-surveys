@@ -10,8 +10,7 @@ I always pursue many goals at once so that I easily get bogged down"	1,0
 radio	Please select which of the two statements is more true for you.	1	3	"I know exactly what I want and what I do not want,
 I often only know what I want as the result of a situation"	1,0
 radio	Please select which of the two statements is more true for you.	1	3	When I decide upon a goal I stick to it, I can change a goal again at any time	1,0
-radio	Please select which of the two statements is more true for you.	1	3	"I always approach several goals at once, I always direct my attention to my most important goal
-"	0,1
+radio	Please select which of the two statements is more true for you.	1	3	I always approach several goals at once, I always direct my attention to my most important goal	0,1
 radio	Please select which of the two statements is more true for you.	1	3	"I make important life decisions,
 I do not like to commit myself to speciﬁc life decisions"	1,0
 radio	Please select which of the two statements is more true for you.	1	3	"I consider exactly what is important for me,

@@ -1,6 +1,6 @@
 [
     {
-        "name": "SOC: Selection-Optimization-Compensation (SOC) questionnaire",
+        "name": "SOC: Selection-Optimization-Compensation questionnaire",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
