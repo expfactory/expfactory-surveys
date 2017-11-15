@@ -27,7 +27,7 @@
                         ], 
         "time":999,
         "experiment_variables": "",
-        "reference": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2431129/",
+        "reference": "https://www.ncbi.nlm.nih.gov/pubmed/14732414",
         "notes": "",
         "publish":"True",
         "deployment_variables":{"material_design":
