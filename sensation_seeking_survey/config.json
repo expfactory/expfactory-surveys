@@ -1,6 +1,6 @@
 [
     {
-        "name": "Zuckerman Sensation Seeking Scale Survey",
+        "name": "Zuckerman Sensation Seeking Scale Survey V",
         "exp_id": "sensation_seeking_survey",
         "template":"survey",
         "run": [
@@ -26,7 +26,8 @@
                         ], 
         "time":999,
         "experiment_variables": "",
-        "reference": "http://psycnet.apa.org/journals/ccp/46/1/139.pdf",
+        "reference": ["http://psycnet.apa.org/journals/ccp/46/1/139.pdf", 
+                     "http://wsm.wsu.edu/s/we.php?id=200"],
         "notes": "scoring: http://wsm.wsu.edu/s/we.php?id=200",
         "publish":"True",
         "deployment_variables":{"material_design":
