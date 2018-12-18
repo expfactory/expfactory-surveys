@@ -1,0 +1,19 @@
+question_type	question_text	required	page_number	option_text	option_values
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1	
+instruction	Please read every question and indicate how much you agree or disagree.	0	2
+instruction	0 = Strongly Disagree, 1 = Disagree, 2 = Neither Agree nor Disagree, 3 = Agree, 4 = Strongly Agree	0	3
+radio	I feel out of control in the presence of delicious food	1	3	0,1,2,3,4	0,1,2,3,4
+radio	When I start eating, I just can't seem to stop	1	3	0,1,2,3,4	0,1,2,3,4
+radio	It is difficult for me to leave food on my plate	1	3	0,1,2,3,4	0,1,2,3,4
+radio	When it comes to foods I love, I have no willpower	1	3	0,1,2,3,4	0,1,2,3,4
+radio	I get so hungry that my stomach often seems like a bottomless pit	1	3	0,1,2,3,4	0,1,2,3,4
+radio	I don't get full easily	1	3	0,1,2,3,4	0,1,2,3,4
+radio	It seems like most of my waking hours are preoccupied by thoughts about eating or not eating	1	3	0,1,2,3,4	0,1,2,3,4
+radio	I have days when I can't seem to think about anything else but food	1	3	0,1,2,3,4	0,1,2,3,4
+radio	Food is always on my mind	1	3	0,1,2,3,4	0,1,2,3,4
+radio	I feel hungry all the time	1	3	0,1,2,3,4	0,1,2,3,4
+radio	I can't stop thinking about eating no matter how hard I try	1	3	0,1,2,3,4	0,1,2,3,4
+radio	I find myself continuing to consume certain foods even though I am no longer hungry	1	3	0,1,2,3,4	0,1,2,3,4
+radio	If food tastes good to me, I eat more than usual	1	3	0,1,2,3,4	0,1,2,3,4
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4	
+

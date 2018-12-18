@@ -1,0 +1,14 @@
+question_type	question_text	required	page_number	option_text	option_values
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1	
+instruction	Please answer the following questions about your eating habits.	0	2		
+radio	When I smell a sizzling steak or juicy piece of meat, I find it very difficult to keep from eating, even if I have just finished a meal.	1	3	Definitely true,Mostly true,Mostly false, Definitely false	4,3,2,1
+radio	Sometimes when I start eating, I just can’t seem to stop.	1	3	Definitely true,Mostly true,Mostly false, Definitely false	4,3,2,1
+radio	Being with someone who is eating often makes me hungry enough to eat also.	1	3	Definitely true,Mostly true,Mostly false, Definitely false	4,3,2,1
+radio	When I see a real delicacy, I often get so hungry that I have to eat right away.	1	3	Definitely true,Mostly true,Mostly false, Definitely false	4,3,2,1
+radio	I get so hungry that my stomach often seems like a bottomless pit.	1	3	Definitely true,Mostly true,Mostly false, Definitely false	4,3,2,1
+radio	I am always hungry so it is hard for me to stop eating before I finish the food on my plate.	1	3	Definitely true,Mostly true,Mostly false, Definitely false	4,3,2,1
+radio	I am always hungry enough to eat at any time.	1	3	Definitely true,Mostly true,Mostly false, Definitely false	4,3,2,1
+radio	I am always hungry so it is hard for me to stop eating before I finish the food on my plate.	1	3	Only at meal times, Sometimes between meals,Often between meals,Almost always	1,2,3,4
+radio	 Do you go on eating binges though you are not hungry?	1	3	Agree strongly,Agree some,Disagree some,Disagree strongly	1,2,3,4
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4
+

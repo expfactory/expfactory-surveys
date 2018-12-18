@@ -1,0 +1,10 @@
+question_type	question_text	required	page_number	option_text	option_values
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1	
+instruction	Please answer the following questions.	0	2	
+radio	How soon after you wake up do you smoke your first cigarette?	1	3	After 60 minutes,31-60 minutes,6-30 minutes,Within 5 minutes	0,1,2,3
+radio	Do you find it difficult to refrain from smoking in places where it is forbidden, e.g. in church, at the library, in cinema, etc.?	1	3	No,Yes	0,1
+radio	Which cigarette would you hate most to give up?	1	3	All other,The first one in the morning	0,1
+radio	How many cigarettes/day do you smoke?	1	3	10 or less,11-20,21-30,31 or more	0,1,2,3
+radio	Do you smoke more frequently during the first hours of waking than during the rest of the day?	1	3	No,Yes	0,1
+radio	Do you smoke if you are so ill that you are in bed most of the day?	1	3	No,Yes	0,1
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6	
