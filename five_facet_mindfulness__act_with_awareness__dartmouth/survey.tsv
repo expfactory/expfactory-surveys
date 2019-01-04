@@ -1,12 +1,12 @@
-question_type	question_text	required	page_number	option_text	option_values
+question_type	question_text	required	page_number	option_text	option_values	variables
 instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1		
 instruction	Please answer the following questions on your tendency to bring your complete attention to experiences occuring in the present moment.<br><br>For every question, provide a response from: <ul list-text><li>Never or very rarely true</li><li>Rarely true</li><li>Sometimes true</li><li>Often true</li><li>Very often or always true	0	2
-radio	When I do things, my mind wanders off and I'm easily distracted. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1
-radio	I don't pay attention to what I'm doing because I'm daydreaming, worrying, or otherwise distracted. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1
-radio	I am easily distracted. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1
-radio	I find it difficult to stay focused on what's happening in the present. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1
-radio	It seems I am "running on automatic" without much awareness of what I'm doing. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1
-radio	I rush through activities without being really attentive to them. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1
-radio	I do jobs or tasks automatically without being aware of what I'm doing. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1
-radio	I find myself doing things without paying attention. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1
+radio	When I do things, my mind wanders off and I'm easily distracted. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1	ffmq5_bl
+radio	I don't pay attention to what I'm doing because I'm daydreaming, worrying, or otherwise distracted. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1	ffmq8_bl
+radio	I am easily distracted. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1	ffmq13_bl
+radio	I find it difficult to stay focused on what's happening in the present. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1	ffmq18_bl
+radio	It seems I am "running on automatic" without much awareness of what I'm doing. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1	ffmq23_bl
+radio	I rush through activities without being really attentive to them. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1	ffmq28_bl
+radio	I do jobs or tasks automatically without being aware of what I'm doing. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1	ffmq34_bl
+radio	I find myself doing things without paying attention. 	1	3	Never or very rarely true,Rarely true,Sometimes true,Often true,Very often or always true	5,4,3,2,1	ffmq38_bl
 instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4
