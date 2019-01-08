@@ -1,6 +1,6 @@
 [
     {
-        "name": "Demographics Survey Dartmouth",
+        "name": "Demographics Survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
@@ -15,7 +15,7 @@
                  "static/js/jquery/form/jquery.form-3.50.js",
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js"
                ],
-        "exp_id": "demographics_survey__dartmouth",
+        "exp_id": "demographics_survey",
         "cognitive_atlas_task_id": "",
         "contributors": [
                          "Zeynep Enkavi",
