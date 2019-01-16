@@ -1,18 +1,19 @@
 question_type	question_text	required	page_number	option_text	option_values	variables
-instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1		
-instruction	Please select which of the following statements is more true for you.	0	2	
-radio	Please select which of the two statements is more true for you.	1	3	When things do not go as well as before I choose one or two important goals, When things do not go as well as before I still try to keep all my goals	1,0	soclbs13_bl
-radio	Please select which of the two statements is more true for you.	1	3	When I cannot do something important the way I did before I distribute my time and energy among many other things, When I cannot do something important the way I did before I look for a new goal	0,1	soclbs14_bl
-radio	Please select which of the two statements is more true for you.	1	3	When I cannot do something as well as I used to I wait and see what comes, When I cannot do something as well as I used to I think about what exactly is important to me	0,1	soclbs15_bl
-radio	Please select which of the two statements is more true for you.	1	3	Even if I cannot do something as well as before I pursue all my goals, If I cannot do something as well as before I concentrate only on essentials	0,1	soclbs16_bl
-radio	Please select which of the two statements is more true for you.	1	3	When I cannot carry on as I used to I direct my attention (like usual) to all my goals, When I cannot carry on as I used to I direct my attention to my most important goal	0,1	soclbs17_bl
-radio	Please select which of the two statements is more true for you.	1	3	When something becomes increasingly difﬁcult for me I accept it, When something becomes increasingly difﬁcult for me I consider which goals I could achieve under the circumstances	0,1	soclbs18_bl
-radio	Please select which of the two statements is more true for you.	1	3	When things do not go so well I leave it at that, When things do not work so well I pursue my most important goal ﬁrst	0,1	soclbs19_bl
-radio	Please select which of the two statements is more true for you.	1	3	When something requires more and more effort I do not worry about it, When something requires more and more effort I think about what exactly I really want	0,1	soclbs20_bl
-radio	Please select which of the two statements is more true for you.	1	3	When things do not go as well as before I wait for better times, When things do not go as well as before I drop some goals to concentrate on the more important ones	0,1	soclbs21_bl
-radio	Please select which of the two statements is more true for you.	1	3	When I am not able to achieve something anymore I direct my efforts at what is still possible, When I am not able to achieve something anymore I trust that the situation will improve by itself	1,0	soclbs22_bl
-radio	Please select which of the two statements is more true for you.	1	3	When things do not go as well as before I think about what exactly Is really important to me, When things do not go as well as before I leave it at that	1,0	soclbs23_bl
-radio	Please select which of the two statements is more true for you.	1	3	When I can no longer do something in my usual way I think about what exactly I am able to do under the circumstances, When I can no longer do something in my usual way I do not think long about it	1,0	soclbs24_bl
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1
+instruction	Please select which of the following statements is more true for you.	0	2
+instruction	Please select which of the following statements is more true for you.	0	3
+radio	(A) When things do not go as well as before, I choose one or two important goals.<br>(B) When things do not go as well as before, I still try to keep all my goals.	1	3	(A),(B)	1,0	soclbs13_bl
+radio	(A) When I cannot do something important the way I did before, I distribute my time and energy among many other things.<br>(B) When I cannot do something important the way I did before, I look for a new goal.	1	3	(A),(B)	0,1	soclbs14_bl
+radio	(A) When I cannot do something as well as I used to, I wait and see what comes.<br>(B) When I cannot do something as well as I used to, I think about what exactly is important to me.	1	3	(A),(B)	0,1	soclbs15_bl
+radio	(A) Even if I cannot do something as well as before, I pursue all my goals.<br>(B)  If I cannot do something as well as before, I concentrate only on essentials.	1	3	(A),(B)	0,1	soclbs16_bl
+radio	(A) When I cannot carry on as I used to, I direct my attention (like usual) to all my goals.<br>(B)  When I cannot carry on as I used to, I direct my attention to my most important goal.	1	3	(A),(B)	0,1	soclbs17_bl
+radio	(A) When something becomes increasingly difﬁcult for me, I accept it.<br>(B)  When something becomes increasingly difﬁcult for me, I consider which goals I could achieve under the circumstances.	1	3	(A),(B)	0,1	soclbs18_bl
+radio	(A) When things do not go so well, I leave it at that.<br>(B)  When things do not work so well, I pursue my most important goal first.	1	3	(A),(B)	0,1	soclbs19_bl
+radio	(A) When something requires more and more effort, I do not worry about it.<br>(B)  When something requires more and more effort, I think about what exactly I really want.	1	3	(A),(B)	0,1	soclbs20_bl
+radio	(A) When things do not go as well as before, I wait for better times.<br>(B)  When things do not go as well as before, I drop some goals to concentrate on the more important ones.	1	3	(A),(B)	0,1	soclbs21_bl
+radio	(A) When I am not able to achieve something anymore, I direct my efforts at what is still possible.<br>(B)  When I am not able to achieve something anymore, I trust that the situation will improve by itself.	1	3	(A),(B)	1,0	soclbs22_bl
+radio	(A) When things do not go as well as before, I think about what exactly is really important to me.<br>(B)  When things do not go as well as before, I leave it at that.	1	3	(A),(B)	1,0	soclbs23_bl
+radio	(A) When I can no longer do something in my usual way, I think about what exactly I am able to do under the circumstances.<br>(B)  When I can no longer do something in my usual way, I do not think long about it.	1	3	(A),(B)	1,0	soclbs24_bl
 instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4
 
 
