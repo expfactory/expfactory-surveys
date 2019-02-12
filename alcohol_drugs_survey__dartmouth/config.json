@@ -15,7 +15,7 @@
                  "static/js/jquery/form/jquery.form-3.50.js",
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js"
                ],
-        "exp_id": "alcohol_drugs_survey",
+        "exp_id": "alcohol_drugs_survey__dartmouth",
         "cognitive_atlas_task_id": "",
         "contributors": [
                          "Ian Eisenberg",
