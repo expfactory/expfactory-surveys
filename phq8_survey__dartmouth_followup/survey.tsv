@@ -1,0 +1,13 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1	
+instruction	Please answer the following questions using the following scale: <br><br><ul list-text><li> Not at all </li><li> Several days</li><li> More than half the days</li><li> Nearly every day </li>	0	2
+instruction	Over the last 2 weeks, how often have you been bothered by any of the following problems?	0	3
+radio	Little interest or pleasure in doing in things	1	3	Not at all,Several days,More than half the days,Nearly every day	1,2,3,4	phq8_1
+radio	Feeling down, depressed, or hopeless	1	3	Not at all,Several days,More than half the days,Nearly every day	1,2,3,4	phq8_2
+radio	Trouble falling or staying asleep, or sleeping too much	1	3	Not at all,Several days,More than half the days,Nearly every day	1,2,3,4	phq8_3
+radio	Feeling tired or having little energy	1	3	Not at all,Several days,More than half the days,Nearly every day	1,2,3,4	phq8_4
+radio	Poor appetite or overeating	1	3	Not at all,Several days,More than half the days,Nearly every day	1,2,3,4	phq8_5
+radio	Feeling bad about yourself - or that you are a failure or have let yourself or your family down	1	3	Not at all,Several days,More than half the days,Nearly every day	1,2,3,4	phq8_6
+radio	Trouble concentrating on things, such as reading the newspaper or watching television	1	3	Not at all,Several days,More than half the days,Nearly every day	1,2,3,4	phq8_7
+radio	Moving or speaking so slowly that other people could have noticed?  Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual	1	3	Not at all,Several days,More than half the days,Nearly every day	1,2,3,4	phq8_8
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4
