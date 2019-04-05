@@ -14,7 +14,7 @@ radio	When I feel lonely, I console myself by eating.	1	4	Definitely true,mostly
 radio	I consciously hold back at meals in order not to gain weight.	1	4	Definitely true,mostly true,mostly false,definitely false	4,3,2,1	tfeque11_fu
 radio	I do not eat some foods because they make me fat.	1	4	Definitely true,mostly true,mostly false,definitely false	4,3,2,1	tfeque12_fu
 radio	I am always hungry enough to eat at any time.	1	5	Definitely true,mostly true,mostly false,definitely false	4,3,2,1	tfeque13_fu
-radio	How often do you feel hungry?	1	5	Only at meal times,sometimes between meals,often between meals,almost always	1,2,3,4	tfeque14_fu
+radio	How often do you feel hungry?	1	5	Only at <br>meal times,sometimes <br>between meals,often between<br> meals,almost always	1,2,3,4	tfeque14_fu
 radio	How frequently do you avoid 'stocking up' on tempting foods?	1	5	Almost never,seldom,usually,almost always	1,2,3,4	tfeque15_fu
 radio	How likely are you to consciously eat less than you want?	1	5	Unlikely,slightly likely,moderately likely,very likely	1,2,3,4	tfeque16_fu
 radio	Do you go on eating binges though you are not hungry?	1	5	Never,rarely,sometimes,at least once a week	1,2,3,4	tfeque17_fu
