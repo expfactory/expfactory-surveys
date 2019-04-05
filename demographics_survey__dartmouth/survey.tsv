@@ -6,6 +6,7 @@ checkbox	What is your race?	1	3	American Indian or Alaska Native,Asian,Black or 
 textfield	If you chose 'Other' for racial  background how would you describe it?	0	3	demographics_3
 radio	Are you of Hispanic, Latino or Spanish origin?	1	3	Yes, No	1,0	demographics_4
 radio	What is the highest level of education you have completed?	1	3	Did Not Complete High School, High School/GED, Some College, Bachelor's Degree, Master's Degree, Advanced Graduate work or Ph.D	1,2,3,4,5,6	demographics_5
+radio	What is your marital status?	1	3	Single (never married),Married,Separated,Widowed,Divorce	0,1,2,3,4	marital_status
 radio	What is your relationship status?	1	3	Single,Married,In Committed Relationship	1,2,3	demographics_6
 radio	How many times have you been divorced?	1	3	0,1,2,3,4,5,More	0,1,2,3,4,5,6	demographics_7
 instruction	<font size="2">How long was/is your longest romantic relationship (in years and months)?</font>	0	3	demographics_8
