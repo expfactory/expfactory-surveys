@@ -1,6 +1,6 @@
 [
     {
-        "name": "R18: Three factor eating questionnaire Survey Dartmouth Baseline",
+        "name": "Three factor eating questionnaire Survey R18 Dartmouth Baseline",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
