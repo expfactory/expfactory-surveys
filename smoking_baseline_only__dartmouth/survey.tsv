@@ -5,8 +5,8 @@ radio	Are you currently trying to quit or cut down on smoking?	1	3	Yes,No	0,1	qu
 numeric	In your whole life, how many times have you stopped smoking for one day or longer because you were trying to quit smoking cigarettes for good?	1	3	quit_smoke_life
 numeric	During the past 12 months, how many times have you stopped smoking for one day or longer because you were trying to quit smoking cigarettes for good?	1	3	quit_smoke_year
 radio	Have you ever been in behavioral therapy with a clinician for smoking? Please select "no" if you have taken medication without receiving behavioral therapy.	1	3	Yes,No	0,1	smoking_therapy_ever
-radio	[if yes to ever in behavioral therapy] How long ago did you last receive therapy?	1	3	Less than 6 months ago,6-12 months ago,more than one year but less than 5 years ago,5 or more years ago	0,1,2,3	smoking_therapy_last
-radio	[if yes to ever in behavioral therapy] Did the therapy help you reduce your smoking?	1	3	Yes,No	0,1	smoking_therapy_help
+radio	[if yes to ever in behavioral therapy] How long ago did you last receive therapy?	0	3	Less than 6 months ago,6-12 months ago,more than one year but less than 5 years ago,5 or more years ago	0,1,2,3	smoking_therapy_last
+radio	[if yes to ever in behavioral therapy] Did the therapy help you reduce your smoking?	0	3	Yes,No	0,1	smoking_therapy_help
 radio	In the past month, have you taken medication for psychiatric reasons (including stimulants and mood stabilizers)?	1	3	Yes,No	0,1	medication_psych_fu
 radio	In the past month, have you used nicotine replacement therapy (NRT), such as a patch, gum, lozenge, nasal spray, or inhaler?	1	3	Yes,No	0,1	nrt_fu
 instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6
