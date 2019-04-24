@@ -18,5 +18,5 @@ radio	How often do you feel hungry?	1	5	Only at <br>meal times,sometimes <br>bet
 radio	How frequently do you avoid 'stocking up' on tempting foods?	1	5	Almost never,seldom,usually,almost always	1,2,3,4	tfeque15_fu
 radio	How likely are you to consciously eat less than you want?	1	5	Unlikely,slightly likely,moderately likely,very likely	1,2,3,4	tfeque16_fu
 radio	Do you go on eating binges though you are not hungry?	1	5	Never,rarely,sometimes,at least once a week	1,2,3,4	tfeque17_fu
-radio	On a scale of 1 to 8, where 1 means no restraint in eating (eating whatever you want whenever you want it) and 8 means total restraint (constantly limiting food intake and never 'giving in') what number would you give yourself?	1	5	1,2,3,4,5,6,7,8	1,1,2,2,3,3,4,4	tfeque18_fu
+radio	On a scale of 1 to 8, where 1 means no restraint in eating (eating whatever you want, whenever you want it) and 8 means total restraint (constantly limiting food intake and never 'giving in'), what number would you give yourself?	1	5	1,2,3,4,5,6,7,8	1,1,2,2,3,3,4,4	tfeque18_fu
 instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6		
