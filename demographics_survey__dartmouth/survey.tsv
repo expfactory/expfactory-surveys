@@ -13,24 +13,28 @@ numeric	<p style="margin-left: 40px">Years:</p>	1	3			demographics_9
 numeric	<p style="margin-left: 40px">Months:</p>	1	3			demographics_10
 radio	How many romantic relationships have you had?	1	3	0,1,2,3,4,5-10,>10	1,2,3,4,5,6,7	demographics_11
 radio	How many children do you have?	1	3	0,1,2,3,4,5-10,>10	1,2,3,4,5,6,7	demographics_12
-numeric	What is your household's annual income (in US dollars)?	1	4	demographics_13
-radio	Do you have a retirement account?	1	4	Yes,No	1,2	demographics_14
-radio	If you do have a retirement account what percent is in stocks?	0	4	<10%,10-19%,20-29%,30-39%,40-49%,50-59%,60-69%,70-79%,80-89%,90% or greater	1,2,3,4,5,6,7,8,9,10	demographics_15
-radio	What is your housing status?	1	4	Own a home,rent a home/apartment,Live with someone (no rent),Residential/halfway house,Shelter,No current home	1,2,3,4,5,6	demographics_16
-radio	How much mortgage debt do you have?	1	4	<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say	1,2,3,4,5,6,7,8, 0	demographics_17
-radio	How much car-related debt do you have?	1	4	<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say	1,2,3,4,5,6,7,8, 0	demographics_18
-radio	How much education debt do you have?	1	4	<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say	1,2,3,4,5,6,7,8, 0	demographics_19
-radio	How much credit card debt do you have?	1	4	<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say	1,2,3,4,5,6,7,8, 0	demographics_20
-textfield	Please list any other sources of debt you have:	0	4	demographics_21
-radio	If you listed any other sources of debt, how much debt do you have from these other sources?	0	4	<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say	1,2,3,4,5,6,7,8,0	demographics_22
-numeric	On average, how many cups of coffee do you have each day?	1	5	demographics_23
-numeric	On average, how many cups of tea do you have each day?	1	5	demographics_24
-numeric	On average, how many cans of caffeinated soda do you have each day?	1	5	demographics_25
-numeric	What is your daily caffeine intake from other sources each day (in mg)?	1	5	demographics_26
-radio	Do you feel you have a problem with gambling?	1	5	no, yes in the past but not now, yes	0,1,2	demographics_27
-radio	How many traffic tickets have you gotten in the last year?	1	5	0,1,2,3,4,5-10,>10	1,2,3,4,5,6,7	demographics_28
-radio	How many traffic accidents have you been in over your life?	1	5	0,1,2,3,4,5-10,>10	1,2,3,4,5,6,7	demographics_29
-radio	How many times in your life have you been arrested and/or charged with illegal activities?	1	5	0,1,2,3,4,5-10,>10	1,2,3,4,5,6,7	demographics_30
-checkbox	What are your motivations for participating in this experiment?	1	5	Money,Tasks are fun,Want to contribute to research,Other	1,2,3,4	demographics_31
-textfield	If you have other motivations, please list them. 	0	5	demographics_32
+textfield	If you menstruate, when was the the date of your last period (please answer in the form [mm/dd/yyyy])? Put 'not menstruating', if you do not menstruate.	1	3	demographics_13
+numeric	If you menstruate, what is the length in days of your typical cycle? Put 0, if you do not menstruate.	1	3	demographics_14
+radio	Are you taking any form of hormonal birth control?	1	3	Yes,No	0,1	demographics_15
+textfield	If you chose 'Yes' for using hormonal birth control, which type are you using? (List brand and type if known):	0	3	demographics_16
+numeric	What is your household's annual income (in US dollars)?	1	4	demographics_17
+radio	Do you have a retirement account?	1	4	Yes,No	1,2	demographics_18
+radio	If you do have a retirement account what percent is in stocks?	0	4	<10%,10-19%,20-29%,30-39%,40-49%,50-59%,60-69%,70-79%,80-89%,90% or greater	1,2,3,4,5,6,7,8,9,10	demographics_19
+radio	What is your housing status?	1	4	Own a home,rent a home/apartment,Live with someone (no rent),Residential/halfway house,Shelter,No current home	1,2,3,4,5,6	demographics_20
+radio	How much mortgage debt do you have?	1	4	<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say	1,2,3,4,5,6,7,8, 0	demographics_21
+radio	How much car-related debt do you have?	1	4	<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say	1,2,3,4,5,6,7,8, 0	demographics_22
+radio	How much education debt do you have?	1	4	<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say	1,2,3,4,5,6,7,8, 0	demographics_23
+radio	How much credit card debt do you have?	1	4	<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say	1,2,3,4,5,6,7,8, 0	demographics_24
+textfield	Please list any other sources of debt you have:	0	4	demographics_25
+radio	If you listed any other sources of debt, how much debt do you have from these other sources?	0	4	<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say	1,2,3,4,5,6,7,8,0	demographics_26
+numeric	On average, how many cups of coffee do you have each day?	1	5	demographics_27
+numeric	On average, how many cups of tea do you have each day?	1	5	demographics_28
+numeric	On average, how many cans of caffeinated soda do you have each day?	1	5	demographics_29
+numeric	What is your daily caffeine intake from other sources each day (in mg)?	1	5	demographics_30
+radio	Do you feel you have a problem with gambling?	1	5	no, yes in the past but not now, yes	0,1,2	demographics_31
+radio	How many traffic tickets have you gotten in the last year?	1	5	0,1,2,3,4,5-10,>10	1,2,3,4,5,6,7	demographics_32
+radio	How many traffic accidents have you been in over your life?	1	5	0,1,2,3,4,5-10,>10	1,2,3,4,5,6,7	demographics_33
+radio	How many times in your life have you been arrested and/or charged with illegal activities?	1	5	0,1,2,3,4,5-10,>10	1,2,3,4,5,6,7	demographics_34
+checkbox	What are your motivations for participating in this experiment?	1	5	Money,Tasks are fun,Want to contribute to research,Other	1,2,3,4	demographics_35
+textfield	If you have other motivations, please list them. 	0	5	demographics_36
 instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6		
