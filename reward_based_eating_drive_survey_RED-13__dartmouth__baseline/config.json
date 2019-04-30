@@ -1,6 +1,6 @@
 [
     {
-        "name": "Reward Based Eating Drive Scale (Dartmouth) Follow-up",
+        "name": "Reward Based Eating Drive Scale RED-13 (Dartmouth) Baseline",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
@@ -15,7 +15,7 @@
                  "static/js/jquery/form/jquery.form-3.50.js",
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js"
                ],
-        "exp_id": "reward_based_eating_drive_survey_RED-13__dartmouth_followup",
+        "exp_id": "reward_based_eating_drive_survey_RED-13__dartmouth__baseline",
         "cognitive_atlas_task_id": "",
         "contributors": [
         				 "Jamie Li",
