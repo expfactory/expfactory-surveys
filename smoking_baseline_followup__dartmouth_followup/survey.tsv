@@ -2,9 +2,10 @@ question_type	question_text	required	page_number	option_text	option_values	varia
 instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1	
 instruction	Please answer the following questions.	0	2	
 radio	Have you smoked any tobacco cigarettes, even a puff, in the past 7 days?	1	3	Yes,No	0,1	smoke1_fu
-numeric	How many total tobacco cigarettes have you smoked in the past 7 days?	1	3	smoke2_fu
+numeric	How many total tobacco cigarettes have you smoked in the past 7 days?	1	3			smoke2_fu
 radio	Have you achieved 1 or more days in the past month without smoking?	1	3	Yes,No	1,0	smoke3_fu
 radio	Have you achieved 7 or more days in the past month without smoking?	1	3	Yes,No	1,0	smoke4_fu
-numeric	During the past 30 days, on how many days did you smoke cigarettes?	1	3	smoke5_fu
-numeric	During the past 30 days, on average, how many cigarettes per day have you smoked?	1	3	smoke6_fu
+numeric	During the past 30 days, on how many days did you smoke cigarettes?	1	3			smoke5_fu
+numeric	During the past 30 days, on average, how many cigarettes per day have you smoked?	1	3			smoke6_fu
+radio	In the past month, have you used nicotine replacement therapy (NRT), such as a patch, gum, lozenge, nasal spray, or inhaler?	1	3	Yes,No	0,1	nrt_fu
 instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6
