@@ -13,7 +13,7 @@ numeric	Years:	1	3			demographics_9
 numeric	Months:	1	3			demographics_10
 radio	How many romantic relationships have you had?	1	3	0,1,2,3,4,5-10,>10	1,2,3,4,5,6,7	demographics_11
 radio	How many children do you have?	1	3	0,1,2,3,4,5-10,>10	1,2,3,4,5,6,7	demographics_12
-radio	In the past month, have you taken medication for psychiatric reasons (including stimulants and mood stabilizers)?	1	3	Yes,No	0,1	medication_psych_fu
+radio	In the past month, have you taken medication for psychiatric reasons (including stimulants and mood stabilizers)?	1	3	Yes,No	0,1	medication_psych_bl
 textfield	If you menstruate, when was the the date of your last period (please answer in the form [mm/dd/yyyy])? Put 'not menstruating', if you do not menstruate.	1	3			demographics_13
 numeric	If you menstruate, what is the length in days of your typical cycle? Put 0, if you do not menstruate.	1	3			demographics_14
 radio	Are you taking any form of hormonal birth control?	1	3	Yes,No	0,1	demographics_15
