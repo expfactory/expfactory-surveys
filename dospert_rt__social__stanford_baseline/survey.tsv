@@ -1,0 +1,10 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1		
+instruction	For each of the following statements, please indicate the <strong>likelihood</strong> that you would engage in the described activity or behavior if you were to find yourself in that situation.  <br><br>Provide a rating from Extremely unlikely to Extremely likely, using the following scale: <ul list-text><li> (1) Extremely unlikely </li><li> (2) Moderately unlikely </li><li> (3) Somewhat unlikely </li><li> (4) Not sure </li><li> (5) Somewhat likely </li><li> (6) Moderately likely</li><li> (7) Extremely likely </li></ul>	0	2		
+radio	Admitting that your tastes are different from those of a friend.	1	3	Extremely unlikely: 1, 2, 3, Not sure: 4, 5, 6, Extremely likely: 7	1,2,3,4,5,6,7	drtss1_bl
+radio	Disagreeing with an authority figure on a major issue.	1	3	Extremely unlikely: 1, 2, 3, Not sure: 4, 5, 6, Extremely likely: 7	1,2,3,4,5,6,7	drtss7_bl
+radio	Choosing a career that you truly enjoy over a more secure one.	1	3	Extremely unlikely: 1, 2, 3, Not sure: 4, 5, 6, Extremely likely: 7	1,2,3,4,5,6,7	drtss21_bl
+radio	Speaking your mind about an unpopular issue in a meeting at work.	1	3	Extremely unlikely: 1, 2, 3, Not sure: 4, 5, 6, Extremely likely: 7	1,2,3,4,5,6,7	drtss22_bl
+radio	Moving to a city far away from your extended family.	1	3	Extremely unlikely: 1, 2, 3, Not sure: 4, 5, 6, Extremely likely: 7	1,2,3,4,5,6,7	drtss27_bl
+radio	Starting a new career in your mid-thirties.	1	3	Extremely unlikely: 1, 2, 3, Not sure: 4, 5, 6, Extremely likely: 7	1,2,3,4,5,6,7	drtss28_bl
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4
