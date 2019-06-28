@@ -1,6 +1,6 @@
 [
     {
-        "name": "Theories of Willpower Scale Survey Dartmouth Follow-up",
+        "name": "Theories of Willpower Scale Survey Stanford Follow-up",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
@@ -16,7 +16,7 @@
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js",
                  "style.css"
                ],
-        "exp_id": "theories_of_willpower_survey__dartmouth_followup",
+        "exp_id": "theories_of_willpower_survey__stanford_followup",
         "cognitive_atlas_task_id": "trm_56a91a3082c31",
         "contributors": [
                          "Zeynep Enkavi",

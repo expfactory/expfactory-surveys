@@ -1,6 +1,6 @@
 [
     {
-        "name": "Three factor eating questionnaire Survey R18 Dartmouth Follow-up",
+        "name": "Three factor eating questionnaire Survey R18 Stanford Follow-up",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
@@ -16,7 +16,7 @@
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js",
                  "style.css"
                ], 
-        "exp_id": "three_factor_eating_questionnaire_r18__dartmouth_followup",
+        "exp_id": "three_factor_eating_questionnaire_r18__stanford_followup",
         "cognitive_atlas_task_id": "trm_56aac5f6e4702",
         "contributors": [
                          "Zeynep Enkavi",
