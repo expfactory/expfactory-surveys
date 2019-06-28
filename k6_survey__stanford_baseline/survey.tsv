@@ -14,4 +14,10 @@ numeric	"Q3: During the past 30 days, how many days out of 30 were you totally u
 numeric	"Q4: Not counting the days you reported in response to Q3, how many days in the past 30 were you able to do only half or less of what you would normally have been able to do, because of these feelings?<br><br><strong>(Number of Days)</strong>"	0	4			k6_10_bl
 numeric	"Q5: During the past 30 days, how many times did you see a doctor or other health professional about these feelings?<br><br><strong>(Number of Times)</strong>"	0	4			k6_11_bl
 radio	"Q6: During the past 30 days, how often have physical health problems been the main cause of these feelings? "	0	4	All of the time, Most of the time, Some of the time, A little of the time, None of the time	1,2,3,4,5	k6_12_bl
+checkbox	Do you have or have you ever been diagnosed with any of the following psychological disorders (check all that apply)?	1	5	ADHD, Alcohol Dependency, Anorexi Nervosa, Anxiety Disorder, Autism/Autism Specturm Disorder, Borderline Personality Disorder, Bulimia, Drug Dependency, Depression, Manic-Depressive (Bilpolar) illness, Obessive Compulsive Disorder, Schizophrenia, Other, None	k6_13
+textfield	If you responded “other” to the above question, please describe:	0	5	k6_14
+radio	Have you been diagnosed with any neurological disorder (e.g. Alzheimer's, Parkinson's)?	1	5	Yes, No	1, 0	k6_15
+textfield	If you responded “yes” to the above question, please describe:	0	5	k6_16
+checkbox	Do you have or have you ever been diagnosed with any of the following medical conditions (check all that apply)?	1	5	Type II diabetes, Metabolic Syndrome, High Blood Pressure, Heart Disease, Stroke, Cancer, Sleep Apnea, Other, None	k6_17
+textfield	If you responded “other” to the above question, please describe:	0	5	k6_18
 instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6		
