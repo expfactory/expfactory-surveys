@@ -1,6 +1,6 @@
 [
     {
-        "name": "UPPS-P Impulsivity Scale Survey (lack of premeditation - Dartmouth) Follow-up",
+        "name": "UPPS-P Impulsivity Scale Survey (lack of premeditation - Stanford) Follow-up",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",

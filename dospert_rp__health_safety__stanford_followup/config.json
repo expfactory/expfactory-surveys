@@ -1,6 +1,6 @@
 [
     {
-        "name": "Dospert RP (health safety - Dartmouth) Follow-up",
+        "name": "Dospert RP (health safety - Stanford) Follow-up",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
@@ -16,7 +16,7 @@
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js",
                  "style.css"
                ], 
-        "exp_id": "dospert_rp__health_safety__dartmouth_followup",
+        "exp_id": "dospert_rp__health_safety__stanford_followup",
         "cognitive_atlas_task_id": "trm_5696abecf2569",
         "contributors": [
                          "Zeynep Enkavi",

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Fagerstrom Test for Nicotine Dependence (Dartmouth) Follow-up",
+        "name": "Fagerstrom Test for Nicotine Dependence (Stanford) Follow-up",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
@@ -15,7 +15,7 @@
                  "static/js/jquery/form/jquery.form-3.50.js",
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js"
                ],
-        "exp_id": "fagerstrom_test_for_nicotine_dependence__dartmouth_followup",
+        "exp_id": "fagerstrom_test_for_nicotine_dependence__stanford_followup",
         "cognitive_atlas_task_id": "",
         "contributors": [
                          "Zeynep Enkavi",

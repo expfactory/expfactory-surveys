@@ -1,6 +1,6 @@
 [
     {
-        "name": "SOC: Selection-Optimization-Compensation questionnaire (Loss based selection - Dartmouth) Follow-up",
+        "name": "SOC: Selection-Optimization-Compensation questionnaire (Loss based selection - Stanford) Follow-up",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
@@ -15,7 +15,7 @@
                  "static/js/jquery/form/jquery.form-3.50.js",
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js"
                ],
-        "exp_id": "selection_optimization_compensation__loss_based_selection__dartmouth_followup",
+        "exp_id": "selection_optimization_compensation__loss_based_selection__stanford_followup",
         "cognitive_atlas_task_id": "trm_56ac06bac9334",
         "contributors": [
                          "Zeynep Enkavi",

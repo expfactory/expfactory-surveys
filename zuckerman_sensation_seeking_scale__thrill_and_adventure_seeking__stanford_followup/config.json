@@ -1,6 +1,6 @@
 [
     {
-        "name": "Zuckerman Sensation Seeking Scale (thrill and adventure seeking - Dartmouth) Follow-up",
+        "name": "Zuckerman Sensation Seeking Scale (thrill and adventure seeking - Stanford) Follow-up",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
@@ -16,7 +16,7 @@
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js",
                  "style.css"
                ],
-        "exp_id": "zuckerman_sensation_seeking_scale__thrill_and_adventure_seeking__dartmouth_followup",
+        "exp_id": "zuckerman_sensation_seeking_scale__thrill_and_adventure_seeking__stanford_followup",
         "cognitive_atlas_task_id": "trm_56a9137d9dce1",
         "contributors": [
                          "Zeynep Enkavi",
