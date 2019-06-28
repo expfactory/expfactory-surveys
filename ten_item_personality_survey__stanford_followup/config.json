@@ -1,6 +1,6 @@
 [
     {
-        "name": "Ten-item Personality Inventory Survey Dartmouth Follow-up",
+        "name": "Ten-item Personality Inventory Survey Stanford Follow-up",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
@@ -16,7 +16,7 @@
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js",
                  "style.css"
                ],
-        "exp_id": "ten_item_personality_survey__dartmouth_followup",
+        "exp_id": "ten_item_personality_survey__stanford_followup",
         "cognitive_atlas_task_id": "trm_56a919a478935",
         "contributors": [
                          "Zeynep Enkavi",
