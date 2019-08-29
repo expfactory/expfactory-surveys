@@ -1,0 +1,10 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1
+instruction	For each of the following statements, please indicate the <strong>likelihood</strong> that you would engage in the described activity or behavior if you were to find yourself in that situation.  <br><br>Provide a rating from Extremely unlikely to Extremely likely, using the following scale: <ul list-text><li> (1) Extremely unlikely </li><li> (2) Moderately unlikely </li><li> (3) Somewhat unlikely </li><li> (4) Not sure </li><li> (5) Somewhat likely </li><li> (6) Moderately likely</li><li> (7) Extremely likely </li></ul>	0	2
+radio	Betting a day's income at the horse races.	1	3	Extremely unlikely: 1, 2, 3, Not sure: 4, 5, 6, Extremely likely: 7	1,2,3,4,5,6,7	drtsf3_fu
+radio	Investing 10% of your annual income in a moderate growth diversified fund.	1	3	Extremely unlikely: 1, 2, 3, Not sure: 4, 5, 6, Extremely likely:	1,2,3,4,5,6,7	drtsf4_fu
+radio	Betting a day's income at a high-stake poker game.	1	3	Extremely unlikely: 1, 2, 3, Not sure: 4, 5, 6, Extremely likely: 7	1,2,3,4,5,6,7	drtsf8_fu
+radio	Investing 5% of your annual income in a very speculative stock.	1	3	Extremely unlikely: 1, 2, 3, Not sure: 4, 5, 6, Extremely likely: 7	1,2,3,4,5,6,7	drtsf12_fu
+radio	Betting a day's income on the outcome of a sporting event.	1	3	Extremely unlikely: 1, 2, 3, Not sure: 4, 5, 6, Extremely likely: 7	1,2,3,4,5,6,7	drtsf14_fu
+radio	Investing 10% of your annual income in a new business venture.	1	3	Extremely unlikely: 1, 2, 3, Not sure: 4, 5, 6, Extremely likely: 7	1,2,3,4,5,6,7	drtsf18_fu
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4

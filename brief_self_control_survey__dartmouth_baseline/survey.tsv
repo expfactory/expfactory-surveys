@@ -1,0 +1,17 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>next</strong> to begin.	0	1	
+instruction	For each of the following statements please indicate how much each of the following statements reflects how you typically are. <br><br>Provide a rating from Not at all to Very much, using the following scale: <ul list-text><li> (1) Not at all </li><li> (2) </li><li> (3) </li><li> (4) </li><li> (5) Very much </li></ul>	0	2	
+radio	I am good at resisting temptation.	1	3	Not at all: 1,2,3,4,Very much: 5	1,2,3,4,5	bscs1_bl
+radio	I have a hard time breaking bad habits.	1	3	Not at all: 1,2,3,4,Very much: 5	5,4,3,2,1	bscs2_bl
+radio	I am lazy.	1	3	Not at all: 1,2,3,4,Very much: 5	5,4,3,2,1	bscs3_bl
+radio	I say inappropriate things.	1	3	Not at all: 1,2,3,4,Very much: 5	5,4,3,2,1	bscs4_bl
+radio	I do certain things that are bad for me, if they are fun.	1	3	Not at all: 1,2,3,4,Very much: 5	5,4,3,2,1	bscs5_bl
+radio	I refuse things that are bad for me.	1	3	Not at all: 1,2,3,4,Very much: 5	1,2,3,4,5	bscs6_bl
+radio	I wish I had more self-discipline.	1	3	Not at all: 1,2,3,4,Very much: 5	5,4,3,2,1	bscs7_bl
+radio	People would say that I have iron self-discipline.	1	3	Not at all: 1,2,3,4,Very much: 5	1,2,3,4,5	bscs8_bl
+radio	Pleasure and fun sometimes keep me from getting work done.	1	3	Not at all: 1,2,3,4,Very much: 5	5,4,3,2,1	bscs9_bl
+radio	I have trouble concentrating.	1	3	Not at all: 1,2,3,4,Very much: 5	5,4,3,2,1	bscs10_bl
+radio	I am able to work effectively toward long-term goals.	1	3	Not at all: 1,2,3,4,Very much: 5	1,2,3,4,5	bscs11_bl
+radio	Sometimes I can't stop myself from doing something, even if I know it is wrong.	1	3	Not at all: 1,2,3,4,Very much: 5	5,4,3,2,1	bscs12_bl
+radio	I often act without thinking through all the alternatives.	1	3	Not at all: 1,2,3,4,Very much: 5	5,4,3,2,1	bscs13_bl
+instruction	Congratulations for completing this task!	0	4

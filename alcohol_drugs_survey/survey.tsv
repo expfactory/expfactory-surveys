@@ -20,9 +20,7 @@ radio	Has a relative or friend or a doctor or another health worker been concern
 radio	 Have you used any cannabis over the past 6 months?	1	5	Yes, No	1,0
 instruction	<h5>If yes...</h5>	0	5		
 radio	How often do you use cannabis?	0	5	Never, Less than monthly, Monthly, Weekly, Daily or almost daily	0,1,2,3,4
-radio	"How many hours were you ‘stoned’ on
-a typical day when you had been using
-Cannabis?"	0	5	Less than 1, 1 or 2, 3 or 4, 5 or 6, 7 or more	0,1,2,3,4
+radio	"How many hours were you ‘stoned’ on a typical day when you had been using Cannabis?"	0	5	Less than 1, 1 or 2, 3 or 4, 5 or 6, 7 or more	0,1,2,3,4
 radio	How often during the past six months did you find that you were not able to stop using cannabis once you had started?	0	5	Never, Less than monthly, Monthly, Weekly, Daily or almost daily	0,1,2,3,4
 radio	How often during the past six months did you fail to do what was normally expected from you because of using cannabis?	0	5	Never, Less than monthly, Monthly, Weekly, Daily or almost daily	0,1,2,3,4
 radio	How often in the past six months have you devoted a great deal of your time to getting, using, or recovering from cannabis?	0	5	Never, Less than monthly, Monthly, Weekly, Daily or almost daily	0,1,2,3,4
@@ -32,17 +30,12 @@ radio	Have you ever thought about cutting down, or stopping, your use of cannabi
 instruction	<h5>Below is a list of questions concerning information about your potential involvement with drugs, excluding alcohol, marijuana and tobacco, during the past 12 months.<br><br>When the words “drug abuse” are used, they mean the use of prescribed or over‐the‐counter medications/drugs in excess of the directions and any non‐medical use of drugs. The various classes of drugs may include: solvents, tranquilizers (e.g., Valium), barbiturates, cocaine, stimulants (e.g., speed), hallucinogens (e.g., LSD) or narcotics (e.g., heroin).<br><br> <u>Remember that the questions do not include alcohol, marijuana or tobacco.</u></h5>	1	6		
 radio	Have you used drugs other than those required for medical reasons?	1	6	No, Yes	0, 1
 radio	Do you abuse more than one drug at a time?	1	6	No, Yes	0, 1
-radio	"Are you always able to stop using drugs when you want to? (If never use
-drugs, answer “Yes.” )"	1	6	No, Yes	0, 1
+radio	"Are you always able to stop using drugs when you want to? (If never use drugs, answer “Yes.” )"	1	6	No, Yes	0, 1
 radio	"Have you had ""blackouts"" or ""flashbacks"" as a result of drug use?"	1	6	No, Yes	0, 1
-radio	"Do you ever feel bad or guilty about your drug use? If never use drugs,
-choose “No.”"	1	6	No, Yes	0, 1
-radio	"Does your spouse (or parents) ever complain about your involvement
-with drugs?"	1	6	No, Yes	0, 1
+radio	"Do you ever feel bad or guilty about your drug use? If never use drugs, choose “No.”"	1	6	No, Yes	0, 1
+radio	"Does your spouse (or parents) ever complain about your involvement with drugs?"	1	6	No, Yes	0, 1
 radio	Have you neglected your family because of your use of drugs?	1	6	No, Yes	0, 1
 radio	Have you engaged in illegal activities in order to obtain drugs?	1	6	No, Yes	0, 1
-radio	"Have you ever experienced withdrawal symptoms (felt sick) when you
-stopped taking drugs?"	1	6	No, Yes	0, 1
-radio	"Have you had medical problems as a result of your drug use (e.g.,
-memory loss, hepatitis, convulsions, bleeding, etc.)?"	1	6	No, Yes	0, 1
+radio	"Have you ever experienced withdrawal symptoms (felt sick) when you stopped taking drugs?"	1	6	No, Yes	0, 1
+radio	"Have you had medical problems as a result of your drug use (e.g., memory loss, hepatitis, convulsions, bleeding, etc.)?"	1	6	No, Yes	0, 1
 instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	7		

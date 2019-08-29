@@ -1,0 +1,10 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1
+instruction	People often see some risk in situations that contain uncertainty about what the outcome or consequences will be and for which there is the possibility of negative consequences.  However, riskiness is a very personal and intuitive notion, and we are interested in your gut level assessment of how risky each situation or behavior is. <br><br>For each of the following statements, please indicate how risky you perceive each situation.  Provide a rating from Not at all risky to Extremely risky, using the following scale: <ul list-text><li> (1) Not at all risky </li><li> (2) Slightly risky </li><li> (3) Somewhat risky </li><li> (4) Moderately risky </li><li> (5) Risky </li><li> (6) Very risky </li><li> (7) Extremely risky </li></ul>	0	2		
+radio	Drinking heavily at a social function.	1	3	Not at all risky: 1, 2, 3, Moderately risky: 4, 5, 6, Extremely risky: 7	1,2,3,4,5,6,7	drpshs5_fu
+radio	Engaging in unprotected sex.	1	3	Not at all risky: 1, 2, 3, Moderately risky: 4, 5, 6, Extremely risky: 7	1,2,3,4,5,6,7	drpshs15_fu
+radio	Driving a car without wearing a seat belt.	1	3	Not at all risky: 1, 2, 3, Moderately risky: 4, 5, 6, Extremely risky: 7	1,2,3,4,5,6,7	drpshs17_fu
+radio	Riding a motorcycle without a helmet.	1	3	Not at all risky: 1, 2, 3, Moderately risky: 4, 5, 6, Extremely risky: 7	1,2,3,4,5,6,7	drpshs20_fu
+radio	Sunbathing without sunscreen.	1	3	Not at all risky: 1, 2, 3, Moderately risky: 4, 5, 6, Extremely risky: 7	1,2,3,4,5,6,7	drpshs23_fu
+radio	Walking home alone at night in an unsafe area of town.	1	3	Not at all risky: 1, 2, 3, Moderately risky: 4, 5, 6, Extremely risky: 7	1,2,3,4,5,6,7	drpshs26_fu
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4
