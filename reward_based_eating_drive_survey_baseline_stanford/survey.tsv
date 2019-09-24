@@ -17,3 +17,4 @@ radio	I can't stop thinking about eating no matter how hard I try.	1	4	0,1,2,3,4
 radio	I find myself continuing to consume certain foods even though I am no longer hungry.	1	4	0,1,2,3,4	0,1,2,3,4	red_13_12_bl
 radio	If food tastes good to me, I eat more than usual.	1	4	0,1,2,3,4	0,1,2,3,4	red_13_13_bl
 instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	5
+
