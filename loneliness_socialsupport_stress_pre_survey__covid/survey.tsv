@@ -1,0 +1,38 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	Please answer the following questions.	0	2			
+instruction	"During the THREE MONTHS PRIOR to the onset of the Coronavirus/COVID-19 crisis in your area, how often you feel the way described in each of the following statements. "	0	3			
+radio	… how often did you feel that you lacked companionship? 	1	3	"Hardly Ever, Some of the time, Often "	"1,2,3"	UCLA_pre_01
+radio	… how often did you feel left out? 	1	3	"Hardly Ever, Some of the time, Often "	"1,2,3"	UCLA_pre_02
+radio	… how often did you feel isolated from others? 	1	3	"Hardly Ever, Some of the time, Often "	"1,2,3"	UCLA_pre_03
+instruction	"Read each of the following statements carefully, indicate how you felt during the THREE MONTHS PRIOR o the onset of the Coronavirus/COVID-19 crisis in your area"	0	4			
+radio	There is a special person who is around when I am in need.	1	4	"Very strongly disagree, Strongly disagree, Mildly disagree, Neutral, Mildly agree, Strongly agree, Very Strongly agree"	"1,2,3,4,5,6,7"	MSPSS_pre_01
+radio	There is a special person with whom I can share my joys and sorrows.	1	4	"Very strongly disagree, Strongly disagree, Mildly disagree, Neutral, Mildly agree, Strongly agree, Very Strongly agree"	"1,2,3,4,5,6,7"	MSPSS_pre_02
+radio	My family really tries to help me. 	1	4	"Very strongly disagree, Strongly disagree, Mildly disagree, Neutral, Mildly agree, Strongly agree, Very Strongly agree"	"1,2,3,4,5,6,7"	MSPSS_pre_03
+radio	I get the emotional help and support I need from my family 	1	4	"Very strongly disagree, Strongly disagree, Mildly disagree, Neutral, Mildly agree, Strongly agree, Very Strongly agree"	"1,2,3,4,5,6,7"	MSPSS_pre_04
+radio	I have a special person who is a real source of comfort to me.	1	4	"Very strongly disagree, Strongly disagree, Mildly disagree, Neutral, Mildly agree, Strongly agree, Very Strongly agree"	"1,2,3,4,5,6,7"	MSPSS_pre_05
+radio	My friends really try to help me. 	1	4	"Very strongly disagree, Strongly disagree, Mildly disagree, Neutral, Mildly agree, Strongly agree, Very Strongly agree"	"1,2,3,4,5,6,7"	MSPSS_pre_06
+instruction	"Read each of the following statements carefully, indicate how you felt during the THREE MONTHS PRIOR o the onset of the Coronavirus/COVID-19 crisis in your area"	0	5			
+radio	I can count on my friends when things go wrong. 	1	5	"Very strongly disagree, Strongly disagree, Mildly disagree, Neutral, Mildly agree, Strongly agree, Very Strongly agree"	"1,2,3,4,5,6,7"	MSPSS_pre_07
+radio	I can talk about my problems with my family.	1	5	"Very strongly disagree, Strongly disagree, Mildly disagree, Neutral, Mildly agree, Strongly agree, Very Strongly agree"	"1,2,3,4,5,6,7"	MSPSS_pre_08
+radio	I have friends with whom I can share my joys and sorrows.	1	5	"Very strongly disagree, Strongly disagree, Mildly disagree, Neutral, Mildly agree, Strongly agree, Very Strongly agree"	"1,2,3,4,5,6,7"	MSPSS_pre_09
+radio	There is a special person in my life who cares about my feelings.	1	5	"Very strongly disagree, Strongly disagree, Mildly disagree, Neutral, Mildly agree, Strongly agree, Very Strongly agree"	"1,2,3,4,5,6,7"	MSPSS_pre_10
+radio	My family is willing to help me make decisions.	1	5	"Very strongly disagree, Strongly disagree, Mildly disagree, Neutral, Mildly agree, Strongly agree, Very Strongly agree"	"1,2,3,4,5,6,7"	MSPSS_pre_11
+radio	I can talk about my problems with my friends.	1	5	"Very strongly disagree, Strongly disagree, Mildly disagree, Neutral, Mildly agree, Strongly agree, Very Strongly agree"	"1,2,3,4,5,6,7"	MSPSS_pre_12
+instruction	During the THREE MONTHS PRIOR to the onset of the Coronavirus/COVID-19 crisis in your area: 	0	6			
+radio	… how often have you been upset because of something that happened unexpectedly? 	1	6	"Never, Almost never, Sometimes, Fairly often, Very often "	"0,1,2,3,4"	PSS_pre_01
+radio	… how often have you felt that you were unable to control important things in your life?	1	6	"Never, Almost never, Sometimes, Fairly often, Very often "	"0,1,2,3,4"	PSS_pre_02
+radio	… how often have you felt nervous and stressed?	1	6	"Never, Almost never, Sometimes, Fairly often, Very often "	"0,1,2,3,4"	PSS_pre_03
+radio	… how often have you dealt successfully with irritating life hassles?	1	6	"Never, Almost never, Sometimes, Fairly often, Very often "	"4,3,2,1,0"	PSS_pre_04
+radio	… how often have you felt that you were effectively coping with important changes that were occurring in your life? 	1	6	"Never, Almost never, Sometimes, Fairly often, Very often "	"4,3,2,1,0"	PSS_pre_05
+radio	… how often have you felt confident about your ability to handle your personal problems? 	1	6	"Never, Almost never, Sometimes, Fairly often, Very often "	"4,3,2,1,0"	PSS_pre_06
+radio	… how often have you felt that things were going your way?	1	6	"Never, Almost never, Sometimes, Fairly often, Very often "	"4,3,2,1,0"	PSS_pre_07
+instruction	During the THREE MONTHS PRIOR to the onset of the Coronavirus/COVID-19 crisis in your area: 	0	7			
+radio	… how often have you found that you could not cope with all the things that you had to do? 	1	7	"Never, Almost never, Sometimes, Fairly often, Very often "	"0,1,2,3,4"	PSS_pre_08
+radio	… how often have you been able to control irritations in your life?	1	7	"Never, Almost never, Sometimes, Fairly often, Very often "	"4,3,2,1,0"	PSS_pre_09
+radio	… how often have you felt that you were on top of things?	1	7	"Never, Almost never, Sometimes, Fairly often, Very often "	"4,3,2,1,0"	PSS_pre_10
+radio	… how often have you been angered because of things that happened that were outside your control? 	1	7	"Never, Almost never, Sometimes, Fairly often, Very often "	"0,1,2,3,4"	PSS_pre_11
+radio	… how often have you found yourself thinking about things that you have to accomplish ? 	1	7	"Never, Almost never, Sometimes, Fairly often, Very often "	"0,1,2,3,4"	PSS_pre_12
+radio	… how often have you been able to control the way you spend your time ? 	1	7	"Never, Almost never, Sometimes, Fairly often, Very often "	"4,3,2,1,0"	PSS_pre_13
+radio	… how often have you felt difficulties were piling up so high that you could not overcome them? 	1	7	"Never, Almost never, Sometimes, Fairly often, Very often "	"0,1,2,3,4"	PSS_pre_14
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	8			
