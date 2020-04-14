@@ -1,0 +1,21 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	Please answer the following questions.	0	2			
+instruction	Please rate the extent to which you agree or disagree with the following statements. 	0	3			
+radio	The effects of stress are negative and should be avoided.	1	3	"Strongly disagree, Disagree, Neither agree nor disagree, Agree, Strongly agree"	"4,3,2,1,0"	SMM_01
+radio	Experiencing stress facilitates my learning and growth.	1	3	"Strongly disagree, Disagree, Neither agree nor disagree, Agree, Strongly agree"	"0,1,2,3,4"	SMM_02
+radio	Experiencing stress depletes my health and vitality.	1	3	"Strongly disagree, Disagree, Neither agree nor disagree, Agree, Strongly agree"	"4,3,2,1,0"	SMM_03
+radio	Experiencing stress enhances my performance and productivity. 	1	3	"Strongly disagree, Disagree, Neither agree nor disagree, Agree, Strongly agree"	"0,1,2,3,4"	SMM_04
+radio	Experiencing stress inhibits my learning and growth. 	1	3	"Strongly disagree, Disagree, Neither agree nor disagree, Agree, Strongly agree"	"4,3,2,1,0"	SMM_05
+radio	Experiencing stress improves my health and vitality.	1	3	"Strongly disagree, Disagree, Neither agree nor disagree, Agree, Strongly agree"	"0,1,2,3,4"	SMM_06
+radio	Experiencing stress debilitates my performance and productivity. 	1	3	"Strongly disagree, Disagree, Neither agree nor disagree, Agree, Strongly agree"	"4,3,2,1,0"	SMM_07
+radio	The effects of stress are positive and should be utilized. 	1	3	"Strongly disagree, Disagree, Neither agree nor disagree, Agree, Strongly agree"	"0,1,2,3,4"	SMM_08
+instruction	Below are some statements about the GLOBAL and SOCIETAL impact caused by the outbreak of coronavirus (COVID-19). Choose the option that best reflects how much you agree or disagree with each statement. 	0	4			
+radio	The coronavirus outbreak can be managed so that people in our society can live life as normal. 	1	4	"Strongly disagree,  Disagree, Somewhat disagree, Somewhat agree, Agree, Strongly agree"	"1,2,3,4,5,6"	IMI_01
+radio	The coronavirus outbreak is a global catastrophe that is wreaking havoc on our society. 	1	4	"Strongly disagree,  Disagree, Somewhat disagree, Somewhat agree, Agree, Strongly agree"	"1,2,3,4,5,6"	IMI_02
+radio	The coronavirus outbreak can be an opportunity for our society to make positive changes. 	1	4	"Strongly disagree,  Disagree, Somewhat disagree, Somewhat agree, Agree, Strongly agree"	"1,2,3,4,5,6"	IMI_03
+instruction	Below are some statements about the impact of the coronavirus (COVID-19) on an INDIVIDUAL who gets the disease. Choose the option that best reflects how much you agree or disagree with each statement.	0	5			
+radio	Having the coronavirus ruins or spoils most parts of a person's life. 	1	5	"Strongly disagree,  Disagree, Somewhat disagree, Somewhat agree, Agree, Strongly agree"	"1,2,3,4,5,6"	IMI_04
+radio	The coronavirus can be managed so it is not too disruptive for a person's life. 	1	5	"Strongly disagree,  Disagree, Somewhat disagree, Somewhat agree, Agree, Strongly agree"	"1,2,3,4,5,6"	IMI_05
+radio	Getting the coronavirus can be an opportunity for a person to make positive life changes. 	1	5	"Strongly disagree,  Disagree, Somewhat disagree, Somewhat agree, Agree, Strongly agree"	"1,2,3,4,5,6"	IMI_06
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6			

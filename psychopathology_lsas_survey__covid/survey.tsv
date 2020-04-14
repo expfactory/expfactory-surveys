@@ -1,0 +1,76 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	"Read each statement carefully and answer two questions about that statement. The first question asks how ANXIOUS or FEARFUL you feel in that situation. The second question asks how often you AVOID that situation. Please base your ratings on the way that the situations have affected you in the LAST WEEK, following the onset of the Coronavirus/COVID-19 crisis in your area."	1	2			
+instruction	<h4>Telephoning in public.</h4>	0	3			LSAS_01
+radio	Q1: Fear/Anxiety: 	1	3	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	3	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Participating in small groups.</h4>	0	3			LSAS_02
+radio	Q1: Fear/Anxiety: 	1	3	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	3	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Eating in public places.</h4>	0	3			LSAS_03
+radio	Q1: Fear/Anxiety: 	1	3	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	3	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Drinking with others in public places.</h4>	0	3			LSAS_04
+radio	Q1: Fear/Anxiety: 	1	3	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	3	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Talking to people in authority.</h4>	0	4			LSAS_05
+radio	Q1: Fear/Anxiety: 	1	4	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	4	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	"<h4>Acting, performing or giving a talk in front of an audience.</h4>"	0	4			LSAS_06
+radio	Q1: Fear/Anxiety: 	1	4	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	4	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Going to a party.</h4>	0	4			LSAS_07
+radio	Q1: Fear/Anxiety: 	1	4	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	4	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Working while being observed.</h4>	0	4			LSAS_08
+radio	Q1: Fear/Anxiety: 	1	4	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	4	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Writing while being observed.</h4>	0	5			LSAS_09
+radio	Q1: Fear/Anxiety: 	1	5	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	5	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Calling someone you don't know very well.</h4>	0	5			LSAS_10
+radio	Q1: Fear/Anxiety: 	1	5	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	5	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Talking with people you don't know very well.</h4>	0	5			LSAS_11
+radio	Q1: Fear/Anxiety: 	1	5	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	5	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Meeting strangers.</h4>	0	5			LSAS_12
+radio	Q1: Fear/Anxiety: 	1	5	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	5	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Urinating in a public bathroom.</h4>	0	6			LSAS_13
+radio	Q1: Fear/Anxiety: 	1	6	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	6	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Entering a room when others are already seated.</h4>	0	6			LSAS_14
+radio	Q1: Fear/Anxiety: 	1	6	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	6	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Being the center of attention.</h4>	0	6			LSAS_15
+radio	Q1: Fear/Anxiety: 	1	6	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	6	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Speaking up at a meeting.</h4>	0	6			LSAS_16
+radio	Q1: Fear/Anxiety: 	1	6	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	6	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Taking a test.</h4>	0	7			LSAS_17
+radio	Q1: Fear/Anxiety: 	1	7	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	7	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Expressing a disagreement or disapproval to people you don't know very well.</h4>	0	7			LSAS_18
+radio	Q1: Fear/Anxiety: 	1	7	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	7	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Looking at people you don't know very well in the eyes.</h4>	0	7			LSAS_19
+radio	Q1: Fear/Anxiety: 	1	7	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	7	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Giving a report to a group.</h4>	0	7			LSAS_20
+radio	Q1: Fear/Anxiety: 	1	7	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	7	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Trying to pick up someone.</h4>	0	8			LSAS_21
+radio	Q1: Fear/Anxiety: 	1	8	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	8	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Returning goods to a store.</h4>	0	8			LSAS_22
+radio	Q1: Fear/Anxiety: 	1	8	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	8	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Giving a party.</h4>	0	8			LSAS_23
+radio	Q1: Fear/Anxiety: 	1	8	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	8	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	<h4>Resisting a high pressure salesperson.</h4>	0	8			LSAS_24
+radio	Q1: Fear/Anxiety: 	1	8	"None, Mild, Moderate, Severe"	"0,1,2,3"	
+radio	Q2: Avoidance: 	1	8	"Never(0%), Occasionally (1-33%), Often (33-67%), Usually (67-100%)"	"0,1,2,3"	
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	9			
