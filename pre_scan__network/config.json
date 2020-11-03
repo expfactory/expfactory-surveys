@@ -1,6 +1,6 @@
 [
     {
-        "name": "Demographics Survey Stanford NIH",
+        "name": "Prescan survey",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
@@ -15,14 +15,13 @@
                  "static/js/jquery/form/jquery.form-3.50.js",
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js"
                ],
-        "exp_id": "demographics_survey__stanford__network",
+        "exp_id": "pre_scan__network",
         "cognitive_atlas_task_id": "",
         "contributors": [
-                         "Zeynep Enkavi",
-                         "Ian Eisenberg",
-                         "Patrick Bissett",
-                         "Vanessa Sochat",
-                         "Russell Poldrack"
+                         "McKenzie Hagen", 
+                         "Tony Bui", 
+                         "Henry Jones", 
+                         "Patrick Bissett"
                         ], 
         "time":999,
         "experiment_variables": "",
