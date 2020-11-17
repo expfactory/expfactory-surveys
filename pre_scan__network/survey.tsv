@@ -1,0 +1,46 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+textfield 	"When was your last meal (please answer in the form [hours:minutes AM/PM], ex: 3:15PM)? "	1	3			meal_1
+textfield 	"If you have drank caffeine in the last 12 hours, what time was it? "	0	3			caffeine_1 
+numeric 	"If you have drank caffeine in the last 12 hours, how many milligrams did you consume? 1 cup of coffee is 95mg. "	0	3			caffeine_2 
+numeric	How many hours did you sleep last night	1	3			sleep_1 
+numeric	How many minutes have you exercised in the past 24 hours? 	1	3			demographics_3
+textfield	"If you menstruate, when was the date of your last period (please answer in the form [mm/dd/yyyy])? Put 'n/a', if you do not menstruate."	0	3			demographics_4
+textfield	"If you menstruate, what is the length in days of your typical cycle? Put 0, if you do not menstruate"	1	3			
+radio	Are you taking any form of hormonal birth control? 	1	3	"Yes, No"	"1,0"	demographics_5
+textfield	"If you chose 'Yes' for using hormonal birth control, which type are you using? (List brand and type if known, n/a if no):"	1	3			
+textfield	Is there anything else that has happened or is happening in your life that you think could influence your data today?	0	3			
+instruction	This scale consists of a number of words that describe different feelings and emotions. Read each item and then mark the appropriate answer in the space next to that word. Indicate to what extent you feel this way RIGHT NOW.	1	5			demographics_7
+radio	<b> Interested </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_1
+radio	<b> Distressed </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_2
+radio	<b> Excited </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_3
+radio	<b> Upset </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_4
+radio	<b> Strong </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_5
+radio	<b> Guilty </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_6
+radio	<b> Scared </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_7
+radio	<b> Hostile </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_8
+radio	<b> Enthusiastic </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_9
+radio	<b> Proud </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_10
+radio	<b> Irritable </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_11
+radio	<b> Alert </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_12
+radio	<b> Ashamed </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_13
+radio	<b> Inspired </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_14
+radio	<b> Nervous </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_15
+radio	<b> Determined </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_16
+radio	<b> Attentive </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_17
+radio	<b> Jittery </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_18
+radio	<b> Active </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_19
+radio	<b> Afraid </b> 	1	5	"Very slightly or not at all, A little, Moderately, Quite a bit, Extremely"	"5, 4, 3, 2, 1"	panas_20
+instruction	"This questionnaire tries to establish how alert you feel. In reporting your feeling, we would like you to consider how you feel RIGHT NOW. Using the following scale, please choose one response for each question."	0	6			
+instruction	Right now I feel... 	0	6			
+radio	Able to concentrate	1	6	"Not at all, blank , Somewhat, Much, blank, A great deal "	"6, 5, 4, 3, 2, 1"	that_1
+radio	Alert	1	6	"Not at all, blank , Somewhat, Much, blank, A great deal "	"6, 5, 4, 3, 2, 1"	that_2
+radio	Fresh	1	6	"Not at all, blank , Somewhat, Much, blank, A great deal "	"6, 5, 4, 3, 2, 1"	that_3
+radio	Energetic	1	6	"Not at all, blank , Somewhat, Much, blank, A great deal "	"6, 5, 4, 3, 2, 1"	that_4
+radio 	Able to think of new ideas	1	6	"Not at all, blank , Somewhat, Much, blank, A great deal "	"6, 5, 4, 3, 2, 1"	that_5
+radio	"Vision is clear, noting all details (e.g., driving) "	1	6	"Not at all, blank , Somewhat, Much, blank, A great deal "	"6, 5, 4, 3, 2, 1"	that_6
+radio	Able to focus on the task at hand	1	6	"Not at all, blank , Somewhat, Much, blank, A great deal "	"6, 5, 4, 3, 2, 1"	that_7
+radio	Mental facilities were operating at peak level 	1	6	"Not at all, blank , Somewhat, Much, blank, A great deal "	"6, 5, 4, 3, 2, 1"	that_8
+radio	Extra effort is needed to maintain alertness	1	6	"Not at all, blank , Somewhat, Much, blank, A great deal "	"6, 5, 4, 3, 2, 1"	that_9 
+radio	"In a boring situation, I would find my mind wandering"	1	6	"Not at all, blank , Somewhat, Much, blank, A great deal "	"6, 5, 4, 3, 2, 1"	that_10
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6			
