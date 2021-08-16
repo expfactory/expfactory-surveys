@@ -1,0 +1,28 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	"Please answer the following questions using the following scale: <br><br><ul list-text><li> Not at all </li><li>Rare, less than a day or two</li><li> Several days</li><li> More than half the days</li><li> Nearly every day </li>"	0	2			
+instruction	"Over the last 2 weeks, how often have you been bothered by any of the following problems?"	0	3			
+radio	Having little interest or pleasure in doing things?	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_1
+radio	"Feeling down, depressed, or hopeless?"	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_2
+radio	"Feeling more irritated, grouchy, or angry than usual?"	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_3
+radio	"Sleeping less than usual, but still have lots of energy?"	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_4
+radio	Starting lots more projects than usual or doing more risky things than usual?	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_5
+radio	"Feeling nervous, anxious, frightened, worried, or on edge?"	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_6
+radio	Feeling panic or being frightened?	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_7
+radio	Avoiding situations that make you anxious?	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_8
+radio	"Unexplained aches and pains (e.g. head, back, joints, abdomen, legs)?"	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_9
+radio	That your illnesses are not being taken seriously enough?	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_10
+radio	Thoughts of actually hurting yourself?	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_11
+radio	"Hearing things other people couldn't hear, such as voices even when no one was around?"	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_12
+radio	"Feeling that someone could hear your thoughts, or that you could hear what another person was thinking?"	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_13
+radio	Problems with sleep that affected your sleep quality over all?	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_14
+radio	"Problems with memory (e.g., learning new information) or with location (e.g., finding your way home)?"	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_15
+radio	"Unpleasant thoughts, urges, or images that repeatedly enter your mind?"	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_16
+radio	Feeling driven to perform certain behaviors or mental acts over and over again?	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_17
+radio	"Feeling detached or distant from yourself, your body, your physical surroundings, or your memories?"	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_18
+radio	Not knowing who you really are or what you want out of life?	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_19
+radio	Not feeling close to other people or enjoying your relationships with them?	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_20
+radio	Drinking at least 4 drinks of any kind of alcohol in a single day?	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_21
+radio	"Smoking any cigarettes, a cigar, or pipe or using snuff or chewing tobacco?"	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_22
+radio	"Using any of the following medicines ON YOUR OWN, that is, without a doctor's prescription, in greater amounts or longer than prescribed [e.g., painkillers (like Vicodin), stimulants (like Ritalin or Adderall), sedatives or tranquilizers (like sleeping pills or Valium), or drugs like marijuana, cocaine or crack, club drugs (like ecstasy), hallucinogens (like LSD), heroin, inhalants or solvents (like glue), or methamphetamine (like speed)]?"	1	3	"Not at all,Less than a day or two,Several days,More than half the days,Nearly every day"	"1,2,3,4,5"	dsm5_cross_23
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4			

@@ -16,14 +16,14 @@
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js",
                  "style.css"
                ],
-        "exp_id": "dsm-5_crosscutting_ass_stanford_baseline",
+        "exp_id": "dsm-5_crosscutting_stanford_baseline",
         "cognitive_atlas_task_id": "",
         "contributors": [
                          "Zeynep Enkavi",
                          "Ian Eisenberg",
                          "Patrick Bissett",
                          "Vanessa Sochat",
-                         "Russell Poldrack"
+                         "Russell Poldrack",
                          "Jaime Rios"
                         ], 
         "time":999,
