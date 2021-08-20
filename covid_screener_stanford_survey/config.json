@@ -1,6 +1,6 @@
 [
     {
-        "name": "Demographics Survey Stanford",
+        "name": "Covid Vaccination Screener Stanford",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
@@ -15,15 +15,12 @@
                  "static/js/jquery/form/jquery.form-3.50.js",
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js"
                ],
-        "exp_id": "demographics_survey__stanford",
+        "exp_id": "covid_screener_stanford_survey",
         "cognitive_atlas_task_id": "",
         "contributors": [
-                         "Zeynep Enkavi",
-                         "Ian Eisenberg",
+                         "Jaime Ali Holguin Rios",
                          "Patrick Bissett",
-                         "Vanessa Sochat",
-                         "Russell Poldrack",
-                         "Jaime Ali Holguin Rios"
+                         "Russell Poldrack"
                         ], 
         "time":999,
         "experiment_variables": "",

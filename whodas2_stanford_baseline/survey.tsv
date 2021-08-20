@@ -1,0 +1,17 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	Please answer the following questions using the following scale: <br><br><ul list-text><li> None</li><li> Mild</li><li> Moderate</li><li> Severe</li><li> Extreme or cannot do </li>	0	2			
+instruction	"In the past 30 days, how much difficulty did you have in performing the following actions?"	0	3			
+radio	Standing for long periods such as 30 minutes?	1	3	"None,Mild,Moderate,Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas2_1
+radio	Taking care of your household responsibilities?	1	3	"None,Mild,Moderate,Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas2_2
+radio	"Learning a new task, for example, learning how to get to a new place?"	1	3	"None,Mild,Moderate,Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas2_3
+radio	"Joining in community activities (for example, festivities, religious or other activities) in the same way as anyone else can?"	1	3	"None,Mild,Moderate,Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas2_4
+radio	Have you been emotionally affected by your health problems?	1	3	"None,Mild,Moderate,Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas2_5
+radio	Concentrating on doing something for ten minutes?	1	3	"None,Mild,Moderate,Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas2_6
+radio	Walking a long distance such as a kilometer or half a mile?	1	3	"None,Mild,Moderate,Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas2_7
+radio	Washing your whole body?	1	3	"None,Mild,Moderate,Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas2_8
+radio	Getting dressed?	1	3	"None,Mild,Moderate,Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas2_9
+radio	Dealing with people you do not know?	1	3	"None,Mild,Moderate,Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas2_10
+radio	Maintaining a friendship?	1	3	"None,Mild,Moderate,Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas2_11
+radio	Your day-to-day work?	1	3	"None,Mild,Moderate,Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas2_12
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4			
