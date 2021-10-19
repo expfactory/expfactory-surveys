@@ -1,0 +1,22 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	The following statements refer to experiences that many people have in their everyday lives. Rate according to the label that best describes HOW MUCH that experience has DISTRESSED or BOTHERED you during the PAST MONTH. 	0	2			
+radio	I have saved up so many things that they get in the way. 	1	3	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_01
+radio	I check things more often than necessary.	1	3	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_02
+radio	I get upset if objects are not arranged properly.	1	3	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_03
+radio	I feel compelled to count while I am doing things.	1	3	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_04
+radio	I find it difficult to touch an object when I know it has been touched by strangers or certain people.	1	3	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_05
+radio	I find it difficult to control my own thoughts.	1	3	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_06
+radio	I collect things I don't need.	1	4	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_07
+radio	"I repeatedly check doors, windows, drawers, etc."	1	4	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_08
+radio	I get upset if others change the way I have arranged things.	1	4	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_09
+radio	I feel I have to repeat certain numbers.	1	4	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_10
+radio	I sometimes have to wash or clean myself simply because I feel contaminated.	1	4	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_11
+radio	I am upset by unpleasant thoughts that come into my mind against my will.	1	4	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_12
+radio	I avoid throwing things away because I am afraid I might need them later.	1	5	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_13
+radio	I repeatedly check gas and water taps and light switches after turning them off.	1	5	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_14
+radio	I need things to be arranged in a particular way.	1	5	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_15
+radio	I feel that there are good and bad numbers.	1	5	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_16
+radio	I wash my hands more often and longer than necessary.	1	5	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_17
+radio	I frequently get nasty thoughts and have difficulty in getting rid of them.	1	5	"Not at all, A little, Moderately, A lot, Extremely"	"0,1,2,3,4"	OCIR_18
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6			

@@ -1,0 +1,24 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	"Read each statement and select the appropriate response to indicate how you feel right now, that is, at this very moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best."	0	2			
+radio	I feel pleasant.	1	3	"Almost never, Sometimes, Often, Almost always"	"4,3,2,1"	STAIY2_01
+radio	I feel nervous and restless.	1	3	"Almost never, Sometimes, Often, Almost always"	"1,2,3,4"	STAIY2_02
+radio	I feel satisfied with myself.	1	3	"Almost never, Sometimes, Often, Almost always"	"4,3,2,1"	STAIY2_03
+radio	I wish I could be as happy as others seem to be.	1	3	"Almost never, Sometimes, Often, Almost always"	"1,2,3,4"	STAIY2_04
+radio	I feel like a failure.	1	3	"Almost never, Sometimes, Often, Almost always"	"1,2,3,4"	STAIY2_05
+radio	I feel rested.	1	3	"Almost never, Sometimes, Often, Almost always"	"4,3,2,1"	STAIY2_06
+radio	"I am ""calm, cool, and collected""."	1	4	"Almost never, Sometimes, Often, Almost always"	"4,3,2,1"	STAIY2_07
+radio	I feel that difficulties are piling up so that I cannot overcome them.	1	4	"Almost never, Sometimes, Often, Almost always"	"1,2,3,4"	STAIY2_08
+radio	I worry too much over something that really doesn't matter. 	1	4	"Almost never, Sometimes, Often, Almost always"	"1,2,3,4"	STAIY2_09
+radio	I am happy.	1	4	"Almost never, Sometimes, Often, Almost always"	"4,3,2,1"	STAIY2_10
+radio	I have disturbing thoughts.	1	4	"Almost never, Sometimes, Often, Almost always"	"1,2,3,4"	STAIY2_11
+radio	I lack self-confidence.	1	4	"Almost never, Sometimes, Often, Almost always"	"1,2,3,4"	STAIY2_12
+radio	I feel secure.	1	5	"Almost never, Sometimes, Often, Almost always"	"4,3,2,1"	STAIY2_13
+radio	I make decisions easily.	1	5	"Almost never, Sometimes, Often, Almost always"	"4,3,2,1"	STAIY2_14
+radio	I feel inadequate.	1	5	"Almost never, Sometimes, Often, Almost always"	"1,2,3,4"	STAIY2_15
+radio	I am content.	1	5	"Almost never, Sometimes, Often, Almost always"	"4,3,2,1"	STAIY2_16
+radio	Some unimportant thought runs through my mind and bothers me.	1	5	"Almost never, Sometimes, Often, Almost always"	"1,2,3,4"	STAIY2_17
+radio	I take disappointments so keenly that I can't put them out of my mind. 	1	5	"Almost never, Sometimes, Often, Almost always"	"1,2,3,4"	STAIY2_18
+radio	I am a steady person.	1	6	"Almost never, Sometimes, Often, Almost always"	"4,3,2,1"	STAIY2_19
+radio	I get in a state of tension or turmoil as I think over my recent concerns and interests.	1	6	"Almost never, Sometimes, Often, Almost always"	"1,2,3,4"	STAIY2_20
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	7			
