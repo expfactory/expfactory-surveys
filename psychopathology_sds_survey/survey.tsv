@@ -1,0 +1,24 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	Please read each statement and decide HOW MUCH of the time the statement describes how you have been feeling during the PAST SEVERAL DAYS. 	0	2			
+radio	I feel down-hearted and blue.	1	3	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"1,2,3,4"	SDS_01
+radio	Morning is when I feel the best.	1	3	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"4,3,2,1"	SDS_02
+radio	I have crying spells or feel like it.	1	3	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"1,2,3,4"	SDS_03
+radio	I have trouble sleeping at night.	1	3	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"1,2,3,4"	SDS_04
+radio	I eat as much as I used to.	1	3	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"4,3,2,1"	SDS_05
+radio	I still enjoy sex.	1	3	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"4,3,2,1"	SDS_06
+radio	I notice that I am losing weight.	1	4	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"1,2,3,4"	SDS_07
+radio	I have trouble with constipation.	1	4	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"1,2,3,4"	SDS_08
+radio	My heart beats faster than normal.	1	4	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"1,2,3,4"	SDS_09
+radio	I get tired for no reason.	1	4	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"1,2,3,4"	SDS_10
+radio	My mind is as clear as it used to be.	1	4	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"4,3,2,1"	SDS_11
+radio	I find it easy to do the things I used to do.	1	4	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"4,3,2,1"	SDS_12
+radio	I am restless and can't keep still.	1	5	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"1,2,3,4"	SDS_13
+radio	I feel hopeful about the future.	1	5	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"4,3,2,1"	SDS_14
+radio	I am more irritable than usual.	1	5	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"1,2,3,4"	SDS_15
+radio	I find it easy to make decisions.	1	5	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"4,3,2,1"	SDS_16
+radio	I feel that I am useful and needed.	1	5	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"4,3,2,1"	SDS_17
+radio	My life is pretty full.	1	5	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"4,3,2,1"	SDS_18
+radio	I feel that others would be better off if I were dead.	1	6	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"1,2,3,4"	SDS_19
+radio	I still enjoy the things I used to do.	1	6	"A little ot the time, Some of the time, Good part of the time, Most of the time"	"4,3,2,1"	SDS_20
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	7			

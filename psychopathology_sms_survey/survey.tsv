@@ -1,0 +1,47 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	Please read the statments and answer whether you agree or disagree with the statements with 'No' or 'Yes' ONLY. 	0	2			
+radio	When in the dark do you often see shapes and forms even though there is nothing there?	1	3	"No, Yes"	"0,1"	SMS_01
+radio	Are your thoughts sometimes so strong that you can almost hear them?	1	3	"No, Yes"	"0,1"	SMS_02
+radio	"Have you ever thought that you had special, almost magical powers?"	1	3	"No, Yes"	"0,1"	SMS_03
+radio	"Have you sometimes sensed an evil presence around you, even though you could not see it?"	1	3	"No, Yes"	"0,1"	SMS_04
+radio	Do you think that you could learn to read other's minds if you wanted to?	1	3	"No, Yes"	"0,1"	SMS_05
+radio	When you look in the mirror does your face sometimes seem quite different from usual?	1	3	"No, Yes"	"0,1"	SMS_06
+radio	Do ideas and insights sometimes come to you so fast that you cannot express them all?	1	4	"No, Yes"	"0,1"	SMS_07
+radio	Can some people make you aware of them just by thinking about you?	1	4	"No, Yes"	"0,1"	SMS_08
+radio	Does a passing thought ever seem so real it frightens you?	1	4	"No, Yes"	"0,1"	SMS_09
+radio	Do you feel that your accidents are caused by mysterious forces?	1	4	"No, Yes"	"0,1"	SMS_10
+radio	Do you ever have a sense of vague danger or sudden dread for reasons that you do not understand?	1	4	"No, Yes"	"0,1"	SMS_11
+radio	Does your sense of smell sometimes become unusually strong?	1	4	"No, Yes"	"0,1"	SMS_12
+radio	Are you easily confused if too much happens at the same time?	1	5	"No, Yes"	"0,1"	SMS_13
+radio	Do you frequently have difficulty in starting to do things?	1	5	"No, Yes"	"0,1"	SMS_14
+radio	Are you a person whose mood goes up and down easily?	1	5	"No, Yes"	"0,1"	SMS_15
+radio	Do you dread going into a room by yourself where other people have already gathered and are talking?	1	5	"No, Yes"	"0,1"	SMS_16
+radio	Do you find it difficult to keep interested in the same thing for a long time?	1	5	"No, Yes"	"0,1"	SMS_17
+radio	Do you often have difficulties in controlling your thoughts?	1	5	"No, Yes"	"0,1"	SMS_18
+radio	Are you easily distracted from work by daydreams?	1	6	"No, Yes"	"0,1"	SMS_19
+radio	Do you ever feel that your speech is difficult to understand because the words are all mixed up and don't make sense?	1	6	"No, Yes"	"0,1"	SMS_20
+radio	Are you easily distracted when you read or talk to someone?	1	6	"No, Yes"	"0,1"	SMS_21
+radio	Is it hard for you to make decisions?	1	6	"No, Yes"	"0,1"	SMS_22
+radio	"When in a crowded room, do you often have difficulty in following a conversation?"	1	6	"No, Yes"	"0,1"	SMS_23
+radio	Are there very few things that you have ever enjoyed doing?	1	6	"No, Yes"	"0,1"	SMS_24
+radio	Are you much too independent to get involved with other people?	1	7	"No, Yes"	"0,1"	SMS_25
+radio	Do you love having your back massaged?	1	7	"No, Yes"	"1,0"	SMS_26
+radio	Do you find the bright lights of a city exciting to look at?	1	7	"No, Yes"	"1,0"	SMS_27
+radio	Do you feel very close to your friends?	1	7	"No, Yes"	"1,0"	SMS_28
+radio	Has dancing or the idea of it always seemed dull to you?	1	7	"No, Yes"	"0,1"	SMS_29
+radio	Do you like mixing with people?	1	7	"No, Yes"	"1,0"	SMS_30
+radio	Is trying new foods something you have always enjoyed?	1	8	"No, Yes"	"1,0"	SMS_31
+radio	Have you often felt uncomfortable when your friends touch you?	1	8	"No, Yes"	"0,1"	SMS_32
+radio	Do you prefer watching television to going out with people?	1	8	"No, Yes"	"0,1"	SMS_33
+radio	Do you consider yourself to be pretty much an average sort of person?	1	8	"No, Yes"	"1,0"	SMS_34
+radio	Would you like other people to be afraid of you?	1	8	"No, Yes"	"0,1"	SMS_35
+radio	Do you often feel the impulse to spend money which you know you can't afford?	1	8	"No, Yes"	"0,1"	SMS_36
+radio	"Are you usually in an average kind of mood, not too high and not too low?"	1	8	"No, Yes"	"1,0"	SMS_37
+radio	Do you at times have an urge to do something harmful or shocking?	1	9	"No, Yes"	"0,1"	SMS_38
+radio	Do you stop to think things over before doing anything?	1	9	"No, Yes"	"1,0"	SMS_39
+radio	Do you often overindulge in alcohol or food?	1	9	"No, Yes"	"0,1"	SMS_40
+radio	Do you ever have the urge to break or smash things?	1	9	"No, Yes"	"0,1"	SMS_41
+radio	Have you ever felt the urge to injure yourself?	1	9	"No, Yes"	"0,1"	SMS_42
+radio	Do you often feel like doing the opposite of what other people suggest even though you know they are right?	1	9	"No, Yes"	"0,1"	SMS_43
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	10			
