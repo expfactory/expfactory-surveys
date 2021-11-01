@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Competitiveness Index Revised (CI-R)",
+        "template":"survey",
+        "run": [
+                 "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
+                 "https://fonts.googleapis.com/icon?family=Material+Icons",
+                 "https://code.getmdl.io/1.1.1/material.blue-red.min.css",
+                 "style.css",
+                 "smoothness/jquery-ui-1.10.4.custom.min.css",
+                 "https://code.jquery.com/jquery-2.2.4.min.js",
+                 "https://code.getmdl.io/1.1.1/material.min.js",
+                 "jquery-ui-1.10.4.custom.min.js",
+                 "jquery.wizard.js",
+                 "https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.50/jquery.form.min.js",
+                 "https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.12.0/jquery.validate.min.js"
+               ],
+        "exp_id": "competitiveness_index_revised_survey",
+        "cognitive_atlas_task_id": "",
+        "contributors": [
+                         "Juan (Dethea) Du",
+                         "Aryaki Sethi",
+                         "Junghyun (Andy) Kim"
+                        ], 
+        "time": 2,
+        "experiment_variables": "",
+        "reference": ["Houston J, Harris P, McIntire S, Francis D. Revising the Competitiveness Index using factor analysis. Psychol Rep. 2002 Feb;90(1):31-4. doi: 10.2466/pr0.2002.90.1.31. PMID: 11899003."],
+        "notes": "",
+        "publish":"True",
+        "deployment_variables":{"material_design":
+                               {"fullscreen": true}
+                       }
+
+   }
+]
