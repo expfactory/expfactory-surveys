@@ -16,7 +16,7 @@
                  "https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.12.0/jquery.validate.min.js"
                ],
         "exp_id": "boredom_proneness_scale_survey",
-        "cognitive_atlas_task_id": "N/A",
+        "cognitive_atlas_task_id": "",
         "contributors": [
                          "Daniel Wilson",
                          "Aryaki Sethi",
