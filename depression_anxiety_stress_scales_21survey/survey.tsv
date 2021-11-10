@@ -1,3 +1,4 @@
+question_type	question_text	required	page_number	option_text	option_values
 instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1		
 instruction	Please read each statement and circle a number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past week. There are no right or wrong answers. Do not spend too much time on any statement.	0	2		
 radio	I found it hard to wind down. 	1	3	Did not apply to me at all:0, Applied to me to some degree, or some of the time:1, Applied to me to a considerable degree, or a good part of time: 2, Applied to me very much, or most of the time: 3	0,1,2,3
