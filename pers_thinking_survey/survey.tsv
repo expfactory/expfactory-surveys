@@ -1,0 +1,19 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	"In this questionnaire, you will be asked to describe how you typically think about negative experiences or problems. Please read the following statements and rate the extent to which they apply to you when you think about negative experiences or problems."	0	2			
+radio	The same thoughts keep going through my mind again and again. 	1	3	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_01
+radio	Thoughts intrude into my mind.	1	3	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_02
+radio	I can't stop dwelling on them.	1	3	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_03
+radio	I think about many problems without solving any of them.	1	3	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_04
+radio	I can't do anything else while thinking about my problems.	1	3	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_05
+radio	My thoughts repeat themselves. 	1	3	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_06
+radio	Thoughts come to my mind without me wanting them to. 	1	3	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_07
+radio	I get stuck on certain issues and can't move on.	1	3	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_08
+radio	I keep asking myself questions without finding an answer.	1	3	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_09
+radio	My thoughts prevent me from focusing on other things. 	1	3	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_10
+radio	I keep thinking about the same issue all the time. 	1	4	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_11
+radio	Thoughts just pop into my mind. 	1	4	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_12
+radio	I feel driven to continue dwelling on the same issue. 	1	4	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_13
+radio	My thoughts are not much help to me. 	1	4	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_14
+radio	My thoughts take up all my attention. 	1	4	"Never, Rarely, Sometimes, Often, Almost always"	"0,1,2,3,4"	pers_think_15
+instruction	Congratulations for completing this task! Press <strong>finish</strong> to continue.	0	6			
