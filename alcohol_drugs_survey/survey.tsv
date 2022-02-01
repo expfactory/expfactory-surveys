@@ -38,5 +38,4 @@ radio	Have you neglected your family because of your use of drugs?	1	6	"No, Yes"
 radio	Have you engaged in illegal activities in order to obtain drugs?	1	6	"No, Yes"	"0, 1"
 radio	Have you ever experienced withdrawal symptoms (felt sick) when you stopped taking drugs?	1	6	"No, Yes"	"0, 1"
 radio	"Have you had medical problems as a result of your drug use (e.g., memory loss, hepatitis, convulsions, bleeding, etc.)?"	1	6	"No, Yes"	"0, 1"
-radio	Are you currently taking any medication prescribed for anxiety or depression?	1	6	"No, Yes"	"0, 1"
 instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	7		

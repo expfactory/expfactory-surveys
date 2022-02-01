@@ -1,6 +1,6 @@
 [
     {
-        "name": "DSM-5 Level 1 Cross-Cutting Symptom Measure - Adult Report",
+        "name": "DSM 5 Level 1 Cross-Cutting Symptom Measure - Adult Report",
         "template":"survey",
         "run": [
                  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en",
@@ -16,7 +16,7 @@
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js",
                  "style.css"
                ],
-        "exp_id": "dsm-5_crosscutting_stanford_baseline",
+        "exp_id": "dsm5_crosscutting_stanford_baseline",
         "cognitive_atlas_task_id": "",
         "contributors": [
                          "Zeynep Enkavi",
