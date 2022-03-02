@@ -1,0 +1,13 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	Please answer the following questions regarding your demographics.	0	2			
+radio	What is your gender?	1	3	"Male,Female,Non-binary/third gender, Prefer not to answer"	"0,1,2,3"	demo_01
+radio	What is your biological sex?	1	3	"Male, Female, Intersex"	"0,1,2"	demo_02
+numeric	How old are you (in years)?	1	3			demo_03
+radio	Are you currently on medication?	1	3	"Yes, No, Prefer not to answer"	"1,0,3"	demo_05
+textfield	"If you answered YES, please give a list of medication(s) and the daily dosage for each medication you are taking"	0	3			demo_06
+textfield	"If you answered YES, please indicated when you started such medications"	0	3			demo_07
+radio	"Are you currently undergoing any other type of therapy (e.g., CBT or others)?"	1	3	"Yes, No, Prefer not to answer"	"1,0,3"	demo_08
+textfield	"If you answered YES, please indicate the type of therapy you are undergoing"	0	3			demo_09
+textfield	"If you answered YES, please indicated when you started such therapy"	0	3			demo_10
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6			
