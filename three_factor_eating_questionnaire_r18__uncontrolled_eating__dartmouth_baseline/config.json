@@ -16,7 +16,7 @@
                  "static/js/jquery/validate/jquery.validate-1.12.0.min.js",
                  "style.css"
                ],
-        "exp_id": "three_factor_eating_questionnaire_r18__uncontrolled_eating__dartmouth",
+        "exp_id": "three_factor_eating_questionnaire_r18__uncontrolled_eating__dartmouth_baseline",
         "cognitive_atlas_task_id": "trm_5696abecf2569",
         "contributors": [
                          "Zeynep Enkavi",
