@@ -1,0 +1,5 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	Please answer the following questions.	0	2			
+textfield	What is your unique Prolific ID? Please paste below:	1	2			prolific_id
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	3			
