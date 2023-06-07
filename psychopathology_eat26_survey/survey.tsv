@@ -1,0 +1,30 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	"Please answer the questions below as accurately, honestly and completely as possible. There are no right or wrong answers. "	0	2			
+radio	I am terrified about being overweight.	1	3	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_01
+radio	I avoid eating when I am hungry.	1	3	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_02
+radio	I find myself preoccupied with food.	1	3	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_03
+radio	I have gone on eating binges where I feel that I may not be able to stop.	1	3	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_04
+radio	I cut my food into small pieces.	1	3	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_05
+radio	I am aware of the calorie content of foods I eat.	1	3	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_06
+radio	I particularly avoid foods with high carbohydrate content.	1	4	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_07
+radio	I feel that others would prefer if I ate more.	1	4	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_08
+radio	I vomit after I have eaten. 	1	4	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_09
+radio	I feel extremely guilty after eating.	1	4	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_10
+radio	I am preoccupied with a desire to be thinner.	1	4	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_11
+radio	I think about burning up calories when I exercise.	1	4	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_12
+radio	Other people think that I am too thin.	1	5	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_13
+radio	I am preoccupied with the thought of having fat on my body.	1	5	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_14
+radio	I take longer than others to eat meals.	1	5	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_15
+radio	I avoid foods with sugar in them.	1	5	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_16
+radio	I eat diet foods.	1	5	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_17
+radio	I feel that food controls my life.	1	5	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_18
+radio	I display self-control around food.	1	6	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_19
+radio	I feel that others pressure me to eat.	1	6	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_20
+radio	I give too much time and thought to food.	1	6	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_21
+radio	I feel uncomfortable after eating sweets.	1	6	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_22
+radio	 I engage in dieting behaviour.	1	6	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_23
+radio	 I like my stomach to be empty.	1	6	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_24
+radio	 I enjoy trying new rich foods.	1	7	"Always, Usually, Often, Sometimes, Rarely, Never"	"0,0,0,1,2,3"	EAT_26_25
+radio	 I have the impulse to vomit after meals.	1	7	"Always, Usually, Often, Sometimes, Rarely, Never"	"3,2,1,0,0,0"	EAT_26_26
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	8			

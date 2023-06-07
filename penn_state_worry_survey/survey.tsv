@@ -1,0 +1,20 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	Choose the response that best describes how typical or characteristic each item is of you. 	0	2			
+radio	"If I do not have enough time to do everything, I do not worry about it."	1	3	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"5,4,3,2,1"	pswq_01
+radio	My worries overwhelm me.	1	3	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"1,2,3,4,5"	pswq_02
+radio	I do not tend to worry about things.	1	3	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"5,4,3,2,1"	pswq_03
+radio	Many situations make me worry.	1	3	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"1,2,3,4,5"	pswq_04
+radio	"I know I should not worry about things, but I just cannot help it."	1	3	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"1,2,3,4,5"	pswq_05
+radio	When I am under pressure I worry a lot.	1	3	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"1,2,3,4,5"	pswq_06
+radio	I am always worrying about something.	1	3	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"1,2,3,4,5"	pswq_07
+radio	I find it easy to dismiss worrisome thoughts.	1	3	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"5,4,3,2,1"	pswq_08
+radio	"As soon as I finish one task, I start to worry about everything else I have to do."	1	4	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"1,2,3,4,5"	pswq_09
+radio	I never worry about anything.	1	4	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"5,4,3,2,1"	pswq_10
+radio	"When there is nothing more I can do about a concern, I do not worry about it any more."	1	4	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"5,4,3,2,1"	pswq_11
+radio	I have been a worrier all my life	1	4	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"1,2,3,4,5"	pswq_12
+radio	I notice that I have been worrying about things.	1	4	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"1,2,3,4,5"	pswq_13
+radio	"Once I start worrying, I cannot stop."	1	4	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"1,2,3,4,5"	pswq_14
+radio	I worry all the time.	1	4	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"1,2,3,4,5"	pswq_15
+radio	I worry about projects until they are all done.	1	4	"Not at all <br>typical, Rarely  <br>typical of me, Somewhat  <br>typical of me, Often  <br>typical of me, Very  <br>typical of me"	"1,2,3,4,5"	pswq_16
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	5			

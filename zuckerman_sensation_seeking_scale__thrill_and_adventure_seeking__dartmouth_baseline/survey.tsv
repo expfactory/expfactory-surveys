@@ -1,0 +1,14 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>next</strong> to begin.	0	1		
+instruction	Please indicate which of the following scenarios you would prefer. (A) or (B)	0	2		
+radio	(A) I often wish I could be a mountain climber<br>(B) I can't understand people who risk their necks climbing mountains	1	3	A,B	1,2	zsssas3_bl
+radio	(A) A sensible person avoids activities that are dangerous<br>(B) I sometimes like to do things that are a little frightening	1	3	A,B	1,2	zsssas11_bl
+radio	(A) I would like to take up the sport of water skiing<br>(B) I would not like to take up water skiing	1	3	A,B	1,2	zsssas16_bl
+radio	(A) I would like to try surf boarding<br> (B) I would not like to try surf boarding	1	3	A,B	1,2	zsssas17_bl
+radio	(A) I would not like to learn to fly an airplane<br>(B) I would like to learn to fly an airplane	1	3	A,B	1,2	zsssas20_bl
+radio	(A) I prefer the surface of the water to the depths<br>(B) I would like to go scuba diving	1	3	A,B	1,2	zsssas21_bl
+radio	(A) I would like to try parachute jumping<br>(B) I would never want to try jumping out of a plane - with or without a parachute	1	3	A,B	1,2	zsssas23_bl
+radio	(A) I like to dive off the high board<br>(B) I don't like the feeling I get standing on the high board (or I don't go near it at all)	1	3	A,B	1,2	zsssas28_bl
+radio	(A) Sailing long distances in small sailing crafts is foolhardy<br>(B) I would like to sail a long distance in a small but seaworthy sailing craft	1	3	A,B	1,2	zsssas38_bl
+radio	(A) Skiing down a high mountain slope is a good way to end up on crutches<br>(B) I think I would enjoy the sensations of skiing very fast down a high mountain slope	1	3	A,B	1,2	zsssas40_bl
+instruction	Congratulations for completing this task!	0	6

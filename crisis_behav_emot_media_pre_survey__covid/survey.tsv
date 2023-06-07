@@ -1,0 +1,26 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	Please answer the following questions. During the THREE MONTHS PRIOR to the onset of the Coronavirus/COVID-19 crisis in your area: 	0	2			
+instruction	During the THREE MONTHS PRIOR to the onset of the Coronavirus/COVID-19 crisis in your area: 	0	3			
+radio	"… on average, what time did you go to bed on WEEKDAYS? "	1	3	"Before 9 pm, 9 pm-11 pm, 11 pm-1 am, After 1 am "	"1,2,3,4"	CRISIS_Q46
+radio	"… on average, what time did you go to bed on WEEKENDS? "	1	3	"Before 9 pm, 9 pm-11 pm, 11 pm-1 am, After 1 am "	"1,2,3,4"	CRISIS_Q47
+radio	"… on average, how many hours per night did you sleep on WEEKDAYS? "	1	3	"<6 hours, 6-8 hours, 8-10 hours, > 10 hours "	"1,2,3,4"	CRISIS_Q48
+radio	"… on average, how many hours per night did you sleep on WEEKENDS? "	1	3	"<6 hours, 6-8 hours, 8-10 hours, > 10 hours "	"1,2,3,4"	CRISIS_Q49
+radio	"… how many days per week did you exercise (e.g., increased  heart rate) for at least 30 minutes? "	1	3	"None, 1-2 days, 3-4 days, 5-6 days, Daily"	"1,2,3,4,5"	CRISIS_Q50
+radio	… how many days per week did you spend time outdoors?	1	3	"None, 1-2 days, 3-4 days, 5-6 days, Daily"	"1,2,3,4,5"	CRISIS_Q51
+instruction	During the THREE MONTHS PRIOR to the onset of the Coronavirus/COVID-19 crisis in your area: 	1	4			
+radio	… how worried were you generally?	1	4	"Not worried at all, Slightly worried, Moderately worried, Very worried, Extremely worried"	"0,1,2,3,4"	CRISIS_Q52
+radio	… how happy versus sad were you?	1	4	"Vert sad/depressed/unhappy, Moderately sad/depressed/unhappy, Neutral, Moderately happy/cheerful, Very happy/cheerful "	"0,1,2,3,4"	CRISIS_Q53
+radio	…  how much were you able to enjoy your usual activities? 	1	4	"Not at all, Slightly, Moderately,Very much, A lot"	"0,1,2,3,4"	CRISIS_Q54
+radio	… how relaxed versus anxious were you?	1	4	"Very relaxed/calm, Moderately relaxed/calm, Neutral, Moderately nervous/anxious, Very nervous/anxious"	"0,1,2,3,4"	CRISIS_Q55
+radio	… how fidgety or restless were you?	1	4	"Not fidgety/restless at all, Slightly fidgety/restless, Moderately fidgety/restless, Very fidgety/restless, Extremely fidgety/restless"	"0,1,2,3,4"	CRISIS_Q56
+radio	… how fatigued or tired were you?	1	4	"Not fatigued or tired at all, Slightly fatigued or tired , Moderately fatigued or tired, Vary fatigued or tired, Extremely fatigued or tired"	"0,1,2,3,4"	CRISIS_Q57
+radio	…  how well were you able to concentrate or focus?	1	4	"Very focused/attentive, Moderately focused/ attentive, Neutral, Moderately unfocused/distracted, Very unfocused/distracted"	"0,1,2,3,4"	CRISIS_Q58
+radio	…  how irritable or easily angered were you?	1	4	"Not irritable or easily angered at all, Slightly irritable or easily angered, Moderately irritable or easily angered, Very irritable or easily angered, Extremely irritable or easily angered"	"0,1,2,3,4"	CRISIS_Q59
+radio	… how lonely were you?	1	4	"Not lonely at all, Slightly loneley, Moderately loneley, Very lonely, Extremely lonely"	"0,1,2,3,4"	CRISIS_Q60
+radio	"… to what extent did you have negative thoughts, thoughts about unpleasant experiences or things that made you feel bad?"	1	4	"Not at all, Rarely, Occasionally, Often, A lot of the time"	"0,1,2,3,4"	CRISIS_Q61
+instruction	During the THREE MONTHS PRIOR to the onset of the Coronavirus/COVID-19 crisis in your area: 	1	5			
+radio	"… how much time per day did you spend watching TV or digital media (e.g., Netflix, YouTube, web surfing)? "	1	5	"No TV or digital media, Under 1 hour, 1-3 hours, 4-6 hours, More than 6 hours"	"0,1,2,3,4"	CRISIS_Q62
+radio	"… how much time per day did you spend using social media (e.g., Facetime, Facebook, Instagram, Snapchat, Twitter, TikTok)?"	1	5	"No social media, Under 1 hour, 1-3 hours, 4-6 hours, More than 6 hours"	"0,1,2,3,4"	CRISIS_Q63
+radio	"… how much time per day did you spend, playing video games?"	1	5	"No video games, Under 1 hour, 1-3 hours, 4-6 hours, More than 6 hours"	"0,1,2,3,4"	CRISIS_Q64
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6			

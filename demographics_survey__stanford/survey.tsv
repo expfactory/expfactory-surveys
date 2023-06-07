@@ -1,0 +1,46 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	Please answer the following questions regarding your demographics.	0	2			
+radio	What is your gender?	1	3	"Male,female,non-binary/third gender, prefer not to answer"	"0,1,2,3"	demographics_0
+radio	What is your biological sex? 	1	3	"male, female, intersex"	"0,1,2"	demographics_1
+numeric	How old are you (in years)?	1	3			demographics_2
+checkbox	What is your race?	1	3	"American Indian or Alaska Native,Asian,Black or African American,Native Hawaiian or Other Pacific Islander,White,Other (please specify)"	"1,2,3,4,5,6,7"	demographics_3
+textfield	If you chose 'Other' for racial  background how would you describe it?	0	3			demographics_4
+radio	"Are you of Hispanic, Latino or Spanish origin?"	1	3	"Yes, No"	"1,0"	demographics_5
+radio	What is the highest level of education you have completed?	1	3	"Did Not Complete High School, High School/GED, Some College, Bachelor's Degree, Master's Degree, Advanced Graduate work or Ph.D"	"1,2,3,4,5,6"	demographics_6
+instruction	"<font size=""2"">How tall are you (in feet and inches)?</font>"	0	3			demographics_7
+numeric	Feet:	1	3			demographics_8
+numeric	Inches:	1	3			demographics_9
+numeric	How much do you weigh (in pounds)?	1	3			demographics_10
+radio	What is your relationship status?	1	3	"Single,Married,In Committed Relationship"	"1,2,3"	demographics_11
+radio	How many times have you been divorced?	1	3	"0,1,2,3,4,5,More"	"0,1,2,3,4,5,6"	demographics_12
+instruction	"<font size=""2"">How long was/is your longest romantic relationship (in years and months)?</font>"	0	3			demographics_13
+numeric	Years:	1	3			demographics_14
+numeric	Months:	1	3			demographics_15
+radio	How many romantic relationships have you had?	1	3	"0,1,2,3,4,5-10,>10"	"1,2,3,4,5,6,7"	demographics_16
+radio	How many children do you have?	1	3	"0,1,2,3,4,5-10,>10"	"1,2,3,4,5,6,7"	demographics_17
+textfield	"If you menstruate, when was the date of your last period (please answer in the form [mm/dd/yyyy])? Put 'not menstruating', if you do not menstruate."	1	3			demographics_18
+numeric	"If you menstruate, what is the length in days of your typical cycle? Put 0, if you do not menstruate."	1	3			demographics_19
+radio	Are you taking any form of hormonal birth control?	1	3	"Yes,No"	"0,1"	demographics_20
+textfield	"If you chose 'Yes' for using hormonal birth control, which type are you using? (List brand and type if known):"	0	3			demographics_21
+numeric	What is your household's annual income (in US dollars)?	1	4			demographics_22
+radio	Do you have a retirement account?	1	4	"Yes,No"	"1,2"	demographics_23
+radio	If you do have a retirement account what percent is in stocks?	0	4	"<10%,10-19%,20-29%,30-39%,40-49%,50-59%,60-69%,70-79%,80-89%,90% or greater"	"1,2,3,4,5,6,7,8,9,10"	demographics_24
+radio	What is your housing status?	1	4	"own a home,rent a home/apartment,live with someone (no rent),residential/halfway house,shelter,no current home"	"1,2,3,4,5,6"	demographics_25
+radio	How much mortgage debt do you have?	1	4	"<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say"	"1,2,3,4,5,6,7,8, 0"	demographics_26
+radio	How much car-related debt do you have?	1	4	"<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say"	"1,2,3,4,5,6,7,8, 0"	demographics_27
+radio	How much education debt do you have?	1	4	"<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say"	"1,2,3,4,5,6,7,8, 0"	demographics_28
+radio	How much credit card debt do you have?	1	4	"<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say"	"1,2,3,4,5,6,7,8, 0"	demographics_29
+textfield	Please list any other sources of debt you have:	0	4			demographics_30
+radio	"If you listed any other sources of debt, how much debt do you have from these other sources?"	0	4	"<$500,$500-$2499,$2500-$9999,$10000-$24999,$25000-$49999,$50000-$99999,$100000-$199999,>$200000, Prefer Not To Say"	"1,2,3,4,5,6,7,8,0"	demographics_31
+numeric	"On average, how many cups of coffee do you have each day?"	1	5			demographics_32
+numeric	"On average, how many cups of tea do you have each day?"	1	5			demographics_33
+numeric	"On average, how many cans of caffeinated soda do you have each day?"	1	5			demographics_34
+numeric	What is your daily caffeine intake from other sources each day (in mg)?	1	5			demographics_35
+radio	Do you feel you have a problem with gambling?	1	5	"no, yes in the past but not now, yes"	"0,1,2"	demographics_36
+radio	How many traffic tickets have you gotten in the last year?	1	5	"0,1,2,3,4,5-10,>10"	"1,2,3,4,5,6,7"	demographics_37
+radio	How many traffic accidents have you been in over your life?	1	5	"0,1,2,3,4,5-10,>10"	"1,2,3,4,5,6,7"	demographics_38
+radio	How many times in your life have you been arrested and/or charged with illegal activities?	1	5	"0,1,2,3,4,5-10,>10"	"1,2,3,4,5,6,7"	demographics_39
+checkbox	What are your motivations for participating in this experiment?	1	5	"money,tasks are fun,want to contribute to research,other"	"1,2,3,4"	demographics_40
+textfield	"If you have other motivations, please list them. "	0	5			demographics_41
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	6			

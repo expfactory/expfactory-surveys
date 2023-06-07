@@ -1,0 +1,9 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1	
+instruction	Please answer the following questions.	0	2
+numeric	What has been your greatest weight since being at your current height? (For women who have been pregnant, please do not include a weight during pregnancy.)	1	3			greatest_weight
+radio	Are you currently on a diet to lose weight?	1	3	Yes,No	0,1	diet
+radio	Have you ever been in therapy with a clinician for binge eating that consisted of self-monitoring eating; examining thoughts; connecting thoughts, feelings, and behaviors; making behavior chains; mindfulness; relaxation skills (muscle relaxation, deep breathing); and/or problem solving?	1	3	Yes,No	0,1	eating_therapy_ever
+radio	[if yes to ever in therapy] How long ago did you last receive therapy?	0	3	Less than 6 months ago,6-12 months ago,more than one year but less than 5 years ago,5 or more years ago	0,1,2,3	eating_therapy_last
+radio	[if yes to ever in therapy] Did the therapy help you reduce your binge eating?	0	3	Yes,No	0,1	eating_therapy_help
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4

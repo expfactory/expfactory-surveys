@@ -1,0 +1,14 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	Please answer the following questions regarding your demographics.	0	2			
+radio	What is your gender?	1	3	"Male,Female,Non-binary/third gender, Prefer not to answer"	"0,1,2,3"	demo_01
+numeric	How old are you (in years)?	1	3			demo_02
+radio	What is the highest level of education you have completed?	1	3	"Did Not Complete High School, High School/GED, Some College, Bachelor's Degree, Master's Degree, Advanced Graduate work or Ph.D"	"1,2,3,4,5,6"	demo_03
+radio	Are you currently on medication? 	1	3	"Yes, No, Prefer not to answer"	"1,0,3"	demo_04
+textfield	"If you answered YES, please give a list of medication(s) and the daily dosage for each medication you are taking"	0	3			demo_05
+checkbox	Have you ever been given a diagnosis of or received treatment for any of the following psychiatric disorders?  (you can select more than one)	1	3	"ADHD, Alcohol Dependency, Anorexia Nervosa, Anxiety Disorder, Autism/Autism Spectrum Disorder, Borderline Personality Disorder, Bulimia, Drug Dependency, Depression, Manic-Depressive (bipolar) illness, Obsessive Compulsive Disorder, Schizophrenia, Other, None"	"1,2,3,4,5,6,7,8,9,10,11,12,13,14"	demo_06
+textfield	"If you answered OTHER, please describe: "	0	3			demo_07
+radio	Have you ever had a stroke? 	1	3	"Yes, No"	"1,0"	demo_08
+radio	"Have you been diagnosed with a neurological disease (e.g., epilepsy, Alzheimer, Parkinson)? "	1	3	"Yes, No"	"1,0"	demo_09
+radio	Are you an English Speaker? 	1	3	"Yes, No"	"1,0"	demo_10
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4			

@@ -1,0 +1,5 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	Please answer the following questions.	0	2			
+textfield	What is your current weight (in pounds)? Please make your best guess and enter a whole number (e.g. 187). Do NOT enter a range (e.g. 185-190) or an approximation (e.g. ~190).	1	3			weight
+instruction	Thank you for completing this survey! Press <strong>finish</strong> to continue.	0	6			

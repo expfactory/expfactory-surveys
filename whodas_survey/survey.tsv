@@ -1,0 +1,21 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	"This questionnaire asks about difficulties due to health conditions. Health conditions include diseases or illnesses, other health problems that may be short or long lasting, injuries, mental or emotional problems, and problems with alcohol or drugs.
+<br><br>Think back over the <u>past 30 days</u> and answer these questions, thinking about <u>how much difficulty you had doing the following activities.</u> <br><br>For each question, please select only one response"	0	2			
+instruction	"In the past 30 days, how much difficulty did you have in..."	0	3			
+radio	Standing for long periods such as 30 minutes? 	1	3	"None, Mild, Moderate, Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas_01
+radio	Taking care of your household responsibilities?	1	3	"None, Mild, Moderate, Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas_02
+radio	"Learning a new task, for example, learning how to get to a new place? "	1	3	"None, Mild, Moderate, Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas_03
+radio	"How much of a problem did you have in joining in community activities (for example, festivities, religious or other activities) in the same way as anyone else can?"	1	3	"None, Mild, Moderate, Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas_04
+radio	How much have you been emotionally affected by your health problems?	1	3	"None, Mild, Moderate, Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas_05
+radio	Concentrating on doing something for ten minutes?	1	3	"None, Mild, Moderate, Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas_06
+radio	Walking a long distance such as a kilometre (or equivalent)?	1	3	"None, Mild, Moderate, Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas_07
+radio	Washing your whole body? 	1	3	"None, Mild, Moderate, Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas_08
+radio	Getting dressed?	1	4	"None, Mild, Moderate, Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas_09
+radio	Dealing with people you do not know?	1	4	"None, Mild, Moderate, Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas_10
+radio	Maintaining a friendship?	1	4	"None, Mild, Moderate, Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas_11
+radio	Your day-to-day work?	1	4	"None, Mild, Moderate, Severe, Extreme or cannot do"	"1,2,3,4,5"	whodas_12
+numeric	"Overall, in the past 30 days, how many days were these difficulties present? (type number of days)"	1	4			
+numeric	"In the past 30 days, for how many days were you totally unable to carry out your usual activities or work because of any health condition?  (type number of days)"	1	4			
+numeric	"In the past 30 days, not counting the days that you were totally unable, for how many days did you cut back or reduce your usual activities or work because of any health condition? (type number of days)"	1	4			
+instruction	Congratulations for completing this task! Press <strong>finish</strong> to continue.	0	5			

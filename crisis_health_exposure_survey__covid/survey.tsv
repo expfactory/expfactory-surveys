@@ -1,0 +1,18 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1			
+instruction	Please answer the following questions. During the PAST TWO WEEKS:	0	2			
+checkbox	… have you been exposed to someone likely to have Coronavirus/COVID-19? (check all that apply)	1	3	"Yes someone with positive test, Yes someone with medical diagnosis but not test, Yes someone with possible symptoms but no diagnosis by doctor, Not to my knowledge"	"4,3,2,1"	CRISIS_Q19
+radio	… have you been suspected of having Coronavirus/COVID-19 infection?	1	3	"Yes has positive test, Yes medical diagnosis but no test, Yes have had some possible symptoms but no diagnosis by doctor, No symptoms or signs"	"4,3,2,1"	CRISIS_Q20
+checkbox	… have you had any of the following symptoms? (check all that apply)	1	3	"Fever, Cough, Shortness of breadth, Sore throat, Fatigue, Loss of taste of smell, Eye infection, Other "	"1,2,3,4,5,6,7,8"	CRISIS_Q21
+textfield	If you chose 'Other' please specify	0	3			
+checkbox	… has anyone in your family been diagnosed with Coronavirus/COVID-19?(check all that apply)	1	3	"Yes member of household, Yes non-household member, No"	"1,2,3"	CRISIS_Q22
+checkbox	… have any of the following happened to your family members because of Coronavirus/COVID-19? (check all that apply)	1	3	"Fallen ill physically, Hospitalized, Put into self-quranting with symptoms, Put into self-qurantine without symptoms, Lostor been laid off from job, Reduced ability to earn money, Passed away, None of the above"	"1,2,3,4,5,6,7,8"	CRISIS_Q23
+instruction	During the PAST TWO WEEKS: 	0	4			
+radio	… how worried have you been about being infected?	1	4	"Not at all, Slightly, Moderately, Very, Extremely"	"1,2,3,4,5"	CRISIS_Q24
+radio	… how worried have you been about friends or family being infected?	1	4	"Not at all, Slightly, Moderately, Very, Extremely"	"1,2,3,4,5"	CRISIS_Q25
+radio	… how worried have you been about your physical health being influenced by Coronavirus/COVID-19?	1	4	"Not at all, Slightly, Moderately, Very, Extremely"	"1,2,3,4,5"	CRISIS_Q26
+radio	… how worried have you been about your Mental/Emotional health being influenced by Coronavirus/COVID-19?	1	4	"Not at all, Slightly, Moderately, Very, Extremely"	"1,2,3,4,5"	CRISIS_Q27
+radio	"How much are you reading, or talking about Coronavirus/COVID-19?"	1	4	"Never, Rarely, Occasionally, Often, Most of the time "	"1,2,3,4,5"	CRISIS_Q28
+radio	Has the Coronavirus/COVID-19 crisis in your area led to any positive changes in your life?	1	4	"None, Only a few, Some "	"1,2,3"	CRISIS_Q29
+textfield	"If answered ""Only a few"" or ""Some""  to question ""Has the Coronavirus/COVID-19 crisis in your area led to any positive changes in your life?"" please specify:"	0	4			CRISIS_Q29a
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	5			

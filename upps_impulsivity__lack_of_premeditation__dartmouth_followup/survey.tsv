@@ -1,0 +1,15 @@
+question_type	question_text	required	page_number	option_text	option_values	variables
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1	
+instruction	In the following pages, you will be presented with a number of statements that describe ways in which people act and think. For each statement, please indicate how much you agree or disagree with the statement.	0	2		
+radio	I have a reserved and cautious attitude toward life.	1	3	Agree Strongly,Agree Some,Disagree Some,Disagree Strongly	1,2,3,4	uppsplop1_fu
+radio	My thinking is usually careful and purposeful.	1	3	Agree Strongly,Agree Some,Disagree Some,Disagree Strongly	1,2,3,4	uppsplop6_fu
+radio	I am not one of those people who blurt out things without thinking.	1	3	Agree Strongly,Agree Some,Disagree Some,Disagree Strongly	1,2,3,4	uppsplop11_fu
+radio	I like to stop and think things over before I do them.	1	3	Agree Strongly,Agree Some,Disagree Some,Disagree Strongly	1,2,3,4	uppsplop16_fu
+radio	I don't like to start a project until I know exactly how to proceed.	1	3	Agree Strongly,Agree Some,Disagree Some,Disagree Strongly	1,2,3,4	uppsplop21_fu
+radio	I tend to value and follow a rational, 'sensible' approach to things.	1	3	Agree Strongly,Agree Some,Disagree Some,Disagree Strongly	1,2,3,4	uppsplop28_fu
+radio	I usually make up my mind through careful reasoning.	1	3	Agree Strongly,Agree Some,Disagree Some,Disagree Strongly	1,2,3,4	uppsplop33_fu
+radio	I am a cautious person. 	1	3	Agree Strongly,Agree Some,Disagree Some,Disagree Strongly	1,2,3,4	uppsplop38_fu
+radio	Before I get into a new situation I like to find out what to expect from it.	1	3	Agree Strongly,Agree Some,Disagree Some,Disagree Strongly	4,3,2,1	uppsplop43_fu
+radio	I usually think carefully before doing anything.	1	3	Agree Strongly,Agree Some,Disagree Some,Disagree Strongly	1,2,3,4	uppsplop48_fu
+radio	Before making up my mind, I consider all the advantages and disadvantages.	1	3	Agree Strongly,Agree Some,Disagree Some,Disagree Strongly	1,2,3,4	uppsplop55_fu
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	7
